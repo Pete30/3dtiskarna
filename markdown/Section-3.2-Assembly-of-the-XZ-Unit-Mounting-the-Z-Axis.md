@@ -1,0 +1,147 @@
+---
+Title:       "Section 3.2 Assembly of the XZ Unit Mounting the Z Axis"
+Description: "Welcome to the i3 Berlin building manual"
+Tags:        [ "manual", "i3-berlin" ]
+date:        "2015-06-18"
+Authors:     "Bram de Vries"
+Slug:        "Section-3.2-Assembly-of-the-XZ-Unit-Mounting-the-Z-Axis"
+Prev:        "/manual_i3_berlin/section-3.1-assembly-of-the-xz-unit-mounting-the-x-axis"
+Next:        "/manual_i3_berlin/section-3.3-assembly-of-the-xz-unit-mounting-the-timing-belt"
+---
+
+
+<table>
+<col width="85%" />
+<col width="15%" />
+<tbody>
+<tr class="odd">
+<td align="left" rowspan="100"><p><img src="/media/Section_3_0011.png" alt="/media/Section_3_0011.png" /></p></td>
+<td align="left"><p><img src="/media/Section_1_0072.png" alt="/media/Section_1_0072.png" />1x Z-Motor Left</p></td>
+</tr>
+<tr class="even">
+<td align="left"><p><img src="/media/Section_1_0073.png" alt="/media/Section_1_0073.png" />1x Z-Motor Right</p></td>
+</tr>
+<tr class="odd">
+<td align="left"><p><img src="/media/Section_1_0101.png" alt="/media/Section_1_0101.png" />2x Nema 17 Threaded Stepper</p></td>
+</tr>
+<tr class="even">
+<td align="left"><p><img src="/media/Section_1_0019.png" alt="/media/Section_1_0019.png" />8x M3x10 Counter Sunk</p></td>
+</tr>
+</tbody>
+</table>
+
+-   Mount the motors onto the holders
+
+    -   It’s best to use a T8 screw driver. The hexagon might get round
+        if you use an allen key.
+
+-   Make sure the connector of the motor is at the back.
+
+<table>
+<col width="85%" />
+<col width="15%" />
+<tbody>
+<tr class="odd">
+<td align="left" rowspan="100"><p><img src="/media/Section_3_0012.png" alt="/media/Section_3_0012.png" /></p></td>
+<td align="left"><p><img src="/media/Section_1_0010.png" alt="/media/Section_1_0010.png" />1x XZ-Plate</p></td>
+</tr>
+<tr class="even">
+<td align="left"><p><img src="/media/Section_1_0034.png" alt="/media/Section_1_0034.png" />6x Torx 3x10 Screw</p></td>
+</tr>
+</tbody>
+</table>
+
+-   Mount the Z-Motors onto the XZ-Plate
+
+-   Mind the orientation of all parts.
+
+    -   The engraved logo should be on the front
+
+    -   The left side of the aluminium plate has more holes than the
+        right side.
+
+    -   Make sure that the connector of both motors is facing the
+        aluminium plate.
+
+-   Keep your aluminium free from scratches!
+
+<table>
+<col width="85%" />
+<col width="15%" />
+<tbody>
+<tr class="odd">
+<td align="left" rowspan="100"><p><img src="/media/Section_3_0013.png" alt="/media/Section_3_0013.png" /></p></td>
+<td align="left"><p><img src="/media/Section_1_0076.png" alt="/media/Section_1_0076.png" />1x Z-Top Left</p></td>
+</tr>
+<tr class="even">
+<td align="left"><p><img src="/media/Section_1_0077.png" alt="/media/Section_1_0077.png" />1x Z-Top Right</p></td>
+</tr>
+<tr class="odd">
+<td align="left"><p><img src="/media/Section_1_0080.png" alt="/media/Section_1_0080.png" />2x 8x320mm Smooth Rod</p></td>
+</tr>
+<tr class="even">
+<td align="left"><p><img src="/media/Section_1_0034.png" alt="/media/Section_1_0034.png" />2x Torx 3x10 Screw</p></td>
+</tr>
+<tr class="odd">
+<td align="left"><p><img src="/media/Section_1_0035.png" alt="/media/Section_1_0035.png" />2x Torx 3x16 Screw</p></td>
+</tr>
+<tr class="even">
+<td align="left"><p><img src="/media/Section_1_0110.png" alt="/media/Section_1_0110.png" />1x X-Motor Cover Acrylic</p></td>
+</tr>
+<tr class="odd">
+<td align="left"><p><img src="/media/Section_1_0111.png" alt="/media/Section_1_0111.png" />1x X-Idler Cover Acrylic</p></td>
+</tr>
+<tr class="even">
+<td align="left"><p><img src="/media/Section_1_0112.png" alt="/media/Section_1_0112.png" />2x Z-Motor Cover Acrylic</p></td>
+</tr>
+<tr class="odd">
+<td align="left"><p><img src="/media/Section_1_0113.png" alt="/media/Section_1_0113.png" />2x Z-Top Cover Acrylic</p></td>
+</tr>
+</tbody>
+</table>
+
+-   Put double sided tape on the shiny side of the Z Motor Covers, and
+    attach them to it.
+
+    -   Alternative to double sided tape is plastic glue. Use only a
+        little bit of it, so it is possible to remove the plate at some
+        point in the future in case it is necessary.
+
+-   Push the smooth rods into the Z-Motor holders.
+
+    -   If it goes to stiff, use a handdrill to turn them in. Do not use
+        a hammer.
+
+-   Place the X-Bridge onto the smooth rods. Mind that the little hook
+    on the X-Idler holder will be on the back side of the aliminium
+    plate.
+
+-   Carefully turn the ACME rods into the Nuts.
+
+-   Put double sided tape on the shiny side of the X-Motor Cover and the
+    X-Idler cover. Stick them onto the corresponding parts. The matt
+    side should be visible.
+
+-   Push the Z-Top parts onto the smooth rods.
+
+    -   Mind that the shiny side of the printed parts in on the top.
+
+-   Mount the top parts with the Torx screws. The long screws are in the
+    outer holes.
+
+-   Put double sided tape on the shiny side of the Z-Top part covers and
+    stick them onto the parts.
+
+<table>
+<col width="85%" />
+<col width="15%" />
+<tbody>
+<tr class="odd">
+<td align="left" rowspan="100"><p><img src="/media/Section_3_0014.png" alt="/media/Section_3_0014.png" /></p></td>
+<td align="left"></td>
+</tr>
+</tbody>
+</table>
+
+-   This is how the result looks like
+

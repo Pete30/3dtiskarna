@@ -1,0 +1,327 @@
+https://github.com/open3dengineering/i3_Berlin/wiki/Section-1.3-Preparing-Casings[Next]
+
+
+.Tools
+|=======================
+| image:http://cdn4.pcadvisor.co.uk/cmsdata/reviews/3465138/Photoshoot_220-Sony.jpg[width=150]  Normal Laptop with OSX, Linux or Windows 
+| image:http://1.bp.blogspot.com/-_EQFV8lcUAE/TwakkvXywhI/AAAAAAAAAEE/9lYf2dLuG2k/s320/Double_Open_End_Spanner.jpg[width=150] Open End Spanners sized 17mm/15mm/8mm 
+| image:http://www.wihatools.com/images/Bit_Sets/38028_bits_px500.jpg[width=150]  Torx 8 Screwdriver 
+| image:http://www.shafttech.com/images/stories/virtuemart/product/06773etc_4567mm.jpg[width=150]  Allen keys 1.5, 2.5, 3.0 and 6.0 mm
+| image:http://www.harborfreight.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/i/m/image_13110.jpg[width=150] Utility Knive
+| image:staticmedia/Longnose.jpeg[width=150] Long Nose Pliers
+| image:staticmedia/clipping.jpeg[width=150] Clipping Pliers
+| image:staticmedia/Calipers.jpeg[width=150] Calipers
+| image:staticmedia/ZapGlue.jpg[width=150] Zap Goo PT12 or UHU Allplast '*'
+| image:staticmedia/BlueScotch.jpeg[width=150] (Blue) Painters Tape '*'
+| image:staticmedia/kapton.jpeg[width=150] Kapton '*'
+|=======================
+
+'*' Included in the Workshop, NOT included in the Kit.
+
+This is the list of all the parts you will find in the box if you bought a kit or workshop through http://www.laydrop.com/en/[Laydrop]. A full Bill of Materials can be found https://github.com/open3dengineering/i3_Berlin/blob/master/BOM.csv[here]
+
+Tip: you can enlarge the images by right click and then view the image. 
+
+
+
+.Acrylic Parts	
+|=======================
+|□ image:media/Section_1_0129.png[width=150] +
+1x RUMBA Case Base |□ image:media/Section_1_0130.png[width=150] +
+1x RUMBA Case Bottom |□ image:media/Section_1_0133.png[width=150] +
+1x RUMBA Case Left Side	|□ image:media/Section_1_0139.png[width=150] +
+1x RUMBA Case Top |□ image:media/Section_1_0135.png[width=150] +
+1x RUMBA Case Right Side 
+|□ image:media/Section_1_0134.png[width=150] +
+1x Case Lid |□ image:media/Section_1_0134.png[width=114] +
+1x Display Case Base |□ image:media/Section_1_0114.png[width=150] +
+1x Display Case Left |□ image:media/Section_1_0115.png[width=150] +
+1x Display Case Back |□ image:media/Section_1_0118.png[width=150] +
+1x Display Case Front	
+|□ image:media/Section_1_0123.png[width=150] +
+1x Display Case Right |□ image:media/Section_1_0125.png[width=150] +
+1x Display Case Top Base |□ image:media/Section_1_0126.png[width=150] +
+1x Display Case Top Bottom |□ image:media/Section_1_0127.png[width=150] +
+1x Display Case Window |□ image:media/Section_1_0128.png[width=150] +
+1x Display Case Window	
+|□ image:media/Section_1_0128.png[width=150] +
+1x Display Case Top |□ image:media/Section_1_0142.png[width=150] +
+4x Display spacer |□ image:media/Section_1_0119.png[width=150] +
+1x Knob Base |□ image:media/Section_1_0124.png[width=150] +
+1x Knob Support |□ image:media/Section_1_0121.png[width=150] +
+1x Knob Rim	
+|□ image:media/Section_1_0120.png[width=150] +
+1x Knob Cushion |□ image:media/Section_1_0117.png[width=150] +
+2x Display Case Foot |□ image:media/Section_1_0108.png[width=150] +
+3x End-stop Cover Top |□ image:media/Section_1_0109.png[width=150] +
+3x End-stop Cover Rim |□ image:media/Section_1_0110.png[width=150] +
+1x X-Motor Cover Acrylic
+|□ image:media/Section_1_0111.png[width=150] +
+1x X-Idler Cover Acrylic |□ image:media/Section_1_0112.png[width=150] +
+2x Z-Motor Cover Acrylic |□ image:media/Section_1_0113.png[width=150] +
+2x Z-Top Cover Acrylic |□ image:media/Section_1_0074.png[width=150] +
+1x Z-Endstop Holder |□ image:media/Section_1_0145.png[width=150] +
+1x Cable Holder Cover
+|□ image:media/Section_1_0137.png[width=136] +
+1x RUMBA Case Inlet Side |□ image:media/Section_1_0149.png[width=150] +
+2x X-Idler Cover |   |   |   
+|=======================
+
+.Printed Parts Casings
+|=======================
+|□ image:media/Section_1_0131.png[width=150] +
+1x RUMBA Case Cable Inlet |□ image:media/Section_1_0132.png[width=150] +
+2x RUMBA Case Corner |□ image:media/Section_1_0140.png[width=150] +
+1x RUMBA Case FanHolder	|□ image:media/Section_1_0116.png[width=150] +
+1x Display Case Corner	
+|=======================
+
+.Printed Parts Y	
+|=======================
+|□ image:media/Section_1_0069.png[width=150] +
+1x Y-Middle Right |□ image:media/Section_1_0068.png[width=150] +
+1x Y-Middle Left |□ image:media/Section_1_0065.png[width=150] +
+1x Y-Front Left |□ image:media/Section_1_0067.png[width=150] +
+1x Y-Height Adjuster |□ image:media/Section_1_0066.png[width=150] +
+1x Y-Front Right
+|□ image:media/Section_1_0044.png[width=150] +
+2x Belt Guiding Disk|□ image:media/Section_1_0070.png[width=150] +
+1x Y-Motor mount |□ image:media/Section_1_0053.png[width=150] +
+1x Power Connector Cover |□ image:media/Section_1_0064.png[width=150] +
+1x Y-Back Left |□ image:media/Section_1_0071.png[width=150] +
+1x Y-Teeth
+|=======================
+
+.Printed Parts XZ	
+|=======================
+|□ image:media/Section_1_0060.png[width=150] +
+1x X-Motor |□ image:media/Section_1_0061.png[width=150] +
+1x X-Bearing Holder Left |□ image:media/Section_1_0059.png[width=150] +
+1x X-Idler |□ image:media/Section_1_0062.png[width=150] +
+1x X-Bearing Holder Right |□ image:media/Section_1_0058.png[width=150] +
+1x X-Carriage
+|□ image:media/Section_1_0063.png[width=150] +
+1x X-Teeth |□ image:media/Section_1_0072.png[width=150] +
+1x Z-Motor Left |□ image:media/Section_1_0073.png[width=150] +
+1x Z-Motor Right |□ image:media/Section_1_0044.png[width=150] +
+2x Belt Guiding Disk |□ image:media/Section_1_0076.png[width=150] +
+1x Z-Top Left
+|□ image:media/Section_1_0077.png[width=150] +
+1x Z-Top Right |   |   |   |
+|=======================
+
+.Printed Parts Extruder	
+|=======================
+|□ image:media/Section_1_0049.png[width=150] +
+1x Extruder Fan Holder |□ image:media/Section_1_0100.png[width=150] +
+1x Extruder Center Left |□ image:media/Section_1_0105.png[width=150] +
+1x Extruder Center Right |□ image:media/Section_1_0107.png[width=150] +
+2x E3D Fan Duct |
+|=======================
+
+.Printed Parts Wiring
+|=======================
+|□ image:media/Section_1_0054.png[width=150] +
+1x Power Supply Cover |□ image:media/Section_1_0050.png[width=150] +
+1x Active Cooling |□ image:media/Section_1_0045.png[width=150] +
+1x Cable Holder |□ image:media/Section_1_0138.png[width=150] +
+1x RUMBA Case Small Corner 
+|=======================
+
+.Frame	
+|=======================
+|□ image:media/Section_1_0011.png[width=150] +
+1x Back Plate |□ image:media/Section_1_0012.png[width=150] +
+1x Front Plate |□ image:media/Section_1_0013.png[width=150] +
+1x Y-Carriage |□ image:media/Section_1_0010.png[width=150] +
+1x XZ-Plate|□ image:media/Section_1_0014.png[width=150] +
+1x Extruder Base Plate
+|□ image:media/Section_1_0015.png[width=150] +
+1x Extruder Front Plate L |□ image:media/Section_1_0016.png[width=150] +
+1x Extruder Front Plate R |   |   | 
+|=======================
+
+.RUMBA Box
+|=======================
+|□ image:media/Section_1_0143.png[width=150] +
+1x RUMBA Board|□ image:media/Section_1_0018.png[width=150] +
+2x GT2 Pulley|□ image:media/Section_1_0141.png[width=150] +
+1x 40mm Fan |□ image:media/Section_1_0104.png[width=150] +
+4x M3x4 Set Screw |□ image:media/Section_1_0150.png[width=150] +
+1x Ceramic Screw Driver
+|=======================
+
+.Graphic LCD Box	
+|=======================
+|□ image:media/Section_1_0005.png[width=150] +
+1x Graphic LCD Controller |□ image:media/Section_1_0151.png[width=150] +
+1x SD Card|□ image:media/Section_4_0011b.png[width=150] +
+2x Flatband Cable
+|=======================
+
+.Endstop Box
+|=======================
+|□ image:media/Section_1_0006.png[width=150] +
+1x Hall-O Endstop |□ image:media/Section_1_0152.png[width=150] +
+6x Magnet
+|=======================
+
+.Rods Y
+|=======================
+|□ image:media/Section_1_0079.png[width=150] +
+2x M10 Threaded Rod |□ image:media/Section_1_0080.png[width=150] +
+2x Smooth Rod 8 x 385 
+|=======================
+
+.Rods XZ		
+|=======================
+|□ image:media/Section_1_0080.png[width=150] +
+1x 8mm x 400 Smooth Rod |□ image:media/Section_1_0080.png[width=150] +
+1x 8mm x 343 Smooth Rod |□ image:media/Section_1_0080.png[width=150] +
+2x 8x320mm Smooth Rod |□ image:media/Section_1_0101.png[width=150] +
+2x Nema 17 Threaded Stepper
+|=======================
+
+.Screws Y	
+|=======================
+|□ image:media/Section_1_0025.png[width=150] +
+8x M10 Washer |□ image:media/Section_1_0024.png[width=150] +
+8x M10 Spring Washer |□ image:media/Section_1_0023.png[width=150] +
+12x M10 Nut |□ image:media/Section_1_0022.png[width=150] +
+2x M10 Flange Nut |□ image:media/Section_1_0033.png[width=150] +
+4x Round Nut
+|□ image:media/Section_1_0032.png[width=150] +
+4x M4x10 Cylinder Screw |□ image:media/Section_1_0029.png[width=150] +
+1x M3x16 Cylinder Screw	|□ image:media/Section_1_0028.png[width=150] +
+3+1 M3x10 Cylinder Screw |□ image:media/Section_1_0035.png[width=150] +
+3x Torx 3x16 Screw |□ image:media/Section_1_0034.png[width=150] +
+2+1 Torx 3x10 Screw
+|□ image:media/Section_1_0026.png[width=150] +
+1+1 M3 Locknut |□ image:media/Section_1_0036.png[width=150] +
+1x 4h8x16 Dowel|□ image:media/Section_1_0001.png[width=150] +
+1x 624ZZ Bearing |□ image:media/Section_1_0103.png[width=150] + 
+1x Teethed Washer |□ image:media/Section_1_0154.png[width=150] + 
+1x Belt Tensioner
+|=======================
+
+.Screws XZ	
+|=======================	
+|□ image:media/Section_1_0032.png[width=150] +
+1x M4x10 Cylinder Screw	|□ image:media/Section_1_0028.png[width=150] +
+5+1 M3x10 Cylinder Screw |□ image:media/Section_1_0019.png[width=150] +
+8+1 M3x10 Counter Sunk |□ image:media/Section_1_0035.png[width=150] +
+6x Torx 3x16 Screw |□ image:media/Section_1_0034.png[width=150] +
+14+1 Torx 3x10 Screw
+|□ image:media/Section_1_0027.png[width=150] +
+5+1 M3 Washer |□ image:media/Section_1_0001.png[width=150] +
+1x 624ZZ Bearing |□ image:media/Section_1_0154.png[width=150] +
+1x Belt Tensioner  |   |
+|=======================
+
+.Screws	Wiring	
+|=======================
+|□ image:media/Section_1_0031.png[width=150] +
+2x M3x40 Cylinder Screw |□ image:media/Section_1_0028.png[width=150] +
+2x M3x10 Cylinder Screw |□ image:media/Section_1_0021.png[width=150] +
+3x M3x20 CounterSunk |□ image:media/Section_1_0026.png[width=150] +
+3x M3 Locknut |□ image:media/Section_1_0147.png[width=150] +
+3x M3 Knurled Nut
+|□ image:media/Section_1_0146.png[width=150] +
+3x Spring |□ image:media/Section_1_0144.png[width=150] +
+2x Spacers |   |   |
+|=======================
+		
+.Screws Extruder 		
+|=======================
+|□ image:media/Section_1_0029.png[width=150] +
+4x M3x20 Cylinder Screw |□ image:media/Section_1_0021.png[width=150] +
+6x M3x20 Counter Sunk |□ image:media/Section_1_0020.png[width=150] +
+2x M3x12 Counter Sunk |□ image:media/Section_1_0035.png[width=150] +
+8x Torx 3x16 Screw |□ image:media/Section_1_0106.png[width=150] +
+4x Extruder Spring 
+|□ image:media/Section_1_0036.png[width=150] +
+2x 4h8x16 Dowel |□ image:media/Section_1_0001.png[width=150] +
+2x 624ZZ Bearing |    |    |  
+|=======================
+
+.Hotend
+|=======================
+|□ image:media/Section_1_0104.png[width=150] +
+1x M3x3 Set Screw |□ image:media/Section_1_0104.png[width=150] +
+1x M3x4 Set Screw | □ image:media/Section_1_0099.png[width=150] +
+1x Filament Pulley |□ image:media/Section_1_0098.png[width=150] +
+1x E3D Cooler Body |□ image:media/Section_1_0096.png[width=150] +
+1x E3D Heat Break 
+|□ image:media/Section_1_0097.png[width=150] +
+1x E3D Heater Block |□ image:media/Section_1_0095.png[width=150] +
+1x E3D Nozzle |□ image:media/Section_1_0094.png[width=150] +
+1x Thermistor |□ image:media/Section_1_0153.png[width=150] +
+1x Thermistor insulation 5cm |
+|=======================
+
+
+.Electronics	
+|=======================
+|□ image:media/Section_1_0161.png[width=150] +
+2x Nema 17 48mm |□ image:media/Section_1_0017.png[width=150] +
+1or2 Nema 17 40mm |□ image:media/Section_1_0009.png[width=150] +
+1x Power Connector |□ image:media/Section_1_0089.png[width=150] +
+2x Glass Fuse |
+|=======================
+
+.Cables
+|=======================
+|□ image:media/Section_1_0084.png[width=150] +
+1x X Endstop 60cm |□ image:media/Section_1_0083.png[width=150] +
+1x X Motor 53cm |□ image:media/Section_1_0084.png[width=150] +
+1x Y Endstop 60cm |□ image:media/Section_1_0083.png[width=150] +
+1x Y Motor 55cm |□ image:media/Section_1_0084.png[width=150] +
+1x Z Endstop 65cm
+|□ image:media/Section_1_0083.png[width=150] +
+1x Z-Motor Serial |□ image:media/Section_1_0083.png[width=150] +
+1or2 Extruder Motor 100cm |□ image:media/Section_1_0085.png[width=150] +
+1or2 Extruder Thermistor 110cm |□ image:media/Section_1_0092.png[width=150] +
+1or2 Extruder Fan Passive 110cm |□ image:media/Section_1_0093.png[width=150] +
+1x Extruder Fan Active 100cm
+|□ image:media/Section_1_0091.png[width=150] +
+1or2 Extruder HeatCartridge 100cm |□ image:media/Section_1_0081.png[width=150] +
+1x PSU-Power 12V 44cm |□ image:media/Section_1_0082.png[width=150] +
+1x PSU-Power 220V 29cm |□ image:media/Section_1_0042.png[width=150] +
+1x Timing Belt-X 83,6cm |□ image:media/Section_1_0042.png[width=150] +
+1x Timing Belt-Y 72,8cm
+|□ image:media/Section_1_0155.png[width=150] +
+1x Braided Sleeve 39cm |□ image:media/Section_1_0155.png[width=150] +
+1x Braided Sleeve 54cm |□ image:media/Section_1_0155.png[width=150] +
+1x Braided Sleeve 50cm |□ image:media/Section_1_0155.png[width=150] +
+1x Braided Sleeve 31cm |□ image:media/Section_1_0155.png[width=150] +
+1x Braided Sleeve 74cm
+|□ image:media/Section_1_0162.png[width=150] +
+1x Power Cable |   |   |   |   
+|=======================
+
+.Filament Holder + Heatbed
+|=======================
+|□ image:media/Section_1_0148.png[width=150] +
+1x Mirror Clamp |□ image:media/Section_1_0156.png[width=150] +
+1x Filament Holder |□ image:media/Section_1_0001.png[width=150] +
+4x 624ZZ Bearing |□ image:media/Section_1_0157.png[width=150] +
+2x 4mm Rod |□ image:media/Section_1_0158.png[width=150] +
+1x Teflon pipe 1m
+|□ image:media/Section_1_0007.png[width=150] +
+1x Heatbed |□ image:media/Section_1_0037.png[width=150] +
+1x Mirror |□ image:media/Section_1_0163.png[width=150] +
+1x Power Supply Sticker |□ image:media/Section_1_0159.png[width=150] +
+5m Test Filament |
+|=======================
+
+.Other
+|=======================
+|□ image:media/Section_1_0008.png[width=150] +
+1x Power Supply |□ image:media/Section_1_0002.png[width=150] +
+10x LM8UU Linear Bearing |□ image:media/Section_1_0041.png[width=150] +
+50x Zipties |□ image:staticmedia/superglue.jpeg[width=150] +
+1x superglue
+|=======================
+
+
+https://github.com/open3dengineering/i3_Berlin/wiki/Section-1.3-Preparing-Casings[Next]

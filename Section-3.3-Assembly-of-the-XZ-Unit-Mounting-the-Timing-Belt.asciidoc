@@ -1,0 +1,98 @@
+https://github.com/open3dengineering/i3_Berlin/wiki/Section-3.4-Assembling-the-Extruder[Next]
+
+|====
+1.5+|image:media/Section_3_0015.png[width=450]|
+image:media/Section_1_0044.png[width=100] +
+2x Belt Guiding Disc
+|
+image:media/Section_1_0032.png[width=100] +
+1x M4x10 Cylinder Screw
+|
+image:media/Section_1_0001.png[width=100] +
+1x 624ZZ Bearing
+|
+image:media/Section_1_0042.png[width=100] +
+1x GT2 Timing Belt 836mm
+|
+image:media/Section_1_0154.png[width=100] +
+1x Belt Tensioner
+|====
+
+* Put the bearing onto the M4 screw with a Belt Guiding Disc on both sides
+** Make sure that the little notch of the discs is facing the bearing. The smooth surface is facing outwards.
+* Lead the timing belt throught the opening of the X-Idler holder.
+* Put the bearing assembly throught the loop
+* Pull it back into the X-Idler holder.
+** You just slide in the idler bearing with screw from the side. No need to screw anything, the tension of the belt will keep the bearing in its place.
+
+''''
+<<<
+
+
+|====
+|image:media/Section_3_0016.png[width=600]
+|====
+
+* Push one end of the timing belt into the teeth of the X-Axis
+* Lead the remaining long side through the opening underneath the Teeth.
+* Loosen the screws of the X-Motor a little bit, and slide the motor some millimeters in the direction of the X-Carriage.
+* Lead the timing belt over the motor pulley 
+* Lead it back into the direction of the X-Carriage.
+* Put the Belt Tensioner on the belt as shown.
+* Push the remaining end of the timing belt into the X-Teeth. 
+* Set the tension not too tight.
+* Tighten the timing belt by sliding the motor to the right and fix it again with its screws. 
+** If the belt moves up and down a little when you move the X-Carriage the belt is too loose
+** If the belt makes sound like a guitar string, it is too tight.
+* If the belt tensioner is (almost) straight as shown the tension is right.
+
+''''
+<<<
+
+|====
+1.7+|image:media/Section_3_0017.png[width=450]|
+image:media/Section_1_0074.png[width=100] +
+1x Z-Endstop Holder
+|
+image:media/Section_1_0108.png[width=100] +
+1x Endstop Cover Top
+|
+image:media/Section_1_0109.png[width=100] +
+1x Endstop Cover Rim
+|
+image:media/Section_1_0006.png[width=100] +
+1x Hall-O Endstop
+|
+image:media/Section_1_0034.png[width=100] +
+2x Torx 3x10 Screw
+|
+image:media/Section_1_0028.png[width=100] +
+2x M3x10 Screw
+|
+image:media/Section_1_0027.png[width=100] +
+2x M3 Washer
+
+|====
+
+* Mount the end-stop and with its cover onto the Z-Endstop holder with the Torx screws.
+** Be carefull to not tighten the screws too much.
+* Mount the Z-Endstop assembly onto the backside of the aluminium frame in the most upper position. 
+* Mount the Z-Endstop in the upper position as shown below. 
+
+|====
+|image:media/Section_3_0018.png[width=600]
+|====
+
+''''
+<<<
+
+|====
+1.1+|image:media/Section_3_0019.png[width=450]|
+image:media/Section_1_0165.png[width=100] +
+1x Rubber Strip
+|====
+
+* Put the rubber strip to the bottom of the XZ-Frame with some drips of super glue.
+
+
+https://github.com/open3dengineering/i3_Berlin/wiki/Section-3.4-Assembling-the-Extruder[Next]

@@ -1,0 +1,242 @@
+https://github.com/open3dengineering/i3_Berlin/wiki/Section-2-Assembly-of-the-Y-Unit[Next]
+
+https://github.com/open3dengineering/i3_Berlin/wiki/Section-1-Introduction[Section Menu]
+
+|====
+|image:media/Section_6_0008.png[width=600]
+|====
+
+You will start the assembly with glueing the casings for the RUMBA controller electronics and the display. Since the glue needs time to dry it's to best to have this done now. 
+
+Please don't use 1 second cyano-acrylat superglue for glueing the acrylic and printed parts, because they will probably cause ugly white stains.
+
+''''
+<<<<
+
+|====
+1.2+|image:media/Section_6_0001.png[width=450]|
+image:media/Section_1_0130.png[width=100] +
+1x RUMBA Case Bottom
+|
+image:media/Section_1_0131.png[width=100] +
+1x RUMBA Case Cable Inlet
+|====
+
+* Look for the RUMBA Case Bottom part in the bag of acrylic parts.
+** Remove the protective film on the shiny side of the acrylic.
+* The Cable Inlet can be found in the bag of printed parts. 
+* Stick the parts together in such a way that the printed part is flush with the engraved side of the acrylic part. 
+* If the parts are not fixed well, apply some plastic glue in the corners. 
+** Mind that the matt side of the acrylic is going to be the visual outside of the casing, so prevent glue stains here. 
+
+'''''
+<<<
+
+|====
+1.3+|image:media/Section_6_0003.png[width=450]|
+image:media/Section_1_0129.png[width=100] +
+1x RUMBA Case Base
+|
+image:media/Section_1_0133.png[width=100] +
+1x RUMBA Case Left Side
+|
+image:media/Section_1_0139.png[width=100] +
+1x RUMBA Case Top
+|====
+
+* Remove the protection film on the shiny side of the acrylic.
+** Leave the protection film of the matt side in place as much a possible to prevent scratches and glue stains.
+* Connect the parts as shown above with the shiny part on top.
+* Take a good look at the image. Apply a line of glue in such a way that it will always stay inside of the casing to prevent stains. 
+
+
+''''
+<<<
+
+|====
+1.1+|image:media/Section_6_0004.png[width=450]|
+image:media/Section_1_0135.png[width=100] +
+1x RUMBA Case Right Side
+|
+image:media/Section_1_0137.png[width=100] +
+1x RUMBA Case Side Top
+|====
+
+* Flip up the 3 sides as shown in the picture above, and push them well in place. 
+* Prepare a line of glue on the two left corners.
+* Remove the protective film of the acrylic parts.
+* Push in the small piece as shown.
+** Apply glue if necessary.
+* Put 3 lines of glue on the shiny side of the big part as preparation. 
+
+''''
+<<<<
+
+|====
+1.1+|image:media/Section_6_0005.png[width=450]|
+image:media/Section_1_0132.png[width=100] +
+2x RUMBA Case Corner
+|====
+
+* Put the Rigt Side of the case into position
+** It's done easiest to put the lower corner first and turn in the part in counter clockwise direction looking from the top. 
+* Slide in the 3D printed corners. 
+* Put extra glue into all the corners to secure strength.
+* Fix all the parts with some tape where needed and leave it to dry. 
+
+''''
+<<<<
+
+|====
+1.3+|image:media/Section_6_0006.png[width=450]|
+image:media/Section_1_0134.png[width=100] +
+1x RUMBA Case Lid
+|
+image:media/Section_1_0140.png[width=100] +
+1x RUMBA Case FanHolder
+|
+image:media/Section_1_0141.png[width=100] +
+1x 40mm Fan
+|====
+
+* Glue the FanHolder on the shiny side of the RUMBA Case Lid. 
+** Putting the fan first helps aliging the position of the fan holder
+** Note that the fan should NOT be glued to anything
+** The fan can be found in the box of the RAMPS electronics
+** Putting the sticker of the fan towards the outlet is recommended. Like that it will suck out are from the casing instead of blowing it in. An airstream like this reduces dust accumulations. 
+** You can leave the fan. 
+* The casing is now finished. The remaining parts will be glued later in the wiring section. 
+
+''''
+<<<<
+
+|====
+1.5+|image:media/Section_6_0010.png[width=450]|
+image:media/Section_1_0114.png[width=100] +
+1x Display Case Base
+|
+image:media/Section_1_0122.png[width=100] +
+1x Display Case Left
+|
+image:media/Section_1_0115.png[width=100] +
+1x Display Case Back
+|
+image:media/Section_1_0118.png[width=100] +
+1x Display Case Front
+|
+image:media/Section_1_0123.png[width=100] +
+1x Display Case Right
+|====
+
+* Remove the protective film from the shiny side of the acrylic parts.
+** It's best to leave the protective film on the matt side.
+* Put them together as shown above.
+* Apply a line of glue on the exact place as shown above.
+
+''''
+<<<<
+
+|====
+1.1+|image:media/Section_6_0011.png[width=450]|
+image:media/Section_1_0116.png[width=100] +
+1x Display Case Corner
+|====
+
+* Flip up the sides. 
+* Put in the corner and glue it
+* Apply some extra glue in the inner corners of the case to secure strength
+* Put tape where needed and let the case dry. 
+
+''''
+<<<<
+
+|====
+1.2+|image:media/Section_6_0012.png[width=450]|
+image:media/Section_1_0125.png[width=100] +
+1x Display Case Top Base
+|
+image:media/Section_1_0126.png[width=100] +
+1x Display Case Top Bottom
+|====
+
+* Remove all the protective films, but leave the film on the matt side of the Top Bottom part. 
+* Glue the two parts together, take care of alignment.
+
+''''
+<<<<
+
+|====
+1.2+|image:media/Section_6_0013.png[width=450]|
+image:media/Section_1_0127.png[width=100] +
+1x Display Case Window
+|
+image:media/Section_1_0128.png[width=100] +
+1x Display Case Top
+|====
+
+* Remove only the protective film from the shiny side of the top part
+* Put the window part without glueing it.
+* Glue the top part to the base, take care of the alignment.
+* Remove the protective film from one side of the window part and glue it to the base.
+* Double check alignment of all the parts and leave it to dry. 
+
+''''
+<<<<
+
+|====
+1.2+|image:media/Section_6_0014.png[width=450]|
+image:media/Section_1_0005.png[width=100] +
+1x Graphic LCD Controller
+|
+image:media/Section_1_0142.png[width=100] +
+4x Display spacer
+|====
+
+* The following steps should only be done when the glue is dry, some hours after the previous step.
+* Put the Display Spacers onto the display. 
+* Slide the Display into the casing as shown below.
+* Close the casing with the lid, but don't glue it. 
+
+|====
+|image:media/Section_6_0015.png[width=450]
+|====
+
+''''
+<<<<
+
+|====
+1.4+|image:media/Section_6_0016.png[width=450]|
+image:media/Section_1_0119.png[width=100] +
+1x Knob Base
+|
+image:media/Section_1_0124.png[width=100] +
+1x Knob Support
+|
+image:media/Section_1_0121.png[width=100] +
+1x Knob Rim
+|
+image:media/Section_1_0120.png[width=100] +
+1x Knob Cushion
+|====
+
+* Put the Rim onto the Base and apply some little drips of 1 second super glue to the inner corner. 
+** Make sure that you don't leave glue stains
+* Glue the Support to the Base with some drips of 1 second super glue
+* Glue the Cushion to the Support with super glue.
+
+''''
+<<<<
+
+|====
+1.2+|image:media/Section_6_0017.png[width=450]|
+image:media/Section_1_0117.png[width=100] +
+2x Display Case Foot
+|====
+
+* Push the Knob onto the shaft of the Display Controller.
+* Push the feet into the casing. Apply plastic glue if necessary.
+
+That's it for this section. In the next section you will start mounting the Y-Axis.
+
+
+https://github.com/open3dengineering/i3_Berlin/wiki/Section-2-Assembly-of-the-Y-Unit[Next]

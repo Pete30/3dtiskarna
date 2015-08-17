@@ -1,0 +1,70 @@
+https://github.com/open3dengineering/i3_Berlin/wiki/Section-5-Calibration[Next]
+
+|====
+1.4+|image:media/Section_4_0041.png[width=450]|
+image:media/Section_1_0007.png[width=100] +
+1x Heatbed
+|
+image:media/Section_1_0148.png[width=100] +
+1x Mirror Clamp
+|
+image:media/Section_1_0021.png[width=100] +
+3x M3x20 CounterSunk
+|
+image:media/Section_1_0026.png[width=100] +
+3x Lock Nut
+|====
+
+* Mount the Mirror Clamp onto the Heatbed with the screws and nuts.
+** The matt side is mounted on top.
+* Tighten the nuts until the head of the screws is being pulled smoothly into the material of the mirror clamp. 
+
+''''
+<<<<
+
+|====
+1.1+|image:media/Section_4_0042.png[width=450]|
+image:media/Section_1_0041.png[width=100] +
+1x Ziptie
+|====
+
+* Hold the heatbed on the left side of the y-carriage as shown in the picture above
+* Fix the braided sleeve of the heatbed cable to the back of the y-carriage with a zip tie
+* Lay down the heatbed and organize the cable so that the wires are neatly underneath the heatbed. 
+
+
+''''
+<<<<
+
+
+|====
+1.2+|image:media/Section_4_0043.png[width=450]|
+image:media/Section_1_0147.png[width=100] +
+3x M3 Knurled Nut
+|
+image:media/Section_1_0146.png[width=100] +
+3x Spring
+|====
+
+* Put the springs over the screws.
+* Tighten them with the knurled nuts.
+* The adjusting of the heatbed happens in the next chapter so don't bother about it now.
+
+''''
+<<<<
+
+|====
+1.2+|image:media/Section_4_0044.png[width=350]|
+image:media/Section_4_0045.png[width=200] +
+Heatbed Thermistor Connection
+|
+image:media/Section_4_0046.png[width=200] +
+Heatbed Power Connection
+|====
+
+* Connect the heatbed to the RUMBA
+** Fix the cable in such a way that it does not obstruct the movement of the Y-Axis. 
+** Probably the cable runs smoothest if guided between the M10 rod and the smooth rod. 
+** Experiment with how to fix the cable with zipties for optimal movement. 
+
+https://github.com/open3dengineering/i3_Berlin/wiki/Section-5-Calibration[Next]
