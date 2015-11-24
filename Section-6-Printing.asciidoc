@@ -1,3 +1,0 @@
-https://github.com/open3dengineering/i3_Berlin/wiki/Section-6.1-Cura[Section 6.1]: Cura +
-https://github.com/open3dengineering/i3_Berlin/wiki/Section-6.2-Kisslicer[Section 6.2]: Kisslicer +
-https://github.com/open3dengineering/i3_Berlin/wiki/Section-6.3-Dual-Printing[Section 6.3]: Dual Printing +
