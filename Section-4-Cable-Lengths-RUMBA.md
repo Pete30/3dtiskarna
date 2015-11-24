@@ -1,14 +1,3 @@
----
-Title:       "Section 4 Cable Lengths RUMBA"
-Description: "Welcome to the i3 Berlin building manual"
-Tags:        [ "manual", "i3-berlin" ]
-date:        "2015-11-24"
-Authors:     "Bram de Vries"
-Slug:        "Section-4-Cable-Lengths-RUMBA"
-Prev:        "/manual_i3_berlin/section-3.4-assembling-the-extruder"
-Next:        "/manual_i3_berlin/section-4-wiring"
----
-
 <table>
 <caption>Cable Lengths</caption>
 <colgroup>

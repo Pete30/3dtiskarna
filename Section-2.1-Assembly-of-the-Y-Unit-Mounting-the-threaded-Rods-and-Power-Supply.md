@@ -1,16 +1,7 @@
----
-Title:       "Section 2.1 Assembly of the Y Unit Mounting the threaded Rods and Power Supply"
-Description: "Welcome to the i3 Berlin building manual"
-Tags:        [ "manual", "i3-berlin" ]
-date:        "2015-11-24"
-Authors:     "Bram de Vries"
-Slug:        "Section-2.1-Assembly-of-the-Y-Unit-Mounting-the-threaded-Rods-and-Power-Supply"
-Prev:        "/manual_i3_berlin/section-2-assembly-of-the-y-unit"
-Next:        "/manual_i3_berlin/section-2.2-assembly-of-the-y-unit-mounting-the-front-and-back-plate"
----
+[Next](https://github.com/open3dengineering/i3_Berlin/wiki/Section-2.2-Assembly-of-the-Y-Unit-Mounting-the-Front-and-Back-Plate)
 
-
-[Section Menu](/manual_i3_berlin/section-2-assembly-of-the-y-unit)
+[Section
+Menu](https://github.com/open3dengineering/i3_Berlin/wiki/Section-2-Assembly-of-the-Y-Unit)
 
 <table>
 <colgroup>
@@ -19,24 +10,24 @@ Next:        "/manual_i3_berlin/section-2.2-assembly-of-the-y-unit-mounting-the-
 </colgroup>
 <tbody>
 <tr class="odd">
-<td align="left"><p><img src="/media/Section_2_0002.png" alt="/media/Section_2_0002.png" /></p></td>
-<td align="left"><p><img src="/media/Section_1_0079.png" alt="/media/Section_1_0079.png" /><br />
+<td align="left"><p><img src="media/Section_2_0002.png" alt="media/Section_2_0002.png" /></p></td>
+<td align="left"><p><img src="media/Section_1_0079.png" alt="media/Section_1_0079.png" /><br />
  1x M10 Threaded Rod</p></td>
 </tr>
 <tr class="even">
-<td align="left"><p><img src="/media/Section_1_0069.png" alt="/media/Section_1_0069.png" /><br />
+<td align="left"><p><img src="media/Section_1_0069.png" alt="media/Section_1_0069.png" /><br />
  1x Y-Middle Right</p></td>
 </tr>
 <tr class="odd">
-<td align="left"><p><img src="/media/Section_1_0025.png" alt="/media/Section_1_0025.png" /><br />
+<td align="left"><p><img src="media/Section_1_0025.png" alt="media/Section_1_0025.png" /><br />
  2x M10 Washer</p></td>
 </tr>
 <tr class="even">
-<td align="left"><p><img src="/media/Section_1_0024.png" alt="/media/Section_1_0024.png" /><br />
+<td align="left"><p><img src="media/Section_1_0024.png" alt="media/Section_1_0024.png" /><br />
  2x M10 Spring Washer</p></td>
 </tr>
 <tr class="odd">
-<td align="left"><p><img src="/media/Section_1_0023.png" alt="/media/Section_1_0023.png" /><br />
+<td align="left"><p><img src="media/Section_1_0023.png" alt="media/Section_1_0023.png" /><br />
  2x M10 Nut</p></td>
 </tr>
 </tbody>
@@ -50,7 +41,8 @@ Next:        "/manual_i3_berlin/section-2.2-assembly-of-the-y-unit-mounting-the-
 
 -   and two nuts on both sides.
 
--   Do not make the nuts tight yet. Leave about 5cm place between the nuts.
+-   Do not make the nuts tight yet. Leave about 5cm place between
+    the nuts.
 
 <table>
 <colgroup>
@@ -59,28 +51,30 @@ Next:        "/manual_i3_berlin/section-2.2-assembly-of-the-y-unit-mounting-the-
 </colgroup>
 <tbody>
 <tr class="odd">
-<td align="left"><p><img src="/media/Section_2_0003.png" alt="/media/Section_2_0003.png" /></p></td>
-<td align="left"><p><img src="/media/Section_1_0025.png" alt="/media/Section_1_0025.png" /><br />
+<td align="left"><p><img src="media/Section_2_0003.png" alt="media/Section_2_0003.png" /></p></td>
+<td align="left"><p><img src="media/Section_1_0025.png" alt="media/Section_1_0025.png" /><br />
  2x M10 Washer</p></td>
 </tr>
 <tr class="even">
-<td align="left"><p><img src="/media/Section_1_0024.png" alt="/media/Section_1_0024.png" /><br />
+<td align="left"><p><img src="media/Section_1_0024.png" alt="media/Section_1_0024.png" /><br />
  2x M10 Spring Washer</p></td>
 </tr>
 <tr class="odd">
-<td align="left"><p><img src="/media/Section_1_0023.png" alt="/media/Section_1_0023.png" /><br />
+<td align="left"><p><img src="media/Section_1_0023.png" alt="media/Section_1_0023.png" /><br />
  4x M10 Nut</p></td>
 </tr>
 <tr class="even">
-<td align="left"><p><img src="/media/Section_1_0022.png" alt="/media/Section_1_0022.png" /><br />
+<td align="left"><p><img src="media/Section_1_0022.png" alt="media/Section_1_0022.png" /><br />
  1x M10 Flange Nut</p></td>
 </tr>
 </tbody>
 </table>
 
--   Mount a nut, spring washer, washer and flange nut to the threaded rod for later mounting the XZ plate.
+-   Mount a nut, spring washer, washer and flange nut to the threaded
+    rod for later mounting the XZ plate.
 
--   Also put an M10 nut on both ends for later mounting the front and back-plate.
+-   Also put an M10 nut on both ends for later mounting the front
+    and back-plate.
 
 -   Do not make anything tight yet.
 
@@ -90,16 +84,18 @@ Next:        "/manual_i3_berlin/section-2.2-assembly-of-the-y-unit-mounting-the-
 </colgroup>
 <tbody>
 <tr class="odd">
-<td align="left"><p><img src="/media/Section_2_0004.png" alt="/media/Section_2_0004.png" /></p></td>
+<td align="left"><p><img src="media/Section_2_0004.png" alt="media/Section_2_0004.png" /></p></td>
 </tr>
 </tbody>
 </table>
 
--   The power-supply mount is about 18 centimeters from the front side of the rod.
+-   The power-supply mount is about 18 centimeters from the front side
+    of the rod.
 
 -   The flange is about 26 centimeters from the front.
 
--   Don’t make this precise, measurements are just for reference for easier assembly later on.
+-   Don’t make this precise, measurements are just for reference for
+    easier assembly later on.
 
 <table>
 <colgroup>
@@ -108,28 +104,28 @@ Next:        "/manual_i3_berlin/section-2.2-assembly-of-the-y-unit-mounting-the-
 </colgroup>
 <tbody>
 <tr class="odd">
-<td align="left"><p><img src="/media/Section_2_0005.png" alt="/media/Section_2_0005.png" /></p></td>
-<td align="left"><p><img src="/media/Section_1_0079.png" alt="/media/Section_1_0079.png" /><br />
+<td align="left"><p><img src="media/Section_2_0005.png" alt="media/Section_2_0005.png" /></p></td>
+<td align="left"><p><img src="media/Section_1_0079.png" alt="media/Section_1_0079.png" /><br />
  1x M10 Threaded Rod</p></td>
 </tr>
 <tr class="even">
-<td align="left"><p><img src="/media/Section_1_0068.png" alt="/media/Section_1_0068.png" /><br />
+<td align="left"><p><img src="media/Section_1_0068.png" alt="media/Section_1_0068.png" /><br />
  1x Y-Middle Left</p></td>
 </tr>
 <tr class="odd">
-<td align="left"><p><img src="/media/Section_1_0025.png" alt="/media/Section_1_0025.png" /><br />
+<td align="left"><p><img src="media/Section_1_0025.png" alt="media/Section_1_0025.png" /><br />
  4x M10 Washer</p></td>
 </tr>
 <tr class="even">
-<td align="left"><p><img src="/media/Section_1_0024.png" alt="/media/Section_1_0024.png" /><br />
+<td align="left"><p><img src="media/Section_1_0024.png" alt="media/Section_1_0024.png" /><br />
  4x M10 Spring Washer</p></td>
 </tr>
 <tr class="odd">
-<td align="left"><p><img src="/media/Section_1_0023.png" alt="/media/Section_1_0023.png" /><br />
+<td align="left"><p><img src="media/Section_1_0023.png" alt="media/Section_1_0023.png" /><br />
  6x M10 Nut</p></td>
 </tr>
 <tr class="even">
-<td align="left"><p><img src="/media/Section_1_0022.png" alt="/media/Section_1_0022.png" /><br />
+<td align="left"><p><img src="media/Section_1_0022.png" alt="media/Section_1_0022.png" /><br />
  1x M10 Flange Nut</p></td>
 </tr>
 </tbody>
@@ -137,7 +133,8 @@ Next:        "/manual_i3_berlin/section-2.2-assembly-of-the-y-unit-mounting-the-
 
 -   Do the same for the left-hand rod.
 
--   Make sure that the orientation of the plastic parts is correct. The arrows should be pointing upwards.
+-   Make sure that the orientation of the plastic parts is correct. The
+    arrows should be pointing upwards.
 
 <table>
 <colgroup>
@@ -146,24 +143,24 @@ Next:        "/manual_i3_berlin/section-2.2-assembly-of-the-y-unit-mounting-the-
 </colgroup>
 <tbody>
 <tr class="odd">
-<td align="left"><p><img src="/media/Section_2_0006.png" alt="/media/Section_2_0006.png" /></p></td>
-<td align="left"><p><img src="/media/Section_1_0065.png" alt="/media/Section_1_0065.png" /><br />
+<td align="left"><p><img src="media/Section_2_0006.png" alt="media/Section_2_0006.png" /></p></td>
+<td align="left"><p><img src="media/Section_1_0065.png" alt="media/Section_1_0065.png" /><br />
  1x Y-Front Left</p></td>
 </tr>
 <tr class="even">
-<td align="left"><p><img src="/media/Section_1_0067.png" alt="/media/Section_1_0067.png" /><br />
+<td align="left"><p><img src="media/Section_1_0067.png" alt="media/Section_1_0067.png" /><br />
  1x Y-Height Adjuster</p></td>
 </tr>
 <tr class="odd">
-<td align="left"><p><img src="/media/Section_1_0029.png" alt="/media/Section_1_0029.png" /><br />
+<td align="left"><p><img src="media/Section_1_0029.png" alt="media/Section_1_0029.png" /><br />
  1x M3x16 Cylinder Screw</p></td>
 </tr>
 <tr class="even">
-<td align="left"><p><img src="/media/Section_1_0026.png" alt="/media/Section_1_0026.png" /><br />
+<td align="left"><p><img src="media/Section_1_0026.png" alt="media/Section_1_0026.png" /><br />
  1x M3 Locknut</p></td>
 </tr>
 <tr class="odd">
-<td align="left"><p><img src="/media/Section_1_0160.png" alt="/media/Section_1_0160.png" /><br />
+<td align="left"><p><img src="media/Section_1_0160.png" alt="media/Section_1_0160.png" /><br />
  1x How screws are measured</p></td>
 </tr>
 </tbody>
@@ -175,9 +172,11 @@ Next:        "/manual_i3_berlin/section-2.2-assembly-of-the-y-unit-mounting-the-
 
 -   Push the screw and nut into the slots of the plastic parts
 
-    -   Make sure the hexagon of the screw is reachable through the hole in the Height adjuster
+    -   Make sure the hexagon of the screw is reachable through the hole
+        in the Height adjuster
 
-    -   Later this assembly will enable you to adjust the height of the smooth rod
+    -   Later this assembly will enable you to adjust the height of the
+        smooth rod
 
 <table>
 <colgroup>
@@ -186,28 +185,30 @@ Next:        "/manual_i3_berlin/section-2.2-assembly-of-the-y-unit-mounting-the-
 </colgroup>
 <tbody>
 <tr class="odd">
-<td align="left"><p><img src="/media/Section_2_0007.png" alt="/media/Section_2_0007.png" /></p></td>
-<td align="left"><p><img src="/media/Section_1_0066.png" alt="/media/Section_1_0066.png" /><br />
+<td align="left"><p><img src="media/Section_2_0007.png" alt="media/Section_2_0007.png" /></p></td>
+<td align="left"><p><img src="media/Section_1_0066.png" alt="media/Section_1_0066.png" /><br />
  1x Y-Front Right</p></td>
 </tr>
 <tr class="even">
-<td align="left"><p><img src="/media/Section_1_0001.png" alt="/media/Section_1_0001.png" /><br />
+<td align="left"><p><img src="media/Section_1_0001.png" alt="media/Section_1_0001.png" /><br />
  1x 624 Bearing</p></td>
 </tr>
 <tr class="odd">
-<td align="left"><p><img src="/media/Section_1_0036.png" alt="/media/Section_1_0036.png" /><br />
+<td align="left"><p><img src="media/Section_1_0036.png" alt="media/Section_1_0036.png" /><br />
  1x 4hx16 Dowel</p></td>
 </tr>
 <tr class="even">
-<td align="left"><p><img src="/media/Section_1_0044.png" alt="/media/Section_1_0044.png" /><br />
+<td align="left"><p><img src="media/Section_1_0044.png" alt="media/Section_1_0044.png" /><br />
  2x Belt Guiding Disk</p></td>
 </tr>
 </tbody>
 </table>
 
--   Put the bearing with the two belt guiding discs into the slot of the front right Y-Corner.
+-   Put the bearing with the two belt guiding discs into the slot of the
+    front right Y-Corner.
 
--   Make sure the little notch of the discs is on the inside and the shiny side is point outwards.
+-   Make sure the little notch of the discs is on the inside and the
+    shiny side is point outwards.
 
 -   Slide in the dowel to fix the assembly.
 
@@ -218,7 +219,7 @@ Next:        "/manual_i3_berlin/section-2.2-assembly-of-the-y-unit-mounting-the-
 </colgroup>
 <tbody>
 <tr class="odd">
-<td align="left"><p><img src="/media/Section_2_0029.png" alt="/media/Section_2_0029.png" /></p></td>
+<td align="left"><p><img src="media/Section_2_0029.png" alt="media/Section_2_0029.png" /></p></td>
 <td align="left"></td>
 </tr>
 </tbody>
@@ -233,8 +234,8 @@ Next:        "/manual_i3_berlin/section-2.2-assembly-of-the-y-unit-mounting-the-
 </colgroup>
 <tbody>
 <tr class="odd">
-<td align="left"><p><img src="/media/Section_2_0008.png" alt="/media/Section_2_0008.png" /></p></td>
-<td align="left"><p><img src="/media/Section_1_0032.png" alt="/media/Section_1_0032.png" /><br />
+<td align="left"><p><img src="media/Section_2_0008.png" alt="media/Section_2_0008.png" /></p></td>
+<td align="left"><p><img src="media/Section_1_0032.png" alt="media/Section_1_0032.png" /><br />
  4x M4x10</p></td>
 </tr>
 </tbody>
@@ -252,10 +253,12 @@ Next:        "/manual_i3_berlin/section-2.2-assembly-of-the-y-unit-mounting-the-
 </colgroup>
 <tbody>
 <tr class="odd">
-<td align="left"><p><img src="/media/Section_2_0009.png" alt="/media/Section_2_0009.png" /></p></td>
+<td align="left"><p><img src="media/Section_2_0009.png" alt="media/Section_2_0009.png" /></p></td>
 </tr>
 </tbody>
 </table>
 
-Great you now completed the first step of the assembly. Go on with the next step.
+Great you now completed the first step of the assembly. Go on with the
+next step.
 
+[Next](https://github.com/open3dengineering/i3_Berlin/wiki/Section-2.2-Assembly-of-the-Y-Unit-Mounting-the-Front-and-Back-Plate)
