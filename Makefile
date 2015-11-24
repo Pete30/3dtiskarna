@@ -29,7 +29,7 @@ markdown:
 	# convert asciidoc to docbook 
 	for i in $$(ls S*); do asciidoc --backend=docbook --out-file markdown/$${i%.$(ASCIIDOC_SUFF)}.xml $$i ; done
 	# convert docbook to strict markdown
-	for i in $$(ls S*); do pandoc --chapter -f docbook -t markdown_strict -o markdown/$${i%.$(ASCIIDOC_SUFF)}.tmp markdown/$${i%.$(ASCIIDOC_SUFF)}.xml && rm markdown/$${i%.$(ASCIIDOC_SUFF)}.xml ; done
+	for i in $$(ls S*); do pandoc --chapter -f docbook -t markdown_github -o markdown/$${i%.$(ASCIIDOC_SUFF)}.tmp markdown/$${i%.$(ASCIIDOC_SUFF)}.xml && rm markdown/$${i%.$(ASCIIDOC_SUFF)}.xml ; done
 	# fix image links and remove next link
 	for i in $$(ls markdown/S*); do sed -e 's/staticmedia/media/g' -e 's/https:\/\/github.com\/open3dengineering\/i3_Berlin\/wiki/\/manual_i3_berlin/g' -e 's/manual_i3_berlin.*/\L&/g' -e 's/media/\/media/g' -e '/\[Next\]/d' -e '/\[Next/d' -e '/Section\]/d' < $$i > $${i%.$(TMP_SUFF)}.md && mv $${i%.$(TMP_SUFF)}.md $$i ; done
 	# add hugo header
