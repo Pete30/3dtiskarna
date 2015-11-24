@@ -1,4 +1,4 @@
-[Next](https://github.com/open3dengineering/i3_Berlin/wiki/Section-4.7-Wiring-the-Extruder)
+[Next](https://github.com/laydrop/i3_Berlin/wiki/Section-4.7-Wiring-the-Extruder)
 
 -   Connect the display.
 
@@ -24,4 +24,4 @@
 
 -   Now the firmware should upload, and after a minute or so you see a message on the display.
 
-[Next](https://github.com/open3dengineering/i3_Berlin/wiki/Section-4.7-Wiring-the-Extruder)
+[Next](https://github.com/laydrop/i3_Berlin/wiki/Section-4.7-Wiring-the-Extruder)

@@ -1,4 +1,4 @@
-[Next](https://github.com/open3dengineering/i3_Berlin/wiki/Section-5.2-Calibrating-the-Y-Axis)
+[Next](https://github.com/laydrop/i3_Berlin/wiki/Section-5.2-Calibrating-the-Y-Axis)
 
 You have almost finished building your printer. Now we will test if all the connections are correct.
 
@@ -98,4 +98,4 @@ You have almost finished building your printer. Now we will test if all the conn
 </tbody>
 </table>
 
-[Next](https://github.com/open3dengineering/i3_Berlin/wiki/Section-5.2-Calibrating-the-Y-Axis)
+[Next](https://github.com/laydrop/i3_Berlin/wiki/Section-5.2-Calibrating-the-Y-Axis)

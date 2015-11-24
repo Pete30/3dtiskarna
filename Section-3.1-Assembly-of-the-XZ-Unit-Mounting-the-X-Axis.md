@@ -1,4 +1,4 @@
-[Next](https://github.com/open3dengineering/i3_Berlin/wiki/Section-3.2-Assembly-of-the-XZ-Unit-Mounting-the-Z-Axis)
+[Next](https://github.com/laydrop/i3_Berlin/wiki/Section-3.2-Assembly-of-the-XZ-Unit-Mounting-the-Z-Axis)
 
 <table>
 <colgroup>
@@ -270,4 +270,4 @@
 
     -   If it goes stiff make a light twisting movement with you hands while you push the plastic parts more and more together.
 
-[Next](https://github.com/open3dengineering/i3_Berlin/wiki/Section-3.2-Assembly-of-the-XZ-Unit-Mounting-the-Z-Axis)
+[Next](https://github.com/laydrop/i3_Berlin/wiki/Section-3.2-Assembly-of-the-XZ-Unit-Mounting-the-Z-Axis)

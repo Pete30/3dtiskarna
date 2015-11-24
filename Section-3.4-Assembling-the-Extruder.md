@@ -1,4 +1,4 @@
-[Next](https://github.com/open3dengineering/i3_Berlin/wiki/Section-4-Wiring)
+[Next](https://github.com/laydrop/i3_Berlin/wiki/Section-4-Wiring)
 
 <table>
 <colgroup>
@@ -352,4 +352,4 @@ Finally it is time to build the extruder. The design of the extruder is made to 
 
 -   Mount the fan duct in front of the hotends with the torx screws
 
-[Next](https://github.com/open3dengineering/i3_Berlin/wiki/Section-4-Wiring)
+[Next](https://github.com/laydrop/i3_Berlin/wiki/Section-4-Wiring)

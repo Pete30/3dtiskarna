@@ -1,4 +1,4 @@
-[Next](https://github.com/open3dengineering/i3_Berlin/wiki/Section-4.2-Wiring-the-Z-Unit)
+[Next](https://github.com/laydrop/i3_Berlin/wiki/Section-4.2-Wiring-the-Z-Unit)
 
 <table>
 <colgroup>
@@ -171,4 +171,4 @@
 
     -   Mind the polarity of the wires!
 
-[Next](https://github.com/open3dengineering/i3_Berlin/wiki/Section-4.2-Wiring-the-Z-Unit)
+[Next](https://github.com/laydrop/i3_Berlin/wiki/Section-4.2-Wiring-the-Z-Unit)

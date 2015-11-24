@@ -1,4 +1,4 @@
-[Next](https://github.com/open3dengineering/i3_Berlin/wiki/Section-4.4-Wiring-the-X-Axis)
+[Next](https://github.com/laydrop/i3_Berlin/wiki/Section-4.4-Wiring-the-X-Axis)
 
 <table>
 <colgroup>
@@ -60,4 +60,4 @@
 
     -   If the colorscheme of your motor cable is red grey yellow green, the red one goes up.
 
-[Next](https://github.com/open3dengineering/i3_Berlin/wiki/Section-4.4-Wiring-the-X-Axis)
+[Next](https://github.com/laydrop/i3_Berlin/wiki/Section-4.4-Wiring-the-X-Axis)

@@ -1,6 +1,6 @@
-[Next](https://github.com/open3dengineering/i3_Berlin/wiki/Section-1.2-Tools-and-Parts)
+[Next](https://github.com/laydrop/i3_Berlin/wiki/Section-1.2-Tools-and-Parts)
 
-[Section Menu](https://github.com/open3dengineering/i3_Berlin/wiki/Section-1-Introduction)
+[Section Menu](https://github.com/laydrop/i3_Berlin/wiki/Section-1-Introduction)
 
 It all started with [Adrian Bowyer](http://adrianbowyer.net/), professor at the university of Bath in the UK. He felt inspired by a much older idea of the universal constructor, a theoretical machine by the mathematician [John von Nuemann](http://en.wikipedia.org/wiki/Von_Neumann_universal_constructor) just after WW2. This machine could reproduce itself and look for it´s own raw materials and take care of it´s own transport. Bowyer´s machine didn´t have to be that complicated, if it could only make half of it´s own parts it would already be a breakthrough.
 
@@ -91,4 +91,4 @@ We, as Open 3d Engineering started to host workshops in building the Prusa i3 in
 
 We, nor Josef Prusa, nor Adrian Bowyer could have done anything without the vibrant RepRap community. We like to end this little history lesson to thank the RepRap community on the IRC and on the reprap.org website. The fantastic blogs of [RichRap](http://richrap.blogspot.de/) and [Nophead](http://hydraraptor.blogspot.de/). The editors of the [Reprap magazine](http://reprapmagazine.com/). And most of all the software developers like [Kliment Yanev](https://www.youtube.com/watch?v=sr-ASAqxiJg), [Alessandro Ranellucci](http://slic3r.org/), [Erik van der Zalm](http://reprap.org/wiki/Marlin), the Arduino community and many many others. Thank you!
 
-[Next](https://github.com/open3dengineering/i3_Berlin/wiki/Section-1.2-Tools-and-Parts)
+[Next](https://github.com/laydrop/i3_Berlin/wiki/Section-1.2-Tools-and-Parts)
