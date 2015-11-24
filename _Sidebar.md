@@ -1,4 +1,5 @@
-\#\# i3 Berlin [**1 Introduction**](https://github.com/laydrop/i3-Berlin/wiki/Section-1-Introduction)
+##i3 Berlin 
+ [**1 Introduction**](https://github.com/laydrop/i3-Berlin/wiki/Section-1-Introduction)
  [1.1](https://github.com/laydrop/i3-Berlin/wiki/Section-1.1-History): History
  [1.2](https://github.com/laydrop/i3-Berlin/wiki/Section-1.2-Tools-and-Parts): Tools and Parts
  [1.3](https://github.com/laydrop/i3-Berlin/wiki/Section-1.3-Preparing-Casings): Preparing the Casings
