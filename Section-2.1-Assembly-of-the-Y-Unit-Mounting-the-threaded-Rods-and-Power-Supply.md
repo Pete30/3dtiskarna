@@ -1,6 +1,6 @@
-[Next](https://github.com/laydrop/i3_Berlin/wiki/Section-2.2-Assembly-of-the-Y-Unit-Mounting-the-Front-and-Back-Plate)
+[Next](https://github.com/laydrop/i3-Berlin/wiki/Section-2.2-Assembly-of-the-Y-Unit-Mounting-the-Front-and-Back-Plate)
 
-[Section Menu](https://github.com/laydrop/i3_Berlin/wiki/Section-2-Assembly-of-the-Y-Unit)
+[Section Menu](https://github.com/laydrop/i3-Berlin/wiki/Section-2-Assembly-of-the-Y-Unit)
 
 <table>
 <colgroup>
@@ -249,4 +249,4 @@
 
 Great you now completed the first step of the assembly. Go on with the next step.
 
-[Next](https://github.com/laydrop/i3_Berlin/wiki/Section-2.2-Assembly-of-the-Y-Unit-Mounting-the-Front-and-Back-Plate)
+[Next](https://github.com/laydrop/i3-Berlin/wiki/Section-2.2-Assembly-of-the-Y-Unit-Mounting-the-Front-and-Back-Plate)

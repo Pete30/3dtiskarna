@@ -1,6 +1,6 @@
-[Next](https://github.com/laydrop/i3_Berlin/wiki/Section-3-Assembly-of-the-XZ-Unit)
+[Next](https://github.com/laydrop/i3-Berlin/wiki/Section-3-Assembly-of-the-XZ-Unit)
 
-[Section Menu](https://github.com/laydrop/i3_Berlin/wiki/Section-2-Assembly-of-the-Y-Unit)
+[Section Menu](https://github.com/laydrop/i3-Berlin/wiki/Section-2-Assembly-of-the-Y-Unit)
 
 <table>
 <colgroup>
@@ -154,4 +154,4 @@
 
 -   Put the rubber feet in the designated slots of the lower corners.
 
-[Next](https://github.com/laydrop/i3_Berlin/wiki/Section-3-Assembly-of-the-XZ-Unit)
+[Next](https://github.com/laydrop/i3-Berlin/wiki/Section-3-Assembly-of-the-XZ-Unit)

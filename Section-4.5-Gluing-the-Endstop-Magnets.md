@@ -1,4 +1,4 @@
-[Next](https://github.com/laydrop/i3_Berlin/wiki/Section-4.6-Uploading-Firmware)
+[Next](https://github.com/laydrop/i3-Berlin/wiki/Section-4.6-Uploading-Firmware)
 
 <table>
 <colgroup>
@@ -88,4 +88,4 @@
 
 -   Check if the endstop works correctly.
 
-[Next](https://github.com/laydrop/i3_Berlin/wiki/Section-4.6-Uploading-Firmware)
+[Next](https://github.com/laydrop/i3-Berlin/wiki/Section-4.6-Uploading-Firmware)

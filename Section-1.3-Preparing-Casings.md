@@ -1,6 +1,6 @@
-[Next](https://github.com/laydrop/i3_Berlin/wiki/Section-2-Assembly-of-the-Y-Unit)
+[Next](https://github.com/laydrop/i3-Berlin/wiki/Section-2-Assembly-of-the-Y-Unit)
 
-[Section Menu](https://github.com/laydrop/i3_Berlin/wiki/Section-1-Introduction)
+[Section Menu](https://github.com/laydrop/i3-Berlin/wiki/Section-1-Introduction)
 
 <table>
 <colgroup>
@@ -364,4 +364,4 @@ Please don’t use 1 second cyano-acrylat superglue for glueing the acrylic and 
 
 That’s it for this section. In the next section you will start mounting the Y-Axis.
 
-[Next](https://github.com/laydrop/i3_Berlin/wiki/Section-2-Assembly-of-the-Y-Unit)
+[Next](https://github.com/laydrop/i3-Berlin/wiki/Section-2-Assembly-of-the-Y-Unit)

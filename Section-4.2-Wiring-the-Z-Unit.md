@@ -1,4 +1,4 @@
-[Next](https://github.com/laydrop/i3_Berlin/wiki/Section-4.3-Wiring-the-Y-Unit)
+[Next](https://github.com/laydrop/i3-Berlin/wiki/Section-4.3-Wiring-the-Y-Unit)
 
 <table>
 <colgroup>
@@ -88,4 +88,4 @@
 
     -   If the motor wires are red grey yellow green put the red wire on top.
 
-[Next](https://github.com/laydrop/i3_Berlin/wiki/Section-4.3-Wiring-the-Y-Unit)
+[Next](https://github.com/laydrop/i3-Berlin/wiki/Section-4.3-Wiring-the-Y-Unit)

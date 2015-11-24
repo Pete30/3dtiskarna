@@ -1,4 +1,4 @@
-[Next](https://github.com/laydrop/i3_Berlin/wiki/Section-6-Printing)
+[Next](https://github.com/laydrop/i3-Berlin/wiki/Section-6-Printing)
 
 -   The mirror should be well adjusted to the nozzle.
 
@@ -72,7 +72,7 @@
 </tbody>
 </table>
 
--   As a last check up check the front and back left corner. If there is a big difference you should repeat [Calibrating the Y-Axis](https://github.com/laydrop/i3_Berlin/wiki/Section-5.2-Calibrating-the-Y-Axis) again or try to solve it with the paper trick.
+-   As a last check up check the front and back left corner. If there is a big difference you should repeat [Calibrating the Y-Axis](https://github.com/laydrop/i3-Berlin/wiki/Section-5.2-Calibrating-the-Y-Axis) again or try to solve it with the paper trick.
 
 <table>
 <colgroup>
@@ -87,4 +87,4 @@
 
 -   This calibration should be best done before every print.
 
-[Next](https://github.com/laydrop/i3_Berlin/wiki/Section-6-Printing)
+[Next](https://github.com/laydrop/i3-Berlin/wiki/Section-6-Printing)

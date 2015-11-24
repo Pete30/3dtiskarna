@@ -1,4 +1,4 @@
-[Next](https://github.com/laydrop/i3_Berlin/wiki/Section-6.2-Cura)
+[Next](https://github.com/laydrop/i3-Berlin/wiki/Section-6.2-Cura)
 
 <table>
 <colgroup>
@@ -48,4 +48,4 @@
 
 -   Put the filament holder at a convenient position. Put the filament role on top of the rods. Put the filament through the hole in de holder and through the Teflon pipe.
 
-[Next](https://github.com/laydrop/i3_Berlin/wiki/Section-6.2-Cura)
+[Next](https://github.com/laydrop/i3-Berlin/wiki/Section-6.2-Cura)

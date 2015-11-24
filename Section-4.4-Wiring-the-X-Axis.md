@@ -1,4 +1,4 @@
-[Next](https://github.com/laydrop/i3_Berlin/wiki/Section-4.5-Gluing-the-Endstop-Magnets)
+[Next](https://github.com/laydrop/i3-Berlin/wiki/Section-4.5-Gluing-the-Endstop-Magnets)
 
 <table>
 <colgroup>
@@ -39,4 +39,4 @@
 
 -   This is a temporary connection, you will make it nice in a minute.
 
-[Next](https://github.com/laydrop/i3_Berlin/wiki/Section-4.5-Gluing-the-Endstop-Magnets)
+[Next](https://github.com/laydrop/i3-Berlin/wiki/Section-4.5-Gluing-the-Endstop-Magnets)

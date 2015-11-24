@@ -1,4 +1,4 @@
-[Next](https://github.com/laydrop/i3_Berlin/wiki/Section-2-Assembly-of-the-Y-Unit)
+[Next](https://github.com/laydrop/i3-Berlin/wiki/Section-2-Assembly-of-the-Y-Unit)
 
 **About RepRap**
 
@@ -6,11 +6,11 @@ Welcome to this i3 Berlin building manual. Throughout this manual we are going t
 
 But before we start doing anything we want to explain you the power and principles of open hardware, which we will illustrate with a brief history of the RepRap project.
 
-Picture of i3 Berlin [Section 1.1](https://github.com/laydrop/i3_Berlin/wiki/Section-1.1-History): The History of the RepRap project
+Picture of i3 Berlin [Section 1.1](https://github.com/laydrop/i3-Berlin/wiki/Section-1.1-History): The History of the RepRap project
 
-[Section 1.2](https://github.com/laydrop/i3_Berlin/wiki/Section-1.2-Tools-and-Parts): The Tools and Parts you need to build an i3 Berlin
+[Section 1.2](https://github.com/laydrop/i3-Berlin/wiki/Section-1.2-Tools-and-Parts): The Tools and Parts you need to build an i3 Berlin
 
-[Section 1.3](https://github.com/laydrop/i3_Berlin/wiki/Section-1.3-Preparing-Casings): The building starts with gluing the electronics cases
+[Section 1.3](https://github.com/laydrop/i3-Berlin/wiki/Section-1.3-Preparing-Casings): The building starts with gluing the electronics cases
 
 **i3 Berlin Design overview**
 
@@ -18,4 +18,4 @@ Picture of i3 Berlin [Section 1.1](https://github.com/laydrop/i3_Berlin/wiki/Sec
 
 Our *i3 Berlin* has further improved the ease of assembly. We made the looks more consistent and clean. We also added some extra functionality like easy folding mechanism, display and electronics casing. What you cannot see from the pictures is the effort we put in debugging the mechanical parts. We have tested the parts over and over again, so we are really sure that everything fits seamlessly.
 
-[Next](https://github.com/laydrop/i3_Berlin/wiki/Section-2-Assembly-of-the-Y-Unit)
+[Next](https://github.com/laydrop/i3-Berlin/wiki/Section-2-Assembly-of-the-Y-Unit)

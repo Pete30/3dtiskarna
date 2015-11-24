@@ -1,6 +1,6 @@
-[Next](https://github.com/laydrop/i3_Berlin/wiki/Section-2.3-Assembly-of-the-Y-Unit-Mounting-the-Y-Carriage-and-Timing-Belt)
+[Next](https://github.com/laydrop/i3-Berlin/wiki/Section-2.3-Assembly-of-the-Y-Unit-Mounting-the-Y-Carriage-and-Timing-Belt)
 
-[Section Menu](https://github.com/laydrop/i3_Berlin/wiki/Section-2-Assembly-of-the-Y-Unit)
+[Section Menu](https://github.com/laydrop/i3-Berlin/wiki/Section-2-Assembly-of-the-Y-Unit)
 
 <table>
 <colgroup>
@@ -275,4 +275,4 @@ The result looks like this:
 
 -   If you are having difficulties to make the unit straight try what happens when you loosen the M4 screw on the Power Supply, make the unit straight and fix it again.
 
-[Next](https://github.com/laydrop/i3_Berlin/wiki/Section-2.3-Assembly-of-the-Y-Unit-Mounting-the-Y-Carriage-and-Timing-Belt)
+[Next](https://github.com/laydrop/i3-Berlin/wiki/Section-2.3-Assembly-of-the-Y-Unit-Mounting-the-Y-Carriage-and-Timing-Belt)
