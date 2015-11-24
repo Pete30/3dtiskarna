@@ -30,11 +30,9 @@
 </tbody>
 </table>
 
--   Put the bearing onto the M4 screw with a Belt Guiding Disc on both
-    sides
+-   Put the bearing onto the M4 screw with a Belt Guiding Disc on both sides
 
-    -   Make sure that the little notch of the discs is facing
-        the bearing. The smooth surface is facing outwards.
+    -   Make sure that the little notch of the discs is facing the bearing. The smooth surface is facing outwards.
 
 -   Lead the timing belt throught the opening of the X-Idler holder.
 
@@ -42,9 +40,7 @@
 
 -   Pull it back into the X-Idler holder.
 
-    -   You just slide in the idler bearing with screw from the side. No
-        need to screw anything, the tension of the belt will keep the
-        bearing in its place.
+    -   You just slide in the idler bearing with screw from the side. No need to screw anything, the tension of the belt will keep the bearing in its place.
 
 <table>
 <colgroup>
@@ -59,11 +55,9 @@
 
 -   Push one end of the timing belt into the teeth of the X-Axis
 
--   Lead the remaining long side through the opening underneath
-    the Teeth.
+-   Lead the remaining long side through the opening underneath the Teeth.
 
--   Loosen the screws of the X-Motor a little bit, and slide the motor
-    some millimeters in the direction of the X-Carriage.
+-   Loosen the screws of the X-Motor a little bit, and slide the motor some millimeters in the direction of the X-Carriage.
 
 -   Lead the timing belt over the motor pulley
 
@@ -75,16 +69,13 @@
 
 -   Set the tension not too tight.
 
--   Tighten the timing belt by sliding the motor to the right and fix it
-    again with its screws.
+-   Tighten the timing belt by sliding the motor to the right and fix it again with its screws.
 
-    -   If the belt moves up and down a little when you move the
-        X-Carriage the belt is too loose
+    -   If the belt moves up and down a little when you move the X-Carriage the belt is too loose
 
     -   If the belt makes sound like a guitar string, it is too tight.
 
--   If the belt tensioner is (almost) straight as shown the tension
-    is right.
+-   If the belt tensioner is (almost) straight as shown the tension is right.
 
 <table>
 <colgroup>
@@ -124,13 +115,11 @@
 </tbody>
 </table>
 
--   Mount the end-stop and with its cover onto the Z-Endstop holder with
-    the Torx screws.
+-   Mount the end-stop and with its cover onto the Z-Endstop holder with the Torx screws.
 
     -   Be carefull to not tighten the screws too much.
 
--   Mount the Z-Endstop assembly onto the backside of the aluminium
-    frame in the most upper position.
+-   Mount the Z-Endstop assembly onto the backside of the aluminium frame in the most upper position.
 
 -   Mount the Z-Endstop in the upper position as shown below.
 
@@ -159,7 +148,6 @@
 </tbody>
 </table>
 
--   Put the rubber strip to the bottom of the XZ-Frame with some drips
-    of super glue.
+-   Put the rubber strip to the bottom of the XZ-Frame with some drips of super glue.
 
 [Next](https://github.com/open3dengineering/i3_Berlin/wiki/Section-3.4-Assembling-the-Extruder)

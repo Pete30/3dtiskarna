@@ -11,9 +11,7 @@
 </tbody>
 </table>
 
-Finally it is time to build the extruder. The design of the extruder is
-made to be a dual extruder, but you can also make it a single extruder
-by leaving out the right hand motor and hotend.
+Finally it is time to build the extruder. The design of the extruder is made to be a dual extruder, but you can also make it a single extruder by leaving out the right hand motor and hotend.
 
 <table>
 <colgroup>
@@ -77,8 +75,6 @@ by leaving out the right hand motor and hotend.
 
 -   Make sure the motors are straight and tighten the screws well
 
-! It is best to use a Torx 8 screwdriver bit for the counter sunk screws
-
 <table>
 <colgroup>
 <col width="50%" />
@@ -101,14 +97,11 @@ by leaving out the right hand motor and hotend.
 </tbody>
 </table>
 
--   Make sure the filament path is free. Test it with a piece
-    of filament.
+-   Make sure the filament path is free. Test it with a piece of filament.
 
--   Put the plastic parts onto the assembly, but do not tighten the
-    screws yet
+-   Put the plastic parts onto the assembly, but do not tighten the screws yet
 
--   For single extruder put the right plastic part later, and fix it
-    with the aluminium plate
+-   For single extruder put the right plastic part later, and fix it with the aluminium plate
 
 <table>
 <colgroup>
@@ -126,8 +119,7 @@ by leaving out the right hand motor and hotend.
 
 -   Slide the extruder springs behind the plastic part.
 
--   Push them all the way in, with the aid of the other
-    extruder springs.
+-   Push them all the way in, with the aid of the other extruder springs.
 
 <table>
 <colgroup>
@@ -167,20 +159,11 @@ by leaving out the right hand motor and hotend.
 </tbody>
 </table>
 
--   Slide the remaining two extruder springs behind the heads of the
-    M3x20 screws
+-   Slide the remaining two extruder springs behind the heads of the M3x20 screws
 
 -   Tighten the screws (but not too tight!!)
 
-    -   Make sure the bearing can still turn. If not reduce the pressure
-        on the screws.
-
     -   The ball bearing is (almost) touching the filament pulley
-
-    -   Feeding a piece of filament into the filament path bends the
-        springs and firmly pushes the filament onto the filament pulley,
-        causing the teeth of the pulley to leave imprints on the
-        plastic filament.
 
 <table>
 <colgroup>
@@ -204,15 +187,13 @@ by leaving out the right hand motor and hotend.
 </tbody>
 </table>
 
--   Click the radial fan into the designated slots of the extruder
-    fanholder part
+-   Click the radial fan into the designated slots of the extruder fanholder part
 
     -   Lead the wire through the cable channel
 
 -   Mount the fans onto the extruder fanholder
 
-    -   Make sure the wires for the fans are soldered so the fans are
-        powered with 1 connector
+    -   Make sure the wires for the fans are soldered so the fans are powered with 1 connector
 
     -   Lead the cables through the cable channel
 
@@ -250,8 +231,7 @@ by leaving out the right hand motor and hotend.
 
     -   Make it tight, but only hand tight
 
-    -   Understand that the heatbreak has a very thin *neck* which can
-        be damaged with a too high force
+    -   Understand that the heatbreak has a very thin *neck* which can be damaged with a too high force
 
 <table>
 <colgroup>
@@ -264,21 +244,15 @@ by leaving out the right hand motor and hotend.
 </tbody>
 </table>
 
--   Adjust the nozzle in such a way that there is just a couple of
-    tenths of a millimeter between the heater block and the head of
-    the nozzle.
+-   Adjust the nozzle in such a way that there is just a couple of tenths of a millimeter between the heater block and the head of the nozzle.
 
-    -   The neck of the heat break should be more or less flush with the
-        top of the heater block
+    -   The neck of the heat break should be more or less flush with the top of the heater block
 
     -   Everything is fixed, but only hand tight
 
-    -   Later the nozzle will be fixed while the hotend is heated
-        to 300°C. This is to make sure the nozzle is press fit to the
-        heat break
+    -   Later the nozzle will be fixed while the hotend is heated to 300°C. This is to make sure the nozzle is press fit to the heat break
 
-    -   Fixing the nozzle like this also reduces mechanical load on the
-        heat break while fixing the nozzle
+    -   Fixing the nozzle like this also reduces mechanical load on the heat break while fixing the nozzle
 
 <table>
 <colgroup>
@@ -294,8 +268,7 @@ by leaving out the right hand motor and hotend.
 </tbody>
 </table>
 
--   Put a piece of heat resistant insulation on both legs of the
-    thermistor
+-   Put a piece of heat resistant insulation on both legs of the thermistor
 
     -   Leave about 5mm of blank metal for connection
 
@@ -319,13 +292,11 @@ by leaving out the right hand motor and hotend.
 
 -   Slide the heat cartridge into the hole of the heater block
 
-    -   The left side of the cartridge should be flush with the heater
-        block
+    -   The left side of the cartridge should be flush with the heater block
 
     -   Gently fix it with the set screw
 
-    -   In a dual set up the cartridges are mirrored. Use the picture of
-        the next step as a reference
+    -   In a dual set up the cartridges are mirrored. Use the picture of the next step as a reference
 
 -   Slide the thermistor into the little hole
 
@@ -333,8 +304,7 @@ by leaving out the right hand motor and hotend.
 
     -   Bend the leads so it cannot slide
 
-    -   Bend the leads together so you can connect it later with
-        a connector.
+    -   Bend the leads together so you can connect it later with a connector.
 
 <table>
 <colgroup>
@@ -378,8 +348,7 @@ by leaving out the right hand motor and hotend.
 
     -   The right hotend can slide some millimeters in it slot.
 
-    -   Mount it as far up as possible. The exact height will be
-        adjusted later.
+    -   Mount it as far up as possible. The exact height will be adjusted later.
 
 -   Mount the fan duct in front of the hotends with the torx screws
 

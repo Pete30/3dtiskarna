@@ -13,8 +13,7 @@
 
 -   The X Bridge needs to be parallel to the Y-Rods.
 
--   Do so by putting any object on the right Y-Smooth Rod, turn the
-    right motor spindle down by hand until it just touches the object.
+-   Do so by putting any object on the right Y-Smooth Rod, turn the right motor spindle down by hand until it just touches the object.
 
 -   Do the same on the left side until both sides are equal.
 
@@ -29,7 +28,6 @@
 </tbody>
 </table>
 
--   This calibration should be repeated after transport and or once a
-    week or so. Do make the Y-Rods parallel first.
+-   This calibration should be repeated after transport and or once a week or so. Do make the Y-Rods parallel first.
 
 [Next](https://github.com/open3dengineering/i3_Berlin/wiki/Section-5.4-Calibrating-the-Print-Platform)

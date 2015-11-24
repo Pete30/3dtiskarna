@@ -13,9 +13,7 @@
 
 -   Look for the Y endstop cable, which is 58 centimeters long.
 
--   Connect the end stop. Mind the orientation of the connector. The red
-    wire is on the right where the writing on the PCB says "S"
-    for "signal".
+-   Connect the end stop. Mind the orientation of the connector. The red wire is on the right where the writing on the PCB says "S" for "signal".
 
 <table>
 <colgroup>
@@ -32,11 +30,9 @@
 
 -   Connect it to the motor.
 
--   Lead the endstop cable through the back of the motor and join them
-    at the motor connector
+-   Lead the endstop cable through the back of the motor and join them at the motor connector
 
--   Put both cables into the Y Braided Sleeve, which is 39
-    centimeters long.
+-   Put both cables into the Y Braided Sleeve, which is 39 centimeters long.
 
 <table>
 <colgroup>
@@ -56,15 +52,12 @@
 </tbody>
 </table>
 
--   Lead the cables in the Braided Sleeve neatly through the hole in the
-    Rumba casing.
+-   Lead the cables in the Braided Sleeve neatly through the hole in the Rumba casing.
 
--   Connect the Y-Endstop to the "Y minus" in the endstop block. The red
-    wire is at the bottom.
+-   Connect the Y-Endstop to the "Y minus" in the endstop block. The red wire is at the bottom.
 
 -   Connect the Y-Motor to the Y motor Driver. The black wire goes up.
 
-    -   If the colorscheme of your motor cable is red grey yellow green,
-        the red one goes up.
+    -   If the colorscheme of your motor cable is red grey yellow green, the red one goes up.
 
 [Next](https://github.com/open3dengineering/i3_Berlin/wiki/Section-4.4-Wiring-the-X-Axis)

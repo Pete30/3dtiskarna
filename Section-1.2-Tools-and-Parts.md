@@ -44,10 +44,7 @@
 
 *\** Included in the Workshop, NOT included in the Kit.
 
-This is the list of all the parts you will find in the box if you bought
-a kit or workshop through [Laydrop](http://www.laydrop.com/en/). A full
-Bill of Materials can be found
-[here](https://github.com/open3dengineering/i3_Berlin/blob/master/BOM.csv)
+This is the list of all the parts you will find in the box if you bought a kit or workshop through [Laydrop](http://www.laydrop.com/en/). A full Bill of Materials can be found [here](https://github.com/open3dengineering/i3_Berlin/blob/master/BOM.csv)
 
 Tip: you can enlarge the images by right click and then view the image.
 

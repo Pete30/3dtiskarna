@@ -11,8 +11,7 @@
 </tbody>
 </table>
 
--   Connect the Endstop cable (60cm) with the red wire close to the
-    frame
+-   Connect the Endstop cable (60cm) with the red wire close to the frame
 
 -   Connect the Motor wire which is 53cm long.
 

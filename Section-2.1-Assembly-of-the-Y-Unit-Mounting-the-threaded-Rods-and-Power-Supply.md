@@ -1,7 +1,6 @@
 [Next](https://github.com/open3dengineering/i3_Berlin/wiki/Section-2.2-Assembly-of-the-Y-Unit-Mounting-the-Front-and-Back-Plate)
 
-[Section
-Menu](https://github.com/open3dengineering/i3_Berlin/wiki/Section-2-Assembly-of-the-Y-Unit)
+[Section Menu](https://github.com/open3dengineering/i3_Berlin/wiki/Section-2-Assembly-of-the-Y-Unit)
 
 <table>
 <colgroup>
@@ -41,8 +40,7 @@ Menu](https://github.com/open3dengineering/i3_Berlin/wiki/Section-2-Assembly-of-
 
 -   and two nuts on both sides.
 
--   Do not make the nuts tight yet. Leave about 5cm place between
-    the nuts.
+-   Do not make the nuts tight yet. Leave about 5cm place between the nuts.
 
 <table>
 <colgroup>
@@ -70,11 +68,9 @@ Menu](https://github.com/open3dengineering/i3_Berlin/wiki/Section-2-Assembly-of-
 </tbody>
 </table>
 
--   Mount a nut, spring washer, washer and flange nut to the threaded
-    rod for later mounting the XZ plate.
+-   Mount a nut, spring washer, washer and flange nut to the threaded rod for later mounting the XZ plate.
 
--   Also put an M10 nut on both ends for later mounting the front
-    and back-plate.
+-   Also put an M10 nut on both ends for later mounting the front and back-plate.
 
 -   Do not make anything tight yet.
 
@@ -89,13 +85,11 @@ Menu](https://github.com/open3dengineering/i3_Berlin/wiki/Section-2-Assembly-of-
 </tbody>
 </table>
 
--   The power-supply mount is about 18 centimeters from the front side
-    of the rod.
+-   The power-supply mount is about 18 centimeters from the front side of the rod.
 
 -   The flange is about 26 centimeters from the front.
 
--   Don’t make this precise, measurements are just for reference for
-    easier assembly later on.
+-   Don’t make this precise, measurements are just for reference for easier assembly later on.
 
 <table>
 <colgroup>
@@ -133,8 +127,7 @@ Menu](https://github.com/open3dengineering/i3_Berlin/wiki/Section-2-Assembly-of-
 
 -   Do the same for the left-hand rod.
 
--   Make sure that the orientation of the plastic parts is correct. The
-    arrows should be pointing upwards.
+-   Make sure that the orientation of the plastic parts is correct. The arrows should be pointing upwards.
 
 <table>
 <colgroup>
@@ -172,11 +165,9 @@ Menu](https://github.com/open3dengineering/i3_Berlin/wiki/Section-2-Assembly-of-
 
 -   Push the screw and nut into the slots of the plastic parts
 
-    -   Make sure the hexagon of the screw is reachable through the hole
-        in the Height adjuster
+    -   Make sure the hexagon of the screw is reachable through the hole in the Height adjuster
 
-    -   Later this assembly will enable you to adjust the height of the
-        smooth rod
+    -   Later this assembly will enable you to adjust the height of the smooth rod
 
 <table>
 <colgroup>
@@ -204,11 +195,9 @@ Menu](https://github.com/open3dengineering/i3_Berlin/wiki/Section-2-Assembly-of-
 </tbody>
 </table>
 
--   Put the bearing with the two belt guiding discs into the slot of the
-    front right Y-Corner.
+-   Put the bearing with the two belt guiding discs into the slot of the front right Y-Corner.
 
--   Make sure the little notch of the discs is on the inside and the
-    shiny side is point outwards.
+-   Make sure the little notch of the discs is on the inside and the shiny side is point outwards.
 
 -   Slide in the dowel to fix the assembly.
 
@@ -258,7 +247,6 @@ Menu](https://github.com/open3dengineering/i3_Berlin/wiki/Section-2-Assembly-of-
 </tbody>
 </table>
 
-Great you now completed the first step of the assembly. Go on with the
-next step.
+Great you now completed the first step of the assembly. Go on with the next step.
 
 [Next](https://github.com/open3dengineering/i3_Berlin/wiki/Section-2.2-Assembly-of-the-Y-Unit-Mounting-the-Front-and-Back-Plate)

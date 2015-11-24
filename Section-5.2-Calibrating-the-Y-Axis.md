@@ -15,11 +15,9 @@
 
 -   Put the mirror up side down on the smoothrods.
 
--   Tap the diagonally opposing corners and see if they make sound
-    ticking on the smooth rods.
+-   Tap the diagonally opposing corners and see if they make sound ticking on the smooth rods.
 
--   If so, the rods of the Y-Axis are not parallel and you need
-    adjust it.
+-   If so, the rods of the Y-Axis are not parallel and you need adjust it.
 
     -   Do so by turning the screw of the Y-Height adjuster up or down.
 

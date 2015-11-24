@@ -1,7 +1,6 @@
 [Next](https://github.com/open3dengineering/i3_Berlin/wiki/Section-2-Assembly-of-the-Y-Unit)
 
-[Section
-Menu](https://github.com/open3dengineering/i3_Berlin/wiki/Section-1-Introduction)
+[Section Menu](https://github.com/open3dengineering/i3_Berlin/wiki/Section-1-Introduction)
 
 <table>
 <colgroup>
@@ -14,13 +13,9 @@ Menu](https://github.com/open3dengineering/i3_Berlin/wiki/Section-1-Introduction
 </tbody>
 </table>
 
-You will start the assembly with glueing the casings for the RUMBA
-controller electronics and the display. Since the glue needs time to dry
-it’s to best to have this done now.
+You will start the assembly with glueing the casings for the RUMBA controller electronics and the display. Since the glue needs time to dry it’s to best to have this done now.
 
-Please don’t use 1 second cyano-acrylat superglue for glueing the
-acrylic and printed parts, because they will probably cause ugly white
-stains.
+Please don’t use 1 second cyano-acrylat superglue for glueing the acrylic and printed parts, because they will probably cause ugly white stains.
 
 <table>
 <colgroup>
@@ -46,14 +41,11 @@ stains.
 
 -   The Cable Inlet can be found in the bag of printed parts.
 
--   Stick the parts together in such a way that the printed part is
-    flush with the engraved side of the acrylic part.
+-   Stick the parts together in such a way that the printed part is flush with the engraved side of the acrylic part.
 
--   If the parts are not fixed well, apply some plastic glue in
-    the corners.
+-   If the parts are not fixed well, apply some plastic glue in the corners.
 
-    -   Mind that the matt side of the acrylic is going to be the visual
-        outside of the casing, so prevent glue stains here.
+    -   Mind that the matt side of the acrylic is going to be the visual outside of the casing, so prevent glue stains here.
 
 <table>
 <colgroup>
@@ -79,13 +71,11 @@ stains.
 
 -   Remove the protection film on the shiny side of the acrylic.
 
-    -   Leave the protection film of the matt side in place as much a
-        possible to prevent scratches and glue stains.
+    -   Leave the protection film of the matt side in place as much a possible to prevent scratches and glue stains.
 
 -   Connect the parts as shown above with the shiny part on top.
 
--   Take a good look at the image. Apply a line of glue in such a way
-    that it will always stay inside of the casing to prevent stains.
+-   Take a good look at the image. Apply a line of glue in such a way that it will always stay inside of the casing to prevent stains.
 
 <table>
 <colgroup>
@@ -101,8 +91,7 @@ stains.
 </tbody>
 </table>
 
--   Flip up the 3 sides as shown in the picture above, and push them
-    well in place.
+-   Flip up the 3 sides as shown in the picture above, and push them well in place.
 
 -   Prepare a line of glue on the two left corners.
 
@@ -112,8 +101,7 @@ stains.
 
     -   Apply glue if necessary.
 
--   Put 3 lines of glue on the shiny side of the big part
-    as preparation.
+-   Put 3 lines of glue on the shiny side of the big part as preparation.
 
 <table>
 <colgroup>
@@ -131,8 +119,7 @@ stains.
 
 -   Put the Rigt Side of the case into position
 
-    -   It’s done easiest to put the lower corner first and turn in the
-        part in counter clockwise direction looking from the top.
+    -   It’s done easiest to put the lower corner first and turn in the part in counter clockwise direction looking from the top.
 
 -   Slide in the 3D printed corners.
 
@@ -164,22 +151,17 @@ stains.
 
 -   Glue the FanHolder on the shiny side of the RUMBA Case Lid.
 
-    -   Putting the fan first helps aliging the position of the fan
-        holder
+    -   Putting the fan first helps aliging the position of the fan holder
 
     -   Note that the fan should NOT be glued to anything
 
     -   The fan can be found in the box of the RAMPS electronics
 
-    -   Putting the sticker of the fan towards the outlet
-        is recommended. Like that it will suck out are from the casing
-        instead of blowing it in. An airstream like this reduces
-        dust accumulations.
+    -   Putting the sticker of the fan towards the outlet is recommended. Like that it will suck out are from the casing instead of blowing it in. An airstream like this reduces dust accumulations.
 
     -   You can leave the fan.
 
--   The casing is now finished. The remaining parts will be glued later
-    in the wiring section.
+-   The casing is now finished. The remaining parts will be glued later in the wiring section.
 
 <table>
 <colgroup>
@@ -237,8 +219,7 @@ stains.
 
 -   Put in the corner and glue it
 
--   Apply some extra glue in the inner corners of the case to secure
-    strength
+-   Apply some extra glue in the inner corners of the case to secure strength
 
 -   Put tape where needed and let the case dry.
 
@@ -260,8 +241,7 @@ stains.
 </tbody>
 </table>
 
--   Remove all the protective films, but leave the film on the matt side
-    of the Top Bottom part.
+-   Remove all the protective films, but leave the film on the matt side of the Top Bottom part.
 
 -   Glue the two parts together, take care of alignment.
 
@@ -289,8 +269,7 @@ stains.
 
 -   Glue the top part to the base, take care of the alignment.
 
--   Remove the protective film from one side of the window part and glue
-    it to the base.
+-   Remove the protective film from one side of the window part and glue it to the base.
 
 -   Double check alignment of all the parts and leave it to dry.
 
@@ -312,8 +291,7 @@ stains.
 </tbody>
 </table>
 
--   The following steps should only be done when the glue is dry, some
-    hours after the previous step.
+-   The following steps should only be done when the glue is dry, some hours after the previous step.
 
 -   Put the Display Spacers onto the display.
 
@@ -358,8 +336,7 @@ stains.
 </tbody>
 </table>
 
--   Put the Rim onto the Base and apply some little drips of 1 second
-    super glue to the inner corner.
+-   Put the Rim onto the Base and apply some little drips of 1 second super glue to the inner corner.
 
     -   Make sure that you don’t leave glue stains
 
@@ -385,7 +362,6 @@ stains.
 
 -   Push the feet into the casing. Apply plastic glue if necessary.
 
-That’s it for this section. In the next section you will start mounting
-the Y-Axis.
+That’s it for this section. In the next section you will start mounting the Y-Axis.
 
 [Next](https://github.com/open3dengineering/i3_Berlin/wiki/Section-2-Assembly-of-the-Y-Unit)

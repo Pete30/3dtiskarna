@@ -15,8 +15,7 @@
 
 -   Connect the Z-Endstop cable to the endstop, which is 67cm long.
 
--   Mind the orientation of the connector. The red wire should be on
-    the right.
+-   Mind the orientation of the connector. The red wire should be on the right.
 
 -   Apply a piece of 54cm long braided sleeve to the cable.
 
@@ -31,11 +30,9 @@
 </tbody>
 </table>
 
--   The Z-Motors are serially connected. The cable is made to have two
-    motor connector and one connector that goes on the electronics.
+-   The Z-Motors are serially connected. The cable is made to have two motor connector and one connector that goes on the electronics.
 
--   Connect the longer end of the Z-Motor cable to the motor closest to
-    the endstop.
+-   Connect the longer end of the Z-Motor cable to the motor closest to the endstop.
 
 -   Join the cable into the braided sleeve.
 
@@ -52,8 +49,7 @@
 
 -   Attach the braided sleeve to the aluminium plate with 4 zipties.
 
--   Be sure that the zipties are not on the bottom of the plate. Make it
-    exactly as shown in the picture.
+-   Be sure that the zipties are not on the bottom of the plate. Make it exactly as shown in the picture.
 
 <table>
 <colgroup>
@@ -66,11 +62,9 @@
 </tbody>
 </table>
 
--   Connect the shorter end of the Z-Motor cable to the other Z-motor
-    and lead the cable through the braided sleeve.
+-   Connect the shorter end of the Z-Motor cable to the other Z-motor and lead the cable through the braided sleeve.
 
--   Make sure that the flatband cable is behind the Z-Cable leaving to
-    the front through the hole of the Z-Motor.
+-   Make sure that the flatband cable is behind the Z-Cable leaving to the front through the hole of the Z-Motor.
 
 <table>
 <colgroup>
@@ -92,7 +86,6 @@
 
 -   Connect the endstop and the motor to the Rumba.
 
-    -   If the motor wires are red grey yellow green put the red wire
-        on top.
+    -   If the motor wires are red grey yellow green put the red wire on top.
 
 [Next](https://github.com/open3dengineering/i3_Berlin/wiki/Section-4.3-Wiring-the-Y-Unit)

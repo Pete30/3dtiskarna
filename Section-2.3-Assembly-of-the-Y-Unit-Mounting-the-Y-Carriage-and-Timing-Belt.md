@@ -1,7 +1,6 @@
 [Next](https://github.com/open3dengineering/i3_Berlin/wiki/Section-3-Assembly-of-the-XZ-Unit)
 
-[Section
-Menu](https://github.com/open3dengineering/i3_Berlin/wiki/Section-2-Assembly-of-the-Y-Unit)
+[Section Menu](https://github.com/open3dengineering/i3_Berlin/wiki/Section-2-Assembly-of-the-Y-Unit)
 
 <table>
 <colgroup>
@@ -49,8 +48,7 @@ Menu](https://github.com/open3dengineering/i3_Berlin/wiki/Section-2-Assembly-of-
 
 -   Cut of the loose of the zipties.
 
--   Check if the Y-Carriage can moove smoothly. It should move by
-    gravity if you tilt the Y-Unit.
+-   Check if the Y-Carriage can moove smoothly. It should move by gravity if you tilt the Y-Unit.
 
 <table>
 <colgroup>
@@ -115,16 +113,13 @@ Menu](https://github.com/open3dengineering/i3_Berlin/wiki/Section-2-Assembly-of-
 
 -   The tension should be not to loose nor too tight
 
-    -   Too loose: you see the belt moving up and down at the idler when
-        you move the Y-Carriage
+    -   Too loose: you see the belt moving up and down at the idler when you move the Y-Carriage
 
     -   Too tight: the belt makes sound like a guitar string.
 
--   In all cases it is better to have the belt a bit more tight than
-    too loose.
+-   In all cases it is better to have the belt a bit more tight than too loose.
 
--   The belt tensioner should be (almost) straight as shown in
-    the image.
+-   The belt tensioner should be (almost) straight as shown in the image.
 
 <table>
 <colgroup>

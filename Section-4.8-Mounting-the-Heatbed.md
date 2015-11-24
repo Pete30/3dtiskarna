@@ -30,8 +30,7 @@
 
     -   The matt side is mounted on top.
 
--   Tighten the nuts until the head of the screws is being pulled
-    smoothly into the material of the mirror clamp.
+-   Tighten the nuts until the head of the screws is being pulled smoothly into the material of the mirror clamp.
 
 <table>
 <colgroup>
@@ -47,14 +46,11 @@
 </tbody>
 </table>
 
--   Hold the heatbed on the left side of the y-carriage as shown in the
-    picture above
+-   Hold the heatbed on the left side of the y-carriage as shown in the picture above
 
--   Fix the braided sleeve of the heatbed cable to the back of the
-    y-carriage with a zip tie
+-   Fix the braided sleeve of the heatbed cable to the back of the y-carriage with a zip tie
 
--   Lay down the heatbed and organize the cable so that the wires are
-    neatly underneath the heatbed.
+-   Lay down the heatbed and organize the cable so that the wires are neatly underneath the heatbed.
 
 <table>
 <colgroup>
@@ -78,8 +74,7 @@
 
 -   Tighten them with the knurled nuts.
 
--   The adjusting of the heatbed happens in the next chapter so don’t
-    bother about it now.
+-   The adjusting of the heatbed happens in the next chapter so don’t bother about it now.
 
 <table>
 <colgroup>
@@ -101,13 +96,10 @@
 
 -   Connect the heatbed to the RUMBA
 
-    -   Fix the cable in such a way that it does not obstruct the
-        movement of the Y-Axis.
+    -   Fix the cable in such a way that it does not obstruct the movement of the Y-Axis.
 
-    -   Probably the cable runs smoothest if guided between the M10 rod
-        and the smooth rod.
+    -   Probably the cable runs smoothest if guided between the M10 rod and the smooth rod.
 
-    -   Experiment with how to fix the cable with zipties for
-        optimal movement.
+    -   Experiment with how to fix the cable with zipties for optimal movement.
 
 [Next](https://github.com/open3dengineering/i3_Berlin/wiki/Section-5-Calibration)

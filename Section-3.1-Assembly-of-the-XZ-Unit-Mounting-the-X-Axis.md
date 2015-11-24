@@ -42,8 +42,7 @@
 
 -   Put the ACME Nut into the slot of the X-Motor Holder
 
-    -   You can find the ACME Nut on the threaded rod of your linear
-        stepper motor
+    -   You can find the ACME Nut on the threaded rod of your linear stepper motor
 
 -   Place the Bearing Holder
 
@@ -101,8 +100,7 @@
 
 -   Mount the pulley onto the motor shaft.
 
--   Fix it with the two little set screws that you can find again in the
-    white bag in your RUMBA electronics box.
+-   Fix it with the two little set screws that you can find again in the white bag in your RUMBA electronics box.
 
 -   The distance between the motor and the pulley is 4.5mm.
 
@@ -162,8 +160,7 @@
 
 -   Put the linear bearings onto a smooth rod
 
--   Put the linear bearings with the smooth rod into the pocket for the
-    bearings
+-   Put the linear bearings with the smooth rod into the pocket for the bearings
 
 -   Put the ACME Nut
 
@@ -173,10 +170,7 @@
 
 -   Remove the rod
 
--   Note: the bearings can move left and right a couple of millimeters
-    (with some friction). This is to avoid load on the bearings that can
-    be caused by tolerances in the length of the linear rods of
-    the X-Axis.
+-   Note: the bearings can move left and right a couple of millimeters (with some friction). This is to avoid load on the bearings that can be caused by tolerances in the length of the linear rods of the X-Axis.
 
 <table>
 <colgroup>
@@ -202,9 +196,7 @@
 
 -   Pierce the holes in the X-Carriage.
 
-    -   The hole is closed of with one print layer for good
-        print results. You can easily pierce it by pushing with a small
-        allen key or screw driver from the other side.
+    -   The hole is closed of with one print layer for good print results. You can easily pierce it by pushing with a small allen key or screw driver from the other side.
 
 -   Slide the X-Teeth into position
 
@@ -236,11 +228,9 @@
 
 -   Slide a smooth rod through the bearings
 
--   Mount the upper two bearings with a ziptie. Mind the orientation of
-    the head.
+-   Mount the upper two bearings with a ziptie. Mind the orientation of the head.
 
-    -   If you don’t have a big ziptie, fix it with TWO small zipties
-        for better stability.
+    -   If you don’t have a big ziptie, fix it with TWO small zipties for better stability.
 
 -   Remove the smooth rod
 
@@ -266,22 +256,18 @@
 </tbody>
 </table>
 
--   Slide the long (400mm) smooth rod into the upper hole of the X-Motor
-    holder
+-   Slide the long (400mm) smooth rod into the upper hole of the X-Motor holder
 
     -   Make sure it reaches to the end.
 
-    -   If it goes too stiff you can put the end into a hand drill. Do
-        not use a hammer.
+    -   If it goes too stiff you can put the end into a hand drill. Do not use a hammer.
 
 -   Slide the short smooth rod in the the X-Motor holder
 
 -   Slide the X-Carriage assembly onto the rods. Mind the orientation!
 
--   Slide the X-Idler onto the smooth rods. Again make sure that they
-    reach until the end of the hole.
+-   Slide the X-Idler onto the smooth rods. Again make sure that they reach until the end of the hole.
 
-    -   If it goes stiff make a light twisting movement with you hands
-        while you push the plastic parts more and more together.
+    -   If it goes stiff make a light twisting movement with you hands while you push the plastic parts more and more together.
 
 [Next](https://github.com/open3dengineering/i3_Berlin/wiki/Section-3.2-Assembly-of-the-XZ-Unit-Mounting-the-Z-Axis)

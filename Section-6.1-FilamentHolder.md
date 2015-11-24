@@ -46,8 +46,6 @@
 
 -   This is how the print set up should be.
 
--   Put the filament holder at a convenient position. Put the filament
-    role on top of the rods. Put the filament through the hole in de
-    holder and through the Teflon pipe.
+-   Put the filament holder at a convenient position. Put the filament role on top of the rods. Put the filament through the hole in de holder and through the Teflon pipe.
 
 [Next](https://github.com/open3dengineering/i3_Berlin/wiki/Section-6.2-Cura)

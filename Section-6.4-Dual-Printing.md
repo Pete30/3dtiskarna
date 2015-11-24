@@ -1,23 +1,10 @@
-It’s highly recommended to start printing with only one printhead until
-you are comfortable with it. Printing with two nozzles involves some
-extra things to take care of, but also allows you to combine multiple
-materials in one printed object.
+It’s highly recommended to start printing with only one printhead until you are comfortable with it. Printing with two nozzles involves some extra things to take care of, but also allows you to combine multiple materials in one printed object.
 
-Two things should be calibrated first: the height of the second nozzle
-and the offset in the X and Y direction.
+Two things should be calibrated first: the height of the second nozzle and the offset in the X and Y direction.
 
-First thing to do is to level the right nozzle. \* Adjust the platform
-accurately to the LEFT nozzle with a piece of paper, as described in
-[Section
-5.4](https://github.com/open3dengineering/i3_Berlin/wiki/Section-5.4-Calibrating-the-Print-Platform).
-\* Put the extruder in the middle of the platform \* Loosen the two M3
-counter sunk screws that hold the right hotend. **Push it down until it
-has the same feeling on the paper as the left nozzle.** Tighten the two
-screws again, and check again with the paper.
+First thing to do is to level the right nozzle. \* Adjust the platform accurately to the LEFT nozzle with a piece of paper, as described in [Section 5.4](https://github.com/open3dengineering/i3_Berlin/wiki/Section-5.4-Calibrating-the-Print-Platform). \* Put the extruder in the middle of the platform \* Loosen the two M3 counter sunk screws that hold the right hotend. **Push it down until it has the same feeling on the paper as the left nozzle.** Tighten the two screws again, and check again with the paper.
 
-To calibrate the X and Y offset you need to print a small test object.
-This can be found on the SD card that came with the printer and can be
-found in SD-Card/Examples/calibration\_line/
+To calibrate the X and Y offset you need to print a small test object. This can be found on the SD card that came with the printer and can be found in SD-Card/Examples/calibration\_line/
 
 -   Load line0.stl and line1.stl to Cura
 
@@ -31,17 +18,10 @@ found in SD-Card/Examples/calibration\_line/
 
     -   Adjust the X and Y offset in *Machine&gt;Machine Settings*
 
-    -   Please note that an offset of X 0,85 and Y 39,57 is allready in
-        the firmware.
+    -   Please note that an offset of X 0,85 and Y 39,57 is allready in the firmware.
 
--   Repeat the test print until the lines are nicely on top
-    of eachother.
+-   Repeat the test print until the lines are nicely on top of eachother.
 
--   This calibration has to be done every time you disassemble the right
-    hand extruder.
+-   This calibration has to be done every time you disassemble the right hand extruder.
 
-Tip: \* While doing a dual print, turn on wipe tower and ooze shield.
-**wipe tower is an extra pillar that is use to clear the nozzle before
-starting** ooze shield is an extra wall that is printed around the
-object to catch pieces of plastic that ooze out while the other nozzle
-is printing.
+Tip: \* While doing a dual print, turn on wipe tower and ooze shield. **wipe tower is an extra pillar that is use to clear the nozzle before starting** ooze shield is an extra wall that is printed around the object to catch pieces of plastic that ooze out while the other nozzle is printing.

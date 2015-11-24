@@ -14,22 +14,19 @@
 </tbody>
 </table>
 
--   Lead all the power wires through the opening of the Power Supply
-    Cover
+-   Lead all the power wires through the opening of the Power Supply Cover
 
 -   Connect the red wires to the 12V+
 
 -   Connect the black wires to the 12V-
 
--   Connect the green/yellow cable to the GND, recognizable by the
-    symbol of a striped arrow pointing downwards.
+-   Connect the green/yellow cable to the GND, recognizable by the symbol of a striped arrow pointing downwards.
 
 -   Connect the brown high voltage cable to the L
 
 -   Connect the blue high voltage cable to the N
 
--   Check again if everything is correct and that there is no chance for
-    electrical short circuits.
+-   Check again if everything is correct and that there is no chance for electrical short circuits.
 
 -   Make the screws really tight.
 
@@ -65,8 +62,7 @@
 
 -   Make sure that all the washers are at the front of the XZ plate
 
--   Make sure that the left hand nuts are still loose and have ample
-    place for the XZ plate to fit in.
+-   Make sure that the left hand nuts are still loose and have ample place for the XZ plate to fit in.
 
 -   Tighten the right hand nut
 
@@ -83,8 +79,7 @@
 
 -   Slide the Y-Carriage to the back
 
--   Look from the top with one eye to see if the Y-Carriage is parallel
-    to the XZ-Plate
+-   Look from the top with one eye to see if the Y-Carriage is parallel to the XZ-Plate
 
 <table>
 <colgroup>
@@ -101,8 +96,7 @@
 
 -   Always keep looking that the XZ-Plate is parallel to the Y-Carriage
 
--   Tighten the left hand nuts completely and lock it with the rear
-    M10 nut.
+-   Tighten the left hand nuts completely and lock it with the rear M10 nut.
 
 -   Congratulations! It suddenly looks much more like a 3D printer!
 
@@ -117,15 +111,13 @@
 </tbody>
 </table>
 
--   Search for the flatband cables in the box of your graphic display
-    controller
+-   Search for the flatband cables in the box of your graphic display controller
 
 -   Remove the cables from the adapter
 
 -   Notice that the cable has slightly different connectors on both ends
 
--   Pick the end where the little notch on the connector is in the same
-    direction as the cable.
+-   Pick the end where the little notch on the connector is in the same direction as the cable.
 
 <table>
 <colgroup>
@@ -151,12 +143,9 @@
 
 -   Plug in the flatband cables
 
--   There is a black mark on the PCB of the RUMBA, this is where the
-    notch of the connector should be. Also mind the orientation of the
-    red wire as shown in the picture above.
+-   There is a black mark on the PCB of the RUMBA, this is where the notch of the connector should be. Also mind the orientation of the red wire as shown in the picture above.
 
--   Fold the flatband cables so they both leave neatly through the
-    opening in the RUMBA Case
+-   Fold the flatband cables so they both leave neatly through the opening in the RUMBA Case
 
 -   Mount the RUMBA with its case to the frame with the two screws.
 
