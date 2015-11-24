@@ -1,4 +1,4 @@
-Welcome to the **i3\_Berlin** wiki!
+Welcome to the **i3 Berlin** wiki!
 
 These pages contain the full assembly manual to build and adjust your i3 Berlin through the following chapters:
 
