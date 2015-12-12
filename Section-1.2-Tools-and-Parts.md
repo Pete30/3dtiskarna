@@ -15,9 +15,13 @@
 | <img src="staticmedia/ZapGlue.jpg" width="400" /> | Zap Goo PT12 or UHU Allplast |
 | <img src="staticmedia/BlueScotch.jpeg" width="400" /> | Scotch Blue Tape _*_ |
 | <img src="staticmedia/kapton.jpeg" width="400" /> | Kapton _*_ |
-*\** Included in the Workshop, NOT included in the Kit.
-   
-This is the list of all the parts you will find in the box if you bought a kit or workshop through [Laydrop](http://www.laydrop.com/en/). A full Bill of Materials can be found [here](https://github.com/laydrop/i3-Berlin/blob/master/BOM.csv)
+__*__ Included in the Workshop, NOT included in the Kit.
+
+<br>
+--
+<br>
+
+This is the list of all the parts you will find in the box if you bought a kit or workshop through http://i3berlin.com. A full Bill of Materials can be found [here](https://github.com/laydrop/i3-Berlin/blob/master/BOM.csv)
    
 Tip: you can enlarge the images by right click and then view the image.
 <br>
