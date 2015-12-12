@@ -4,17 +4,7 @@
 
 It all started with [Adrian Bowyer](http://adrianbowyer.net/), professor at the university of Bath in the UK. He felt inspired by a much older idea of the universal constructor, a theoretical machine by the mathematician [John von Nuemann](http://en.wikipedia.org/wiki/Von_Neumann_universal_constructor) just after WW2. This machine could reproduce itself and look for it´s own raw materials and take care of it´s own transport. Bowyer´s machine didn´t have to be that complicated, if it could only make half of it´s own parts it would already be a breakthrough.
 
-<table>
-<colgroup>
-<col width="100%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td align="left"><p><img src="http://adrianbowyer.net/web_images/portrait.jpg" alt="http://adrianbowyer.net/web_images/portrait.jpg" /><br />
- Adrian Bowyer</p></td>
-</tr>
-</tbody>
-</table>
+
 
 In the year 2004 he wrote down this idea in his manifesto: [“wealth without money”](http://reprap.org/wiki/Wealth_Without_Money). He called the project RepRap, which stands for self-REPlicating RAPid prototyper. He decided that this project should evolve like nature, which is based on the free multiplication of information.
 
