@@ -70,8 +70,8 @@ Tip: you can enlarge the images by right click and then view the image.
 |---|---|---|---|---|
 
 #### Endstop Box
-| <img src="media/Section_1_0006.png" alt="media/Section_1_0006.png" /> 1x Hall-O Endstop | <img src="media/Section_1_0152.png" alt="media/Section_1_0152.png" /> 6x Magnet | 
-
+| <img src="media/Section_1_0006.png" alt="media/Section_1_0006.png" /> 1x Hall-O Endstop | <img src="media/Section_1_0152.png" alt="media/Section_1_0152.png" /> 6x Magnet | - | - | - |
+|---|---|---|---|---|
 
 <table>
 <caption>Rods Y</caption>
