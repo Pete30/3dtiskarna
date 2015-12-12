@@ -3,52 +3,17 @@
 
 | tools | description |
 |-------|-------------|
-| <img src="http://cdn4.pcadvisor.co.uk/cmsdata/reviews/3465138/Photoshoot_220-Sony.jpg" width="400" > | Laptop with OSX, Linux or Windows |
-| <img src="http://1.bp.blogspot.com/-_EQFV8lcUAE/TwakkvXywhI/AAAAAAAAAEE/9lYf2dLuG2k/s320/Double_Open_End_Spanner.jpg" width="400"> | 
-
-
-<table>
-<caption>Tools</caption>
-<colgroup>
-<col width="100%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td align="left"><p><img src="http://cdn4.pcadvisor.co.uk/cmsdata/reviews/3465138/Photoshoot_220-Sony.jpg" alt="http://cdn4.pcadvisor.co.uk/cmsdata/reviews/3465138/Photoshoot_220-Sony.jpg" /> Normal Laptop with OSX, Linux or Windows</p></td>
-</tr>
-<tr class="even">
-<td align="left"><p><img src="http://1.bp.blogspot.com/-_EQFV8lcUAE/TwakkvXywhI/AAAAAAAAAEE/9lYf2dLuG2k/s320/Double_Open_End_Spanner.jpg" alt="http://1.bp.blogspot.com/-_EQFV8lcUAE/TwakkvXywhI/AAAAAAAAAEE/9lYf2dLuG2k/s320/Double_Open_End_Spanner.jpg" /> Open End Spanners sized 17mm/15mm/8mm</p></td>
-</tr>
-<tr class="odd">
-<td align="left"><p><img src="http://www.wihatools.com/images/Bit_Sets/38028_bits_px500.jpg" alt="http://www.wihatools.com/images/Bit_Sets/38028_bits_px500.jpg" /> Torx 8 Screwdriver</p></td>
-</tr>
-<tr class="even">
-<td align="left"><p><img src="http://www.shafttech.com/images/stories/virtuemart/product/06773etc_4567mm.jpg" alt="http://www.shafttech.com/images/stories/virtuemart/product/06773etc_4567mm.jpg" /> Allen keys 1.5, 2.5, 3.0 and 6.0 mm</p></td>
-</tr>
-<tr class="odd">
-<td align="left"><p><img src="http://www.harborfreight.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/i/m/image_13110.jpg" alt="http://www.harborfreight.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/i/m/image_13110.jpg" /> Utility Knive</p></td>
-</tr>
-<tr class="even">
-<td align="left"><p><img src="staticmedia/Longnose.jpeg" alt="staticmedia/Longnose.jpeg" /> Long Nose Pliers</p></td>
-</tr>
-<tr class="odd">
-<td align="left"><p><img src="staticmedia/clipping.jpeg" alt="staticmedia/clipping.jpeg" /> Clipping Pliers</p></td>
-</tr>
-<tr class="even">
-<td align="left"><p><img src="staticmedia/Calipers.jpeg" alt="staticmedia/Calipers.jpeg" /> Calipers</p></td>
-</tr>
-<tr class="odd">
-<td align="left"><p><img src="staticmedia/ZapGlue.jpg" alt="staticmedia/ZapGlue.jpg" /> Zap Goo PT12 or UHU Allplast <em>*</em></p></td>
-</tr>
-<tr class="even">
-<td align="left"><p><img src="staticmedia/BlueScotch.jpeg" alt="staticmedia/BlueScotch.jpeg" /> (Blue) Painters Tape <em>*</em></p></td>
-</tr>
-<tr class="odd">
-<td align="left"><p><img src="staticmedia/kapton.jpeg" alt="staticmedia/kapton.jpeg" /> Kapton <em>*</em></p></td>
-</tr>
-</tbody>
-</table>
-
+| <img src="http://cdn4.pcadvisor.co.uk/cmsdata/reviews/3465138/Photoshoot_220-Sony.jpg" width="400" /> | Laptop with OSX, Linux or Windows |
+| <img src="http://1.bp.blogspot.com/-_EQFV8lcUAE/TwakkvXywhI/AAAAAAAAAEE/9lYf2dLuG2k/s320/Double_Open_End_Spanner.jpg" width="400" /> | Open End Spanners sized 17mm/15mm/8mm |
+| <img src="http://www.wihatools.com/images/Bit_Sets/38028_bits_px500.jpg" width="400" /> | Torx 8 Screwdriver |
+| <img src="http://www.shafttech.com/images/stories/virtuemart/product/06773etc_4567mm.jpg" width="400" /> | Allen keys 1.5, 2.5, 3.0 and 6.0 mm |
+| <img src="http://www.harborfreight.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/i/m/image_13110.jpg" width="400" /> | Utility Knive |
+| <img src="staticmedia/Longnose.jpeg" width="400" /> | Long Nose Pliers |
+| <img src="staticmedia/clipping.jpeg" width="400" /> | Clipping Pliers |
+| <img src="staticmedia/Calipers.jpeg" width="400" /> | Calipers |
+| <img src="staticmedia/ZapGlue.jpg" width="400" /> | Zap Goo PT12 or UHU Allplast |
+| <img src="staticmedia/BlueScotch.jpeg" width="400" /> | Scotch Blue Tape _*_ |
+| <img src="staticmedia/kapton.jpeg" width="400" /> | Kapton _*_ |
 *\** Included in the Workshop, NOT included in the Kit.
 
 This is the list of all the parts you will find in the box if you bought a kit or workshop through [Laydrop](http://www.laydrop.com/en/). A full Bill of Materials can be found [here](https://github.com/laydrop/i3-Berlin/blob/master/BOM.csv)
