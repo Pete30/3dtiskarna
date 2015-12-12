@@ -73,8 +73,8 @@
  1x RUMBA Case Base</p></td>
 <td align="left"><p><img src="media/Section_1_0139.png" alt="media/Section_1_0139.png" /><br />
  1x RUMBA Case Top</p></td>
-<td> </tr>
-<td> </tr>
+<td> </td>
+<td> </td>
 </tr>
 <tr class="even">
 <td colspan="3" align="left"><p><img src="media/Section_6_0003.png" alt="media/Section_6_0003.png" /></p></td>
