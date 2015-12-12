@@ -23,6 +23,8 @@
 --
 ##### Step 1
 
+![](media/Section_6_0001.png)
+
 | ![image](media/Section_1_0130.png) 1x RUMBA Case Bottom | ![image](media/Section_1_0131.png) 1x RUMBA Case Cable Inlet | ![image](staticmedia/transparent.png) | ![image](staticmedia/transparent.png) | ![image](staticmedia/transparent.png) |
 |---|---|---|---|---|
 
@@ -34,12 +36,11 @@
 - If the parts are not fixed well, apply some plastic glue in the corners. 
 - Mind that the matt side of the acrylic is going to be the visual outside of the casing, so prevent glue stains here.|
 
-![](media/Section_6_0001.png)
 
 --
-#### Step 2
+##### Step 2
 
-
+![](media/Section_6_0003.png)
 
 |![image](media/Section_1_0133.png) 1x RUMBA Case Left Side |![image](media/Section_1_0129.png) 1x RUMBA Case Base | ![image](media/Section_1_0139.png) 1x RUMBA Case Top | ![image](staticmedia/transparent.png) | ![image](staticmedia/transparent.png) |
 |---|---|---|---|---|
@@ -49,14 +50,14 @@
 - Connect the parts as shown above with the shiny part on top.
 - Take a good look at the image. Apply a line of glue in such a way that it will always stay inside of the casing to prevent stains. 
 
-![](media/Section_6_0003.png)
+
 
 --
-#### Step 3
+##### Step 3
 
+![](media/Section_6_0004.png)
 
-
-| ![image](media/Section_1_0135.png) 1x RUMBA Case Top | ![image](staticmedia/transparent.png) | ![image](staticmedia/transparent.png) | ![image](staticmedia/transparent.png) | ![image](staticmedia/transparent.png) |
+| ![image](media/Section_1_0135.png) 1x RUMBA Case Right Side | ![image](staticmedia/transparent.png) | ![image](staticmedia/transparent.png) | ![image](staticmedia/transparent.png) | ![image](staticmedia/transparent.png) |
 |---|---|---|---|---|
 
 
@@ -66,33 +67,25 @@
 - Apply glue if necessary.
 - Put 3 lines of glue on the shiny side of the big part as preparation.
     
-![](media/Section_6_0004.png)
 
+--
+##### Step 4
 
+![](media/Section_6_0005.png)
 
-<table>
-<colgroup>
-<col width="50%" />
-<col width="50%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td align="left"><p><img src="media/Section_6_0005.png" alt="media/Section_6_0005.png" /></p></td>
-<td align="left"><p><img src="media/Section_1_0132.png" alt="media/Section_1_0132.png" /><br />
- 2x RUMBA Case Corner</p></td>
-</tr>
-</tbody>
-</table>
+| ![image](media/Section_1_0132.png) 2x RUMBA Case Corner | ![image](staticmedia/transparent.png) | ![image](staticmedia/transparent.png) | ![image](staticmedia/transparent.png) | ![image](staticmedia/transparent.png) |
+|---|---|---|---|---|
 
 -   Put the Rigt Side of the case into position
-
-    -   It’s done easiest to put the lower corner first and turn in the part in counter clockwise direction looking from the top.
-
+-   It’s done easiest to put the lower corner first and turn in the part in counter clockwise direction looking from the top.
 -   Slide in the 3D printed corners.
-
 -   Put extra glue into all the corners to secure strength.
-
 -   Fix all the parts with some tape where needed and leave it to dry.
+
+
+
+
+
 
 <table>
 <colgroup>
