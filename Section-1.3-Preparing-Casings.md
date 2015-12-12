@@ -8,12 +8,17 @@
 <td align="left" width="60%"><p><img src="media/Section_6_0008.png" alt="media/Section_6_0008.png" /></p></td>
 <td align="left"><p>You will start the assembly with glueing the casings for the RUMBA controller electronics and the display. Since the glue needs time to dry it’s to best to have this done now.</p></td>
 </tr>
+<tr>
+  <td colspan="2">
+    <bold>NOTE: Please don’t use superglue for acrylic and printed parts, it will result in ugly white stains. </bold>
+  </td>
+</tr>
 </tbody>
 </table>
 
 
 
-__Please don’t use superglue for acrylic and printed parts, it will result in ugly white stains.__
+
 
 <table>
 <colgroup>
@@ -36,7 +41,8 @@ __Please don’t use superglue for acrylic and printed parts, it will result in 
 <tr class="even">
 <td colspan="3" align="left"><p><img src="media/Section_6_0001.png" alt="media/Section_6_0001.png" /></p></td>
 <td colspan="2" >
-<ul>
+  <font size="8px">
+  <ul>
   <li> Look for the RUMBA Case Bottom part in the bag of acrylic parts. </li>
   <ul>
     <li> Remove the protective film on the shiny side of the acrylic. </li>
@@ -47,7 +53,8 @@ __Please don’t use superglue for acrylic and printed parts, it will result in 
   <ul>
     <li> Mind that the matt side of the acrylic is going to be the visual outside of the casing, so prevent glue stains here. </li>
   </ul>
-</ul>
+  </ul>
+  </font>
 </td>
 </tr>
 </tbody>
