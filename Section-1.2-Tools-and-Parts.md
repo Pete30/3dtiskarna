@@ -2,9 +2,13 @@
 <br>
 <br>
 
-| tools | description |
-|-------|-------------|
+
+### Tools
+
+
+
 | <img src="http://cdn4.pcadvisor.co.uk/cmsdata/reviews/3465138/Photoshoot_220-Sony.jpg" width="400" /> | Laptop with OSX, Linux or Windows |
+|-------|-------------|
 | <img src="http://1.bp.blogspot.com/-_EQFV8lcUAE/TwakkvXywhI/AAAAAAAAAEE/9lYf2dLuG2k/s320/Double_Open_End_Spanner.jpg" width="400" /> | Open End Spanners sized 17mm/15mm/8mm |
 | <img src="http://www.wihatools.com/images/Bit_Sets/38028_bits_px500.jpg" width="400" /> | Torx 8 Screwdriver |
 | <img src="http://www.shafttech.com/images/stories/virtuemart/product/06773etc_4567mm.jpg" width="400" /> | Allen keys 1.5, 2.5, 3.0 and 6.0 mm |
@@ -17,13 +21,15 @@
 | <img src="staticmedia/kapton.jpeg" width="400" /> | Kapton _*_ |
 __*__ Included in the Workshop, NOT included in the Kit.
 
-<br>
+
 --
-<br>
+
+
+### Parts
 
 This is the list of all the parts you will find in the box if you bought a kit or workshop through http://i3berlin.com. A full Bill of Materials can be found [here](https://github.com/laydrop/i3-Berlin/blob/master/BOM.csv)
    
-Tip: you can enlarge the images by right click and then view the image.
+__Tip: you can enlarge the images by right click and then view the image.__
 <br>
 <br>   
 #### Acryl Parts
