@@ -6,11 +6,11 @@
 <tbody>
 <tr class="odd">
 <td align="left" width="60%"><p><img src="media/Section_6_0008.png" alt="media/Section_6_0008.png" /></p></td>
-<td align="left"><p style="text-align: justified;" >You will start the assembly with glueing the casings for the RUMBA controller electronics and the display. Since the glue needs time to dry it’s to best to have this done now.</p></td>
+<td align="left"><p>You will start the assembly with glueing the casings for the RUMBA controller electronics and the display. Since the glue needs time to dry it’s to best to have this done now.</p></td>
 </tr>
 <tr>
   <td colspan="2">
-    <bold> NOTE: Please don’t use superglue for acrylic and printed parts, it will result in ugly white stains. </bold>
+    __NOTE: Please don’t use superglue for acrylic and printed parts, it will result in ugly white stains.__
   </td>
 </tr>
 </tbody>
