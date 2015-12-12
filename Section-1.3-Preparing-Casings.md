@@ -9,11 +9,12 @@
 <tbody>
 <tr class="odd">
 <td align="left"><p><img src="media/Section_6_0008.png" alt="media/Section_6_0008.png" /></p></td>
+<td align="left"><p>You will start the assembly with glueing the casings for the RUMBA controller electronics and the display. Since the glue needs time to dry it’s to best to have this done now.</p></td>
 </tr>
 </tbody>
 </table>
 
-You will start the assembly with glueing the casings for the RUMBA controller electronics and the display. Since the glue needs time to dry it’s to best to have this done now.
+
 
 Please don’t use 1 second cyano-acrylat superglue for glueing the acrylic and printed parts, because they will probably cause ugly white stains.
 

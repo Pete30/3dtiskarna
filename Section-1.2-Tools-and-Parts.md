@@ -32,7 +32,7 @@ This is the list of all the parts you will find in the box if you bought a kit o
 __Tip: you can enlarge the images by right click and then view the image.__
 <br>
 <br>   
-#### Acryl Parts
+#### Acrylic Parts
 | <img src="media/Section_1_0129.png" alt="media/Section_1_0129.png" /> 1x RUMBA Case Base | <img src="media/Section_1_0130.png" alt="media/Section_1_0130.png" \>1x RUMBA Case Bottom | <img src="media/Section_1_0133.png" alt="media/Section_1_0133.png" /> 1x RUMBA Case Left Side | <img src="media/Section_1_0139.png" alt="media/Section_1_0139.png" /> 1x RUMBA Case Top | <img src="media/Section_1_0135.png" alt="media/Section_1_0135.png" /> 1x RUMBA Case Right Side |
 |---|---|---|---|---|
 | <img src="media/Section_1_0134.png" alt="media/Section_1_0134.png" /> 1x Case Lid | <img src="media/Section_1_0134.png" alt="media/Section_1_0134.png" /> 1x Display Case Base | <img src="media/Section_1_0114.png" alt="media/Section_1_0114.png" /> 1x Display Case Left | <img src="media/Section_1_0115.png" alt="media/Section_1_0115.png" /> 1x Display Case Back | <img src="media/Section_1_0118.png" alt="media/Section_1_0118.png" /> 1x Display Case Front |
@@ -44,20 +44,20 @@ __Tip: you can enlarge the images by right click and then view the image.__
 | <img src="media/Section_1_0116.png" alt="media/Section_1_0116.png" /> 1x Display Case Corner | | | | |
 <br>
 <br>   
-#### Printed Parts Y
+#### Printed Parts Y Achsis
 | <img src="media/Section_1_0069.png" alt="media/Section_1_0069.png" /> 1x Y-Middle Right | <img src="media/Section_1_0068.png" alt="media/Section_1_0068.png" /> 1x Y-Middle Left | <img src="media/Section_1_0065.png" alt="media/Section_1_0065.png" /> 1x Y-Front Left | <img src="media/Section_1_0067.png" alt="media/Section_1_0067.png" /> 1x Y-Height Adjuster | <img src="media/Section_1_0066.png" alt="media/Section_1_0066.png" /> 1x Y-Front Right |
 |---|---|---|---|---|
 | <img src="media/Section_1_0044.png" alt="media/Section_1_0044.png" /> 2x Belt Guiding Disk | <img src="media/Section_1_0070.png" alt="media/Section_1_0070.png" /> 1x Y-Motor mount | <img src="media/Section_1_0053.png" alt="media/Section_1_0053.png" /> 1x Power Connector Cover | <img src="media/Section_1_0064.png" alt="media/Section_1_0064.png" /> 1x Y-Back Left | <img src="media/Section_1_0071.png" alt="media/Section_1_0071.png" /> 1x Y-Teeth |
 <br>
 <br>   
-#### Printed Parts XZ
+#### Printed Parts XZ Achsis
 | <img src="media/Section_1_0060.png" alt="media/Section_1_0060.png" /> 1x X-Motor | <img src="media/Section_1_0061.png" alt="media/Section_1_0061.png" /> 1x X-Bearing Holder Left | <img src="media/Section_1_0059.png" alt="media/Section_1_0059.png" /> 1x X-Idler | <img src="media/Section_1_0062.png" alt="media/Section_1_0062.png" /> 1x X-Bearing Holder Right | <img src="media/Section_1_0058.png" alt="media/Section_1_0058.png" /> 1x X-Carriage |
 |---|---|---|---|---|
 | <img src="media/Section_1_0063.png" alt="media/Section_1_0063.png" /> 1x X-Teeth | <img src="media/Section_1_0072.png" alt="media/Section_1_0072.png" /> 1x Z-Motor Left | <img src="media/Section_1_0073.png" alt="media/Section_1_0073.png" /> 1x Z-Motor Right | <img src="media/Section_1_0044.png" alt="media/Section_1_0044.png" /> 2x Belt Guiding Disk | <img src="media/Section_1_0076.png" alt="media/Section_1_0076.png" /> 1x Z-Top Left | 
 | <img src="media/Section_1_0077.png" alt="media/Section_1_0077.png" /> 1x Z-Top Right | | | | |
 <br>
 <br>
-#### Printed Parts Extruder
+#### Printed Parts Extruder 
 | <img src="media/Section_1_0049.png" alt="media/Section_1_0049.png" /> 1x Extruder Fan Holder | <img src="media/Section_1_0100.png" alt="media/Section_1_0100.png" /> 1x Extruder Center Left | <img src="media/Section_1_0105.png" alt="media/Section_1_0105.png" /> 1x Extruder Center Right | <img src="media/Section_1_0107.png" alt="media/Section_1_0107.png" /> 2x E3D Fan Duct | <img src="media/Section_1_0054.png" alt="media/Section_1_0054.png" /> 1x Power Supply Cover |
 |---|---|---|---|---|
 | <img src="media/Section_1_0050.png" alt="media/Section_1_0050.png" /> 1x Active Cooling | <img src="media/Section_1_0045.png" alt="media/Section_1_0045.png" /> 1x Cable Holder | <img src="media/Section_1_0138.png" alt="media/Section_1_0138.png" /> 1x RUMBA Case Small Corner | | |
@@ -69,7 +69,7 @@ __Tip: you can enlarge the images by right click and then view the image.__
 | <img src="media/Section_1_0015.png" alt="media/Section_1_0015.png" /> 1x Extruder Front Plate L | <img src="media/Section_1_0016.png" alt="media/Section_1_0016.png" /> 1x Extruder Front Plate R | | | |
 <br>
 <br>
-#### RUMBA Box
+#### RUMBA Box ( Controller )
 | <img src="media/Section_1_0143.png" alt="media/Section_1_0143.png" /> 1x RUMBA Board | <img src="media/Section_1_0018.png" alt="media/Section_1_0018.png" /> 2x GT2 Pulley | <img src="media/Section_1_0141.png" alt="media/Section_1_0141.png" /> 1x 40mm Fan | <img src="media/Section_1_0104.png" alt="media/Section_1_0104.png" /> 4x M3x4 Set Screw | <img src="media/Section_1_0150.png" alt="media/Section_1_0150.png" /> 1x Ceramic Screw Driver | 
 |---|---|---|---|---|
 <br>
@@ -84,24 +84,24 @@ __Tip: you can enlarge the images by right click and then view the image.__
 |---|---|---|---|---|
 <br>
 <br>
-#### Rods Y
+#### Rods Y Achsis
 | <img src="media/Section_1_0079.png" alt="media/Section_1_0079.png" /> 2x M10 Threaded Rod | <img src="media/Section_1_0080.png" alt="media/Section_1_0080.png" /> 2x Smooth Rod 8 x 385 |  <img src="staticmedia/transparent.png" /> |  <img src="staticmedia/transparent.png" /> |  <img src="staticmedia/transparent.png" /> | 
 |---|---|---|---|---|
 <br>
 <br>   
-#### Rods XZ
+#### Rods XZ Achsis
 | <img src="media/Section_1_0080.png" alt="media/Section_1_0080.png" /> 1x 8mm x 400 Smooth Rod | <img src="media/Section_1_0080.png" alt="media/Section_1_0080.png" /> 1x 8mm x 343 Smooth Rod | <img src="media/Section_1_0080.png" alt="media/Section_1_0080.png" /> 2x 8x320mm Smooth Rod | <img src="media/Section_1_0101.png" alt="media/Section_1_0101.png" /> 2x Nema 17 Threaded Stepper |  <img src="staticmedia/transparent.png" /> |
 |---|---|---|---|---|
 <br>
 <br>
-#### Screws Y
+#### Screws Y Achsis
 | <img src="media/Section_1_0025.png" alt="media/Section_1_0025.png" /> 8x M10 Washer | <img src="media/Section_1_0024.png" alt="media/Section_1_0024.png" /> 8x M10 Spring Washer | <img src="media/Section_1_0023.png" alt="media/Section_1_0023.png" /> 12x M10 Nut | <img src="media/Section_1_0022.png" alt="media/Section_1_0022.png" /> 2x M10 Flange Nut | <img src="media/Section_1_0033.png" alt="media/Section_1_0033.png" /> 4x Round Nut |
 |---|---|---|---|---|
 | <img src="media/Section_1_0032.png" alt="media/Section_1_0032.png" /> 4x M4x10 Cylinder Screw | <img src="media/Section_1_0029.png" alt="media/Section_1_0029.png" /> 1x M3x16 Cylinder Screw | <img src="media/Section_1_0028.png" alt="media/Section_1_0028.png" /> 3+1 M3x10 Cylinder Screw | <img src="media/Section_1_0035.png" alt="media/Section_1_0035.png" /> 3x Torx 3x16 Screw | <img src="media/Section_1_0034.png" alt="media/Section_1_0034.png" /> 2+1 Torx 3x10 Screw |
 | <img src="media/Section_1_0026.png" alt="media/Section_1_0026.png" /> 1+1 M3 Locknut | <img src="media/Section_1_0036.png" alt="media/Section_1_0036.png" /> 1x 4h8x16 Dowel | <img src="media/Section_1_0001.png" alt="media/Section_1_0001.png" /> 1x 624ZZ Bearing | <img src="media/Section_1_0103.png" alt="media/Section_1_0103.png" /> 1x Teethed Washer | <img src="media/Section_1_0154.png" alt="media/Section_1_0154.png" /> 1x Belt Tensioner | 
 <br>
 <br>
-#### Screws XZ
+#### Screws XZ Achsis
 | <img src="media/Section_1_0032.png" alt="media/Section_1_0032.png" /> 1x M4x10 Cylinder Screw | <img src="media/Section_1_0028.png" alt="media/Section_1_0028.png" /> 5+1 M3x10 Cylinder Screw | <img src="media/Section_1_0019.png" alt="media/Section_1_0019.png" /> 8+1 M3x10 Counter Sunk | <img src="media/Section_1_0035.png" alt="media/Section_1_0035.png" /> 6x Torx 3x16 Screw | <img src="media/Section_1_0034.png" alt="media/Section_1_0034.png" /> 14+1 Torx 3x10 Screw |
 |---|---|---|---|---|
 | <img src="media/Section_1_0027.png" alt="media/Section_1_0027.png" /> 5+1 M3 Washer | <img src="media/Section_1_0001.png" alt="media/Section_1_0001.png" /> 1x 624ZZ Bearing | <img src="media/Section_1_0154.png" alt="media/Section_1_0154.png" /> 1x Belt Tensioner | | |
