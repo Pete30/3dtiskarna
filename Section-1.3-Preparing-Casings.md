@@ -23,7 +23,7 @@
 --
 
 | ![image](media/Section_1_0130.png) 1x RUMBA Case Bottom | ![image](media/Section_1_0131.png) 1x RUMBA Case Cable Inlet | ![image](staticmedia/transparent.png) | ![image](staticmedia/transparent.png) | ![image](staticmedia/transparent.png) |
-|---|---|
+|---|---|---|---|---|
 
 
 - Look for the RUMBA Case Bottom part in the bag of acrylic parts. 
