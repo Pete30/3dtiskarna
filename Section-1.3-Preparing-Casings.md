@@ -3,12 +3,9 @@
 [Section Menu](https://github.com/laydrop/i3-Berlin/wiki/Section-1-Introduction)
 
 <table>
-<colgroup>
-<col width="100%" />
-</colgroup>
 <tbody>
 <tr class="odd">
-<td align="left"><p><img src="media/Section_6_0008.png" alt="media/Section_6_0008.png" /></p></td>
+<td align="left" width="60%"><p><img src="media/Section_6_0008.png" alt="media/Section_6_0008.png" /></p></td>
 <td align="left"><p>You will start the assembly with glueing the casings for the RUMBA controller electronics and the display. Since the glue needs time to dry it’s to best to have this done now.</p></td>
 </tr>
 </tbody>
@@ -16,37 +13,42 @@
 
 
 
-Please don’t use 1 second cyano-acrylat superglue for glueing the acrylic and printed parts, because they will probably cause ugly white stains.
+__Please don’t use superglue for acrylic and printed parts, it will result in ugly white stains.__
 
 <table>
 <colgroup>
-<col width="50%" />
-<col width="50%" />
+<col width="20%" />
 </colgroup>
 <tbody>
 <tr class="odd">
 <td align="left"><p><img src="media/Section_6_0001.png" alt="media/Section_6_0001.png" /></p></td>
 <td align="left"><p><img src="media/Section_1_0130.png" alt="media/Section_1_0130.png" /><br />
  1x RUMBA Case Bottom</p></td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr class="even">
-<td align="left"><p><img src="media/Section_1_0131.png" alt="media/Section_1_0131.png" /><br />
+<td colspan="3" align="left"><p><img src="media/Section_1_0131.png" alt="media/Section_1_0131.png" /><br />
  1x RUMBA Case Cable Inlet</p></td>
+<td colspan="2" >
+<ul>
+  <li> Look for the RUMBA Case Bottom part in the bag of acrylic parts. </li>
+  <ul>
+    <li> Remove the protective film on the shiny side of the acrylic. </li>
+  </ul>
+  <li> The Cable Inlet can be found in the bag of printed parts. </li>
+  <li> Stick the parts together in such a way that the printed part is flush with the engraved side of the acrylic part. </li>
+  <li> If the parts are not fixed well, apply some plastic glue in the corners. </li>
+  <ul>
+    <li> Mind that the matt side of the acrylic is going to be the visual outside of the casing, so prevent glue stains here. </li>
+  </ul>
+</ul>
+</td>
 </tr>
 </tbody>
 </table>
 
--   Look for the RUMBA Case Bottom part in the bag of acrylic parts.
-
-    -   Remove the protective film on the shiny side of the acrylic.
-
--   The Cable Inlet can be found in the bag of printed parts.
-
--   Stick the parts together in such a way that the printed part is flush with the engraved side of the acrylic part.
-
--   If the parts are not fixed well, apply some plastic glue in the corners.
-
-    -   Mind that the matt side of the acrylic is going to be the visual outside of the casing, so prevent glue stains here.
 
 <table>
 <colgroup>
