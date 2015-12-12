@@ -11,9 +11,12 @@
 </tbody>
 </table>
 
---
+<br>
+<br>
    __NOTE: Please don’t use superglue for acrylic and printed parts, it will result in ugly white stains.__
---
+<br>
+<br>
+<br>
 
 
 <table> 
@@ -85,29 +88,34 @@
 
 <table>
 <colgroup>
-<col width="50%" />
-<col width="50%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="40%" />
 </colgroup>
 <tbody>
 <tr class="odd">
-<td align="left"><p><img src="media/Section_6_0004.png" alt="media/Section_6_0004.png" /></p></td>
-<td align="left"><p><img src="media/Section_1_0135.png" alt="media/Section_1_0135.png" /><br />
- 1x RUMBA Case Right Side</p></td>
+<td colspan="3" align="left"><p><img src="media/Section_6_0004.png" alt="media/Section_6_0004.png" /></p></td>
+<td rowspan="2">
+  <ul>
+    <li>   Flip up the 3 sides as shown in the picture above, and push them well in place. </li>
+    <li>   Prepare a line of glue on the two left corners. </li>
+    <li>   Remove the protective film of the acrylic parts. </li>
+    <li>   Push in the small piece as shown. </li>
+    <li>   Apply glue if necessary. </li>
+    <li>   Put 3 lines of glue on the shiny side of the big part as preparation. </li>
+  </ul>
+</td>
+</tr>
+<tr>
+  <td align="left"><p><img src="media/Section_1_0135.png" alt="media/Section_1_0135.png" /><br />
+      1x RUMBA Case Right Side</p></td>
+  <td> </td>
+  <td> </td>
 </tr>
 </tbody>
 </table>
 
--   Flip up the 3 sides as shown in the picture above, and push them well in place.
-
--   Prepare a line of glue on the two left corners.
-
--   Remove the protective film of the acrylic parts.
-
--   Push in the small piece as shown.
-
-    -   Apply glue if necessary.
-
--   Put 3 lines of glue on the shiny side of the big part as preparation.
 
 <table>
 <colgroup>
