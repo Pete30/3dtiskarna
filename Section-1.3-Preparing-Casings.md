@@ -77,7 +77,7 @@ __NOTE: Please don’t use superglue for acrylic and printed parts, it will resu
 
 ![](media/Section_6_0006.png)
 
-| ![image](media/Section_1_0134.png)  1x RUMBA Case Lid | ![image](smedia/Section_1_0140.png) 1x RUMBA Case FanHolder | ![image](media/Section_1_0141.png) 1x 40mm Fan | ![image](staticmedia/transparent.png) | ![image](staticmedia/transparent.png) |
+| ![image](media/Section_1_0134.png)  1x RUMBA Case Lid | ![image](media/Section_1_0140.png) 1x RUMBA Case FanHolder | ![image](media/Section_1_0141.png) 1x 40mm Fan | ![image](staticmedia/transparent.png) | ![image](staticmedia/transparent.png) |
 |---|---|---|---|---|
 
 
@@ -94,7 +94,7 @@ __NOTE: Please don’t use superglue for acrylic and printed parts, it will resu
 
 ![](media/Section_6_0010.png)
 
-| ![image](media/Section_1_0114.png)  1x Display Case Base | ![image](smedia/Section_1_0122.png)  1x Display Case Left | ![image](media/Section_1_0115.png) 1x Display Case Back | ![image](media/Section_1_0118.png) 1x Display Case Front | ![image](media/Section_1_0123.png) 1x Display Case Right |
+| ![image](media/Section_1_0114.png)  1x Display Case Base | ![image](media/Section_1_0122.png)  1x Display Case Left | ![image](media/Section_1_0115.png) 1x Display Case Back | ![image](media/Section_1_0118.png) 1x Display Case Front | ![image](media/Section_1_0123.png) 1x Display Case Right |
 |---|---|---|---|---|
 
 
@@ -169,7 +169,7 @@ __NOTE: Please don’t use superglue for acrylic and printed parts, it will resu
 
 ![](media/Section_6_0016.png)
 
-| ![image](media/Section_1_0119.png)  1x Knob Base | ![image](smedia/Section_1_0124.png)  1x Knob Support | ![image](media/Section_1_0121.png) 1x Knob Rim | ![image](media/Section_1_0120.png) 1x Knob Cushion | ![image](staticmedia/transparent.png) |
+| ![image](media/Section_1_0119.png)  1x Knob Base | ![image](media/Section_1_0124.png)  1x Knob Support | ![image](media/Section_1_0121.png) 1x Knob Rim | ![image](media/Section_1_0120.png) 1x Knob Cushion | ![image](staticmedia/transparent.png) |
 |---|---|---|---|---|
 
 
