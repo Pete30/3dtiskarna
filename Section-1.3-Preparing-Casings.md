@@ -10,7 +10,7 @@
 </tr>
 <tr>
   <td colspan="2">
-    <bold>NOTE: Please don’t use superglue for acrylic and printed parts, it will result in ugly white stains. </bold>
+    <bold> NOTE: Please don’t use superglue for acrylic and printed parts, it will result in ugly white stains. </bold>
   </td>
 </tr>
 </tbody>
@@ -20,7 +20,7 @@
 
 
 
-<table>
+<table style="font-size: 12px;">
 <colgroup>
   <col width="20%" />
   <col width="20%" />
