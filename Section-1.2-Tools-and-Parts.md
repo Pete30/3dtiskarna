@@ -66,11 +66,11 @@ Tip: you can enlarge the images by right click and then view the image.
 |---|---|---|---|---|
 
 #### Graphic LCD Box
-| <img src="media/Section_1_0005.png" alt="media/Section_1_0005.png" /> 1x Graphic LCD Controller | <img src="media/Section_1_0151.png" alt="media/Section_1_0151.png" /> 1x SD Card | <img src="media/Section_4_0011b.png" alt="media/Section_4_0011b.png" /> 2x Flatband Cable | - | - |
+| <img src="media/Section_1_0005.png" alt="media/Section_1_0005.png" /> 1x Graphic LCD Controller | <img src="media/Section_1_0151.png" alt="media/Section_1_0151.png" /> 1x SD Card | <img src="media/Section_4_0011b.png" alt="media/Section_4_0011b.png" /> 2x Flatband Cable |  <img src="staticmedia/transparent.png" /> |  <img src="staticmedia/transparent.png" /> | 
 |---|---|---|---|---|
 
 #### Endstop Box
-| <img src="media/Section_1_0006.png" alt="media/Section_1_0006.png" /> 1x Hall-O Endstop | <img src="media/Section_1_0152.png" alt="media/Section_1_0152.png" /> 6x Magnet | - | - | - |
+| <img src="media/Section_1_0006.png" alt="media/Section_1_0006.png" width="20%"/> 1x Hall-O Endstop | <img src="media/Section_1_0152.png" alt="media/Section_1_0152.png" /> 6x Magnet | <img src="staticmedia/transparent.png" /> |  <img src="staticmedia/transparent.png" /> |  <img src="staticmedia/transparent.png" /> | 
 |---|---|---|---|---|
 
 <table>
