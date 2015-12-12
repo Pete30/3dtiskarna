@@ -20,21 +20,22 @@
 
 
 
-#### Step 1
+--
 
-| <img src="media/Section_1_0130.png" alt="media/Section_1_0130.png" /> 1x RUMBA Case Bottom | <img src="media/Section_1_0131.png" alt="media/Section_1_0131.png" /> 1x RUMBA Case Cable Inlet
+| ![image](media/Section_1_0130.png) 1x RUMBA Case Bottom | ![image](media/Section_1_0131.png) 1x RUMBA Case Cable Inlet | ![image](staticmedia/transparent.png) | ![image](staticmedia/transparent.png) | ![image](staticmedia/transparent.png) |
 |---|---|
 
-| <img src="media/Section_6_0001.png" alt="media/Section_6_0001.png" /> |
+
 - Look for the RUMBA Case Bottom part in the bag of acrylic parts. 
 - Remove the protective film on the shiny side of the acrylic. 
 - The Cable Inlet can be found in the bag of printed parts. 
 - Stick the parts together in such a way that the printed part is flush with the engraved side of the acrylic part. 
 - If the parts are not fixed well, apply some plastic glue in the corners. 
 - Mind that the matt side of the acrylic is going to be the visual outside of the casing, so prevent glue stains here.|
-|---|---|
 
+![](media/Section_6_0001.png)
 
+--
 
 <table>
 <colgroup>
