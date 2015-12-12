@@ -1,6 +1,7 @@
 [Next](https://github.com/laydrop/i3-Berlin/wiki/Section-1.3-Preparing-Casings)
 <br>
 <br>
+
 | tools | description |
 |-------|-------------|
 | <img src="http://cdn4.pcadvisor.co.uk/cmsdata/reviews/3465138/Photoshoot_220-Sony.jpg" width="400" /> | Laptop with OSX, Linux or Windows |
