@@ -21,9 +21,10 @@ This is the list of all the parts you will find in the box if you bought a kit o
 Tip: you can enlarge the images by right click and then view the image.
 
 
-| Acryl Parts | - | - | - | - | 
-|---|---|---|---|---|
+#### Acryl Parts
+
 | <img src="media/Section_1_0129.png" alt="media/Section_1_0129.png" /> 1x RUMBA Case Base | <img src="media/Section_1_0130.png" alt="media/Section_1_0130.png" \>1x RUMBA Case Bottom | <img src="media/Section_1_0133.png" alt="media/Section_1_0133.png" /> 1x RUMBA Case Left Side | <img src="media/Section_1_0139.png" alt="media/Section_1_0139.png" /> 1x RUMBA Case Top | <img src="media/Section_1_0135.png" alt="media/Section_1_0135.png" /> 1x RUMBA Case Right Side |
+|---|---|---|---|---|
 | <img src="media/Section_1_0134.png" alt="media/Section_1_0134.png" /> 1x Case Lid | <img src="media/Section_1_0134.png" alt="media/Section_1_0134.png" /> 1x Display Case Base | <img src="media/Section_1_0114.png" alt="media/Section_1_0114.png" /> 1x Display Case Left | <img src="media/Section_1_0115.png" alt="media/Section_1_0115.png" /> 1x Display Case Back | <img src="media/Section_1_0118.png" alt="media/Section_1_0118.png" /> 1x Display Case Front |
 | <img src="media/Section_1_0123.png" alt="media/Section_1_0123.png" /> 1x Display Case Right | <img src="media/Section_1_0125.png" alt="media/Section_1_0125.png" /> 1x Display Case Top Base | <img src="media/Section_1_0126.png" alt="media/Section_1_0126.png" /> 1x Display Case Top Bottom | <img src="media/Section_1_0127.png" alt="media/Section_1_0127.png" /> 1x Display Case Window | <img src="media/Section_1_0128.png" alt="media/Section_1_0128.png" /> 1x Display Case Window |
 | <img src="media/Section_1_0128.png" alt="media/Section_1_0128.png" /> 1x Display Case Top | <img src="media/Section_1_0142.png" alt="media/Section_1_0142.png" /> 4x Display spacer | <img src="media/Section_1_0119.png" alt="media/Section_1_0119.png" /> 1x Knob Base | <img src="media/Section_1_0124.png" alt="media/Section_1_0124.png" /> 1x Knob Support | <img src="media/Section_1_0121.png" alt="media/Section_1_0121.png" /> 1x Knob Rim |
@@ -32,285 +33,45 @@ Tip: you can enlarge the images by right click and then view the image.
 | <img src="media/Section_1_0137.png" alt="media/Section_1_0137.png" /> 1x RUMBA Case Inlet Side | <img src="media/Section_1_0149.png" alt="media/Section_1_0149.png" /> 2x X-Idler Cover | <img src="media/Section_1_0131.png" alt="media/Section_1_0131.png" /> 1x RUMBA Case Cable Inlet | <img src="media/Section_1_0132.png" alt="media/Section_1_0132.png" /> 2x RUMBA Case Corner | <img src="media/Section_1_0140.png" alt="media/Section_1_0140.png" /> 1x RUMBA Case FanHolder |
 | <img src="media/Section_1_0116.png" alt="media/Section_1_0116.png" /> 1x Display Case Corner | | | | |
 
-<table>
-<caption>Printed Parts Y</caption>
-<colgroup>
-<col width="100%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td align="left"><p>□ <img src="media/Section_1_0069.png" alt="media/Section_1_0069.png" /><br />
- 1x Y-Middle Right</p></td>
-</tr>
-<tr class="even">
-<td align="left"><p>□ <img src="media/Section_1_0068.png" alt="media/Section_1_0068.png" /><br />
- 1x Y-Middle Left</p></td>
-</tr>
-<tr class="odd">
-<td align="left"><p>□ <img src="media/Section_1_0065.png" alt="media/Section_1_0065.png" /><br />
- 1x Y-Front Left</p></td>
-</tr>
-<tr class="even">
-<td align="left"><p>□ <img src="media/Section_1_0067.png" alt="media/Section_1_0067.png" /><br />
- 1x Y-Height Adjuster</p></td>
-</tr>
-<tr class="odd">
-<td align="left"><p>□ <img src="media/Section_1_0066.png" alt="media/Section_1_0066.png" /><br />
- 1x Y-Front Right</p></td>
-</tr>
-<tr class="even">
-<td align="left"><p>□ <img src="media/Section_1_0044.png" alt="media/Section_1_0044.png" /><br />
- 2x Belt Guiding Disk</p></td>
-</tr>
-<tr class="odd">
-<td align="left"><p>□ <img src="media/Section_1_0070.png" alt="media/Section_1_0070.png" /><br />
- 1x Y-Motor mount</p></td>
-</tr>
-<tr class="even">
-<td align="left"><p>□ <img src="media/Section_1_0053.png" alt="media/Section_1_0053.png" /><br />
- 1x Power Connector Cover</p></td>
-</tr>
-<tr class="odd">
-<td align="left"><p>□ <img src="media/Section_1_0064.png" alt="media/Section_1_0064.png" /><br />
- 1x Y-Back Left</p></td>
-</tr>
-<tr class="even">
-<td align="left"><p>□ <img src="media/Section_1_0071.png" alt="media/Section_1_0071.png" /><br />
- 1x Y-Teeth</p></td>
-</tr>
-</tbody>
-</table>
 
-<table>
-<caption>Printed Parts XZ</caption>
-<colgroup>
-<col width="100%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td align="left"><p>□ <img src="media/Section_1_0060.png" alt="media/Section_1_0060.png" /><br />
- 1x X-Motor</p></td>
-</tr>
-<tr class="even">
-<td align="left"><p>□ <img src="media/Section_1_0061.png" alt="media/Section_1_0061.png" /><br />
- 1x X-Bearing Holder Left</p></td>
-</tr>
-<tr class="odd">
-<td align="left"><p>□ <img src="media/Section_1_0059.png" alt="media/Section_1_0059.png" /><br />
- 1x X-Idler</p></td>
-</tr>
-<tr class="even">
-<td align="left"><p>□ <img src="media/Section_1_0062.png" alt="media/Section_1_0062.png" /><br />
- 1x X-Bearing Holder Right</p></td>
-</tr>
-<tr class="odd">
-<td align="left"><p>□ <img src="media/Section_1_0058.png" alt="media/Section_1_0058.png" /><br />
- 1x X-Carriage</p></td>
-</tr>
-<tr class="even">
-<td align="left"><p>□ <img src="media/Section_1_0063.png" alt="media/Section_1_0063.png" /><br />
- 1x X-Teeth</p></td>
-</tr>
-<tr class="odd">
-<td align="left"><p>□ <img src="media/Section_1_0072.png" alt="media/Section_1_0072.png" /><br />
- 1x Z-Motor Left</p></td>
-</tr>
-<tr class="even">
-<td align="left"><p>□ <img src="media/Section_1_0073.png" alt="media/Section_1_0073.png" /><br />
- 1x Z-Motor Right</p></td>
-</tr>
-<tr class="odd">
-<td align="left"><p>□ <img src="media/Section_1_0044.png" alt="media/Section_1_0044.png" /><br />
- 2x Belt Guiding Disk</p></td>
-</tr>
-<tr class="even">
-<td align="left"><p>□ <img src="media/Section_1_0076.png" alt="media/Section_1_0076.png" /><br />
- 1x Z-Top Left</p></td>
-</tr>
-<tr class="odd">
-<td align="left"><p>□ <img src="media/Section_1_0077.png" alt="media/Section_1_0077.png" /><br />
- 1x Z-Top Right</p></td>
-</tr>
-<tr class="even">
-<td align="left"></td>
-</tr>
-<tr class="odd">
-<td align="left"></td>
-</tr>
-<tr class="even">
-<td align="left"></td>
-</tr>
-<tr class="odd">
-<td align="left"></td>
-</tr>
-</tbody>
-</table>
+#### Printed Parts Y
 
-<table>
-<caption>Printed Parts Extruder</caption>
-<colgroup>
-<col width="100%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td align="left"><p>□ <img src="media/Section_1_0049.png" alt="media/Section_1_0049.png" /><br />
- 1x Extruder Fan Holder</p></td>
-</tr>
-<tr class="even">
-<td align="left"><p>□ <img src="media/Section_1_0100.png" alt="media/Section_1_0100.png" /><br />
- 1x Extruder Center Left</p></td>
-</tr>
-<tr class="odd">
-<td align="left"><p>□ <img src="media/Section_1_0105.png" alt="media/Section_1_0105.png" /><br />
- 1x Extruder Center Right</p></td>
-</tr>
-<tr class="even">
-<td align="left"><p>□ <img src="media/Section_1_0107.png" alt="media/Section_1_0107.png" /><br />
- 2x E3D Fan Duct</p></td>
-</tr>
-<tr class="odd">
-<td align="left"></td>
-</tr>
-</tbody>
-</table>
+| <img src="media/Section_1_0069.png" alt="media/Section_1_0069.png" /> 1x Y-Middle Right | <img src="media/Section_1_0068.png" alt="media/Section_1_0068.png" /> 1x Y-Middle Left | <img src="media/Section_1_0065.png" alt="media/Section_1_0065.png" /> 1x Y-Front Left | <img src="media/Section_1_0067.png" alt="media/Section_1_0067.png" /> 1x Y-Height Adjuster | <img src="media/Section_1_0066.png" alt="media/Section_1_0066.png" /> 1x Y-Front Right |
+|---|---|---|---|---|
+| <img src="media/Section_1_0044.png" alt="media/Section_1_0044.png" /> 2x Belt Guiding Disk | <img src="media/Section_1_0070.png" alt="media/Section_1_0070.png" /> 1x Y-Motor mount | <img src="media/Section_1_0053.png" alt="media/Section_1_0053.png" /> 1x Power Connector Cover | <img src="media/Section_1_0064.png" alt="media/Section_1_0064.png" /> 1x Y-Back Left | <img src="media/Section_1_0071.png" alt="media/Section_1_0071.png" /> 1x Y-Teeth |
 
-<table>
-<caption>Printed Parts Wiring</caption>
-<colgroup>
-<col width="100%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td align="left"><p>□ <img src="media/Section_1_0054.png" alt="media/Section_1_0054.png" /><br />
- 1x Power Supply Cover</p></td>
-</tr>
-<tr class="even">
-<td align="left"><p>□ <img src="media/Section_1_0050.png" alt="media/Section_1_0050.png" /><br />
- 1x Active Cooling</p></td>
-</tr>
-<tr class="odd">
-<td align="left"><p>□ <img src="media/Section_1_0045.png" alt="media/Section_1_0045.png" /><br />
- 1x Cable Holder</p></td>
-</tr>
-<tr class="even">
-<td align="left"><p>□ <img src="media/Section_1_0138.png" alt="media/Section_1_0138.png" /><br />
- 1x RUMBA Case Small Corner</p></td>
-</tr>
-</tbody>
-</table>
 
-<table>
-<caption>Frame</caption>
-<colgroup>
-<col width="100%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td align="left"><p>□ <img src="media/Section_1_0011.png" alt="media/Section_1_0011.png" /><br />
- 1x Back Plate</p></td>
-</tr>
-<tr class="even">
-<td align="left"><p>□ <img src="media/Section_1_0012.png" alt="media/Section_1_0012.png" /><br />
- 1x Front Plate</p></td>
-</tr>
-<tr class="odd">
-<td align="left"><p>□ <img src="media/Section_1_0013.png" alt="media/Section_1_0013.png" /><br />
- 1x Y-Carriage</p></td>
-</tr>
-<tr class="even">
-<td align="left"><p>□ <img src="media/Section_1_0010.png" alt="media/Section_1_0010.png" /><br />
- 1x XZ-Plate</p></td>
-</tr>
-<tr class="odd">
-<td align="left"><p>□ <img src="media/Section_1_0014.png" alt="media/Section_1_0014.png" /><br />
- 1x Extruder Base Plate</p></td>
-</tr>
-<tr class="even">
-<td align="left"><p>□ <img src="media/Section_1_0015.png" alt="media/Section_1_0015.png" /><br />
- 1x Extruder Front Plate L</p></td>
-</tr>
-<tr class="odd">
-<td align="left"><p>□ <img src="media/Section_1_0016.png" alt="media/Section_1_0016.png" /><br />
- 1x Extruder Front Plate R</p></td>
-</tr>
-<tr class="even">
-<td align="left"></td>
-</tr>
-<tr class="odd">
-<td align="left"></td>
-</tr>
-<tr class="even">
-<td align="left"></td>
-</tr>
-</tbody>
-</table>
+#### Printed Parts XZ
 
-<table>
-<caption>RUMBA Box</caption>
-<colgroup>
-<col width="100%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td align="left"><p>□ <img src="media/Section_1_0143.png" alt="media/Section_1_0143.png" /><br />
- 1x RUMBA Board</p></td>
-</tr>
-<tr class="even">
-<td align="left"><p>□ <img src="media/Section_1_0018.png" alt="media/Section_1_0018.png" /><br />
- 2x GT2 Pulley</p></td>
-</tr>
-<tr class="odd">
-<td align="left"><p>□ <img src="media/Section_1_0141.png" alt="media/Section_1_0141.png" /><br />
- 1x 40mm Fan</p></td>
-</tr>
-<tr class="even">
-<td align="left"><p>□ <img src="media/Section_1_0104.png" alt="media/Section_1_0104.png" /><br />
- 4x M3x4 Set Screw</p></td>
-</tr>
-<tr class="odd">
-<td align="left"><p>□ <img src="media/Section_1_0150.png" alt="media/Section_1_0150.png" /><br />
- 1x Ceramic Screw Driver</p></td>
-</tr>
-</tbody>
-</table>
+| <img src="media/Section_1_0060.png" alt="media/Section_1_0060.png" /> 1x X-Motor | <img src="media/Section_1_0061.png" alt="media/Section_1_0061.png" /> 1x X-Bearing Holder Left | <img src="media/Section_1_0059.png" alt="media/Section_1_0059.png" /> 1x X-Idler | <img src="media/Section_1_0062.png" alt="media/Section_1_0062.png" /> 1x X-Bearing Holder Right | <img src="media/Section_1_0058.png" alt="media/Section_1_0058.png" /> 1x X-Carriage |
+|---|---|---|---|---|
+| <img src="media/Section_1_0063.png" alt="media/Section_1_0063.png" /> 1x X-Teeth | <img src="media/Section_1_0072.png" alt="media/Section_1_0072.png" /> 1x Z-Motor Left | <img src="media/Section_1_0073.png" alt="media/Section_1_0073.png" /> 1x Z-Motor Right | <img src="media/Section_1_0044.png" alt="media/Section_1_0044.png" /> 2x Belt Guiding Disk | <img src="media/Section_1_0076.png" alt="media/Section_1_0076.png" /> 1x Z-Top Left | 
+| <img src="media/Section_1_0077.png" alt="media/Section_1_0077.png" /> 1x Z-Top Right | | | | |
 
-<table>
-<caption>Graphic LCD Box</caption>
-<colgroup>
-<col width="100%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td align="left"><p>□ <img src="media/Section_1_0005.png" alt="media/Section_1_0005.png" /><br />
- 1x Graphic LCD Controller</p></td>
-</tr>
-<tr class="even">
-<td align="left"><p>□ <img src="media/Section_1_0151.png" alt="media/Section_1_0151.png" /><br />
- 1x SD Card</p></td>
-</tr>
-<tr class="odd">
-<td align="left"><p>□ <img src="media/Section_4_0011b.png" alt="media/Section_4_0011b.png" /><br />
- 2x Flatband Cable</p></td>
-</tr>
-</tbody>
-</table>
 
-<table>
-<caption>Endstop Box</caption>
-<colgroup>
-<col width="100%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td align="left"><p>□ <img src="media/Section_1_0006.png" alt="media/Section_1_0006.png" /><br />
- 1x Hall-O Endstop</p></td>
-</tr>
-<tr class="even">
-<td align="left"><p>□ <img src="media/Section_1_0152.png" alt="media/Section_1_0152.png" /><br />
- 6x Magnet</p></td>
-</tr>
-</tbody>
-</table>
+#### Printed Parts Extruder
+| <img src="media/Section_1_0049.png" alt="media/Section_1_0049.png" /> 1x Extruder Fan Holder | <img src="media/Section_1_0100.png" alt="media/Section_1_0100.png" /> 1x Extruder Center Left | <img src="media/Section_1_0105.png" alt="media/Section_1_0105.png" /> 1x Extruder Center Right | <img src="media/Section_1_0107.png" alt="media/Section_1_0107.png" /> 2x E3D Fan Duct | <img src="media/Section_1_0054.png" alt="media/Section_1_0054.png" /> 1x Power Supply Cover |
+|---|---|---|---|---|
+| <img src="media/Section_1_0050.png" alt="media/Section_1_0050.png" /> 1x Active Cooling | <img src="media/Section_1_0045.png" alt="media/Section_1_0045.png" /> 1x Cable Holder | <img src="media/Section_1_0138.png" alt="media/Section_1_0138.png" /> 1x RUMBA Case Small Corner | | |
+
+
+#### Frame
+| <img src="media/Section_1_0011.png" alt="media/Section_1_0011.png" /> 1x Back Plate | <img src="media/Section_1_0012.png" alt="media/Section_1_0012.png" /> 1x Front Plate | <img src="media/Section_1_0013.png" alt="media/Section_1_0013.png" /> 1x Y-Carriage | <img src="media/Section_1_0010.png" alt="media/Section_1_0010.png" /> 1x XZ-Plate | <img src="media/Section_1_0014.png" alt="media/Section_1_0014.png" /> 1x Extruder Base Plate |
+|---|---|---|---|---|
+| <img src="media/Section_1_0015.png" alt="media/Section_1_0015.png" /> 1x Extruder Front Plate L | <img src="media/Section_1_0016.png" alt="media/Section_1_0016.png" /> 1x Extruder Front Plate R | | | |
+
+
+#### RUMBA Box
+| <img src="media/Section_1_0143.png" alt="media/Section_1_0143.png" /> 1x RUMBA Board | <img src="media/Section_1_0018.png" alt="media/Section_1_0018.png" /> 2x GT2 Pulley | <img src="media/Section_1_0141.png" alt="media/Section_1_0141.png" /> 1x 40mm Fan | <img src="media/Section_1_0104.png" alt="media/Section_1_0104.png" /> 4x M3x4 Set Screw | <img src="media/Section_1_0150.png" alt="media/Section_1_0150.png" /> 1x Ceramic Screw Driver | 
+|---|---|---|---|---|
+
+#### Graphic LCD Box
+| <img src="media/Section_1_0005.png" alt="media/Section_1_0005.png" /> 1x Graphic LCD Controller | <img src="media/Section_1_0151.png" alt="media/Section_1_0151.png" /> 1x SD Card | <img src="media/Section_4_0011b.png" alt="media/Section_4_0011b.png" /> 2x Flatband Cable | - | - |
+|---|---|---|---|---|
+
+#### Endstop Box
+| <img src="media/Section_1_0006.png" alt="media/Section_1_0006.png" /> 1x Hall-O Endstop | <img src="media/Section_1_0152.png" alt="media/Section_1_0152.png" /> 6x Magnet | 
+
 
 <table>
 <caption>Rods Y</caption>
