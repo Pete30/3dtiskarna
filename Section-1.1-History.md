@@ -52,17 +52,7 @@ The first improvements came from Bowyers own lab in the shape of the Mendel. Thi
 
 His name Josef Prusa and redesigned the Mendel into the Prusa-Mendel, a much easier to build machine. And therefore much more accessible. Thousands of people build this open source machine. The software improved, as well as the electronics. A hole RepRap economy started growing and many other people started making their own printer designs.
 
-<table>
-<colgroup>
-<col width="100%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td align="left"><p><img src="http://makezineblog.files.wordpress.com/2012/11/sip4_futureprinter_prusa-02.jpg" alt="http://makezineblog.files.wordpress.com/2012/11/sip4_futureprinter_prusa-02.jpg" /><br />
- Prusa i3</p></td>
-</tr>
-</tbody>
-</table>
+
 
 In 2012 Prusa did it again and made a complete new 3D printer design, which was even easier to build. He called it the Prusa i3, which stands for “iteration 3”
 
