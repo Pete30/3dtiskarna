@@ -19,9 +19,9 @@
 This is the list of all the parts you will find in the box if you bought a kit or workshop through [Laydrop](http://www.laydrop.com/en/). A full Bill of Materials can be found [here](https://github.com/laydrop/i3-Berlin/blob/master/BOM.csv)
    
 Tip: you can enlarge the images by right click and then view the image.
-   
-   
-   
+    
+    
+    
 #### Acryl Parts
 | <img src="media/Section_1_0129.png" alt="media/Section_1_0129.png" /> 1x RUMBA Case Base | <img src="media/Section_1_0130.png" alt="media/Section_1_0130.png" \>1x RUMBA Case Bottom | <img src="media/Section_1_0133.png" alt="media/Section_1_0133.png" /> 1x RUMBA Case Left Side | <img src="media/Section_1_0139.png" alt="media/Section_1_0139.png" /> 1x RUMBA Case Top | <img src="media/Section_1_0135.png" alt="media/Section_1_0135.png" /> 1x RUMBA Case Right Side |
 |---|---|---|---|---|
