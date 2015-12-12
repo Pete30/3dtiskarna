@@ -20,13 +20,15 @@
 
 <table> 
 <colgroup>
-  <col width="60%" />
+  <col width="20%" />
+  <col width="20%" />
+  <col width="20%" />
   <col width="40%" />
 </colgroup>
 <tbody>
 <tr class="odd">
-  <td align="left"><p><img src="media/Section_6_0001.png" alt="media/Section_6_0001.png" /></p></td>
-  <td rowspan="2" >
+  <td colspan="3" align="left"><p><img src="media/Section_6_0001.png" alt="media/Section_6_0001.png" /></p></td>
+<td rowspan="2" >
   <ul>
     <li> Look for the RUMBA Case Bottom part in the bag of acrylic parts. </li>
     <li> Remove the protective film on the shiny side of the acrylic. </li>
