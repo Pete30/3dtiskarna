@@ -13,11 +13,10 @@ __NOTE: Please don’t use superglue for acrylic and printed parts, it will resu
 --
 ##### Step 1
 
-![](media/Section_6_0001.png)
-
 | ![image](media/Section_1_0130.png) 1x RUMBA Case Bottom | ![image](media/Section_1_0131.png) 1x RUMBA Case Cable Inlet | ![image](staticmedia/transparent.png) | ![image](staticmedia/transparent.png) | ![image](staticmedia/transparent.png) |
 |---|---|---|---|---|
 
+![](media/Section_6_0001.png)
 
 - Look for the RUMBA Case Bottom part in the bag of acrylic parts. 
 - Remove the protective film on the shiny side of the acrylic. 
@@ -30,10 +29,11 @@ __NOTE: Please don’t use superglue for acrylic and printed parts, it will resu
 --
 ##### Step 2
 
-![](media/Section_6_0003.png)
 
 |![image](media/Section_1_0133.png) 1x RUMBA Case Left Side |![image](media/Section_1_0129.png) 1x RUMBA Case Base | ![image](media/Section_1_0139.png) 1x RUMBA Case Top | ![image](staticmedia/transparent.png) | ![image](staticmedia/transparent.png) |
 |---|---|---|---|---|
+
+![](media/Section_6_0003.png)
 
 - Remove the protection film on the shiny side of the acrylic. 
 - Leave the protection film of the matt side in place as much a possible to prevent scratches and glue stains. 
@@ -45,10 +45,10 @@ __NOTE: Please don’t use superglue for acrylic and printed parts, it will resu
 --
 ##### Step 3
 
-![](media/Section_6_0004.png)
-
 | ![image](media/Section_1_0135.png) 1x RUMBA Case Right Side | ![image](staticmedia/transparent.png) | ![image](staticmedia/transparent.png) | ![image](staticmedia/transparent.png) | ![image](staticmedia/transparent.png) |
 |---|---|---|---|---|
+
+![](media/Section_6_0004.png)
 
 
 - Flip up the 3 sides as shown in the picture above, and push them well in place.     - Prepare a line of glue on the two left corners.
@@ -61,10 +61,10 @@ __NOTE: Please don’t use superglue for acrylic and printed parts, it will resu
 --
 ##### Step 4
 
-![](media/Section_6_0005.png)
-
 | ![image](media/Section_1_0132.png) 2x RUMBA Case Corner | ![image](staticmedia/transparent.png) | ![image](staticmedia/transparent.png) | ![image](staticmedia/transparent.png) | ![image](staticmedia/transparent.png) |
 |---|---|---|---|---|
+
+![](media/Section_6_0005.png)
 
 -   Put the Rigt Side of the case into position
 -   It’s done easiest to put the lower corner first and turn in the part in counter clockwise direction looking from the top.
@@ -75,10 +75,10 @@ __NOTE: Please don’t use superglue for acrylic and printed parts, it will resu
 --
 ##### Step 5
 
-![](media/Section_6_0006.png)
-
 | ![image](media/Section_1_0134.png)  1x RUMBA Case Lid | ![image](media/Section_1_0140.png) 1x RUMBA Case FanHolder | ![image](media/Section_1_0141.png) 1x 40mm Fan | ![image](staticmedia/transparent.png) | ![image](staticmedia/transparent.png) |
 |---|---|---|---|---|
+
+![](media/Section_6_0006.png)
 
 
 -   Glue the FanHolder on the shiny side of the RUMBA Case Lid.
@@ -92,10 +92,10 @@ __NOTE: Please don’t use superglue for acrylic and printed parts, it will resu
 --
 ##### Step 6
 
-![](media/Section_6_0010.png)
-
 | ![image](media/Section_1_0114.png)  1x Display Case Base | ![image](media/Section_1_0122.png)  1x Display Case Left | ![image](media/Section_1_0115.png) 1x Display Case Back | ![image](media/Section_1_0118.png) 1x Display Case Front | ![image](media/Section_1_0123.png) 1x Display Case Right |
 |---|---|---|---|---|
+
+![](media/Section_6_0010.png)
 
 
 -   Remove the protective film from the shiny side of the acrylic parts.
@@ -106,10 +106,10 @@ __NOTE: Please don’t use superglue for acrylic and printed parts, it will resu
 --
 ##### Step 7
 
-![](media/Section_6_0011.png)
-
 | ![image](media/Section_1_0116.png)  1x Display Case Corner  | ![image](staticmedia/transparent.png) | ![image](staticmedia/transparent.png) | ![image](staticmedia/transparent.png) | ![image](staticmedia/transparent.png) |
 |---|---|---|---|---|
+
+![](media/Section_6_0011.png)
 
 
 -   Flip up the sides.
@@ -120,10 +120,10 @@ __NOTE: Please don’t use superglue for acrylic and printed parts, it will resu
 --
 ##### Step 8
 
-![](media/Section_6_0012.png)
-
 | ![image](media/Section_1_0125.png) 1x Display Case Top Base | ![image](media/Section_1_0126.png) 1x Display Case Top Bottom | ![image](staticmedia/transparent.png) | ![image](staticmedia/transparent.png) | ![image](staticmedia/transparent.png) |
 |---|---|---|---|---|
+
+![](media/Section_6_0012.png)
 
 
 -   Remove all the protective films, but leave the film on the matt side of the Top Bottom part.
@@ -132,11 +132,11 @@ __NOTE: Please don’t use superglue for acrylic and printed parts, it will resu
 --
 ##### Step 9
 
-![](media/Section_6_0013.png)
-
 | ![image](media/Section_1_0127.png) 1x Display Case Window | ![image](media/Section_1_0128.png) 1x Display Case Top | ![image](staticmedia/transparent.png) | ![image](staticmedia/transparent.png) | ![image](staticmedia/transparent.png) |
 |---|---|---|---|---|
 
+
+![](media/Section_6_0013.png)
 
 -   Remove only the protective film from the shiny side of the top part
 -   Put the window part without glueing it.
@@ -147,10 +147,10 @@ __NOTE: Please don’t use superglue for acrylic and printed parts, it will resu
 --
 ##### Step 10
 
-![](media/Section_6_0014.png)
-
 | ![image](media/Section_1_0005.png) 1x Graphic LCD Controller | ![image](media/Section_1_0142.png) 4x Display spacer | ![image](staticmedia/transparent.png) | ![image](staticmedia/transparent.png) | ![image](staticmedia/transparent.png) |
 |---|---|---|---|---|
+
+![](media/Section_6_0014.png)
 
 
 -   The following steps should only be done when the glue is dry, some hours after the previous step.
@@ -167,10 +167,10 @@ __NOTE: Please don’t use superglue for acrylic and printed parts, it will resu
 --
 ##### Step 12
 
-![](media/Section_6_0016.png)
-
 | ![image](media/Section_1_0119.png)  1x Knob Base | ![image](media/Section_1_0124.png)  1x Knob Support | ![image](media/Section_1_0121.png) 1x Knob Rim | ![image](media/Section_1_0120.png) 1x Knob Cushion | ![image](staticmedia/transparent.png) |
 |---|---|---|---|---|
+
+![](media/Section_6_0016.png)
 
 
 -   Put the Rim onto the Base and apply some little drips of 1 second super glue to the inner corner.
@@ -181,10 +181,10 @@ __NOTE: Please don’t use superglue for acrylic and printed parts, it will resu
 --
 ##### Step 13
 
-![](media/Section_6_0017.png)
-
 | ![image](media/Section_1_0117.png)  2x Display Case Foot  | ![image](staticmedia/transparent.png) | ![image](staticmedia/transparent.png) | ![image](staticmedia/transparent.png) | ![image](staticmedia/transparent.png) |
 |---|---|---|---|---|
+
+![](media/Section_6_0017.png)
 
 
 
