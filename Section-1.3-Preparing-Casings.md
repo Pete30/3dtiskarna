@@ -10,15 +10,13 @@
 </tr>
 <tr>
   <td colspan="2">
-    __NOTE: Please don’t use superglue for acrylic and printed parts, it will result in ugly white stains.__
+    NOTE: Please don’t use superglue for acrylic and printed parts, it will result in ugly white stains.
   </td>
 </tr>
 </tbody>
 </table>
 
-
-
-
+--
 
 <table> 
 <colgroup>
@@ -61,33 +59,40 @@
 
 <table>
 <colgroup>
-<col width="50%" />
-<col width="50%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
 </colgroup>
 <tbody>
 <tr class="odd">
-<td align="left"><p><img src="media/Section_6_0003.png" alt="media/Section_6_0003.png" /></p></td>
-<td align="left"><p><img src="media/Section_1_0129.png" alt="media/Section_1_0129.png" /><br />
- 1x RUMBA Case Base</p></td>
-</tr>
-<tr class="even">
 <td align="left"><p><img src="media/Section_1_0133.png" alt="media/Section_1_0133.png" /><br />
  1x RUMBA Case Left Side</p></td>
-</tr>
-<tr class="odd">
+<td align="left"><p><img src="media/Section_1_0129.png" alt="media/Section_1_0129.png" /><br />
+ 1x RUMBA Case Base</p></td>
 <td align="left"><p><img src="media/Section_1_0139.png" alt="media/Section_1_0139.png" /><br />
  1x RUMBA Case Top</p></td>
+<td> </tr>
+<td> </tr>
+</tr>
+<tr class="even">
+<td colspan="3" align="left"><p><img src="media/Section_6_0003.png" alt="media/Section_6_0003.png" /></p></td>
+<td colspan="2">
+<ul>
+  <li>   Remove the protection film on the shiny side of the acrylic. </li>
+  
+  <li>   Leave the protection film of the matt side in place as much a possible to prevent scratches and glue stains. </li>
+  
+  <li>   Connect the parts as shown above with the shiny part on top. </li>
+  
+  <li>   Take a good look at the image. Apply a line of glue in such a way that it will always stay inside of the casing to prevent stains. </li>
+</ul>
+</td> 
 </tr>
 </tbody>
 </table>
 
--   Remove the protection film on the shiny side of the acrylic.
-
-    -   Leave the protection film of the matt side in place as much a possible to prevent scratches and glue stains.
-
--   Connect the parts as shown above with the shiny part on top.
-
--   Take a good look at the image. Apply a line of glue in such a way that it will always stay inside of the casing to prevent stains.
 
 <table>
 <colgroup>
