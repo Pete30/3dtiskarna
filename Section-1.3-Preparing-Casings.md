@@ -2,22 +2,12 @@
 
 [Section Menu](https://github.com/laydrop/i3-Berlin/wiki/Section-1-Introduction)
 
-<table>
-<tbody>
-<tr class="odd">
-<td align="left" width="60%"><p><img src="media/Section_6_0008.png" alt="media/Section_6_0008.png" /></p></td>
-<td align="left"><p>You will start the assembly with glueing the casings for the RUMBA controller electronics and the display. Since the glue needs time to dry it’s to best to have this done now.</p></td>
-</tr>
-</tbody>
-</table>
 
-<br>
-<br>
-   __NOTE: Please don’t use superglue for acrylic and printed parts, it will result in ugly white stains.__
-<br>
-<br>
-<br>
+![image](media/Section_6_0008.png)
 
+You will start the assembly with glueing the casings for the RUMBA controller electronics and the display. Since the glue needs time to dry it’s to best to have this done now.</p></td>
+
+__NOTE: Please don’t use superglue for acrylic and printed parts, it will result in ugly white stains.__
 
 
 --
