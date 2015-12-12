@@ -21,6 +21,7 @@
 
 
 --
+##### Step 1
 
 | ![image](media/Section_1_0130.png) 1x RUMBA Case Bottom | ![image](media/Section_1_0131.png) 1x RUMBA Case Cable Inlet | ![image](staticmedia/transparent.png) | ![image](staticmedia/transparent.png) | ![image](staticmedia/transparent.png) |
 |---|---|---|---|---|
@@ -36,70 +37,37 @@
 ![](media/Section_6_0001.png)
 
 --
-
-<table>
-<colgroup>
-<col width="20%" />
-<col width="20%" />
-<col width="20%" />
-<col width="40%" />
-</colgroup>
-<tbody>
-<tr class="even">
-<td colspan="3" align="left"><p><img src="media/Section_6_0003.png" alt="media/Section_6_0003.png" /></p></td>
-<td rowspan="2">
-<ul>
-  <li>   Remove the protection film on the shiny side of the acrylic. </li>
-  
-  <li>   Leave the protection film of the matt side in place as much a possible to prevent scratches and glue stains. </li>
-  
-  <li>   Connect the parts as shown above with the shiny part on top. </li>
-  
-  <li>   Take a good look at the image. Apply a line of glue in such a way that it will always stay inside of the casing to prevent stains. </li>
-</ul>
-</td> 
-</tr>
-<tr class="odd">
-<td align="left"><p><img src="media/Section_1_0133.png" alt="media/Section_1_0133.png" /><br />
- 1x RUMBA Case Left Side</p></td>
-<td align="left"><p><img src="media/Section_1_0129.png" alt="media/Section_1_0129.png" /><br />
- 1x RUMBA Case Base</p></td>
-<td align="left"><p><img src="media/Section_1_0139.png" alt="media/Section_1_0139.png" /><br />
- 1x RUMBA Case Top</p></td>
-</tr>
-</tbody>
-</table>
+#### Step 2
 
 
-<table>
-<colgroup>
-<col width="20%" />
-<col width="20%" />
-<col width="20%" />
-<col width="40%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td colspan="3" align="left"><p><img src="media/Section_6_0004.png" alt="media/Section_6_0004.png" /></p></td>
-<td rowspan="2">
-  <ul>
-    <li>   Flip up the 3 sides as shown in the picture above, and push them well in place. </li>
-    <li>   Prepare a line of glue on the two left corners. </li>
-    <li>   Remove the protective film of the acrylic parts. </li>
-    <li>   Push in the small piece as shown. </li>
-    <li>   Apply glue if necessary. </li>
-    <li>   Put 3 lines of glue on the shiny side of the big part as preparation. </li>
-  </ul>
-</td>
-</tr>
-<tr>
-  <td align="left"><p><img src="media/Section_1_0135.png" alt="media/Section_1_0135.png" /><br />
-      1x RUMBA Case Right Side</p></td>
-  <td> </td>
-  <td> </td>
-</tr>
-</tbody>
-</table>
+
+|![image](media/Section_1_0133.png) 1x RUMBA Case Left Side |![image](media/Section_1_0129.png) 1x RUMBA Case Base | ![image](media/Section_1_0139.png) 1x RUMBA Case Top | ![image](staticmedia/transparent.png) | ![image](staticmedia/transparent.png) |
+|---|---|---|---|---|
+
+- Remove the protection film on the shiny side of the acrylic. 
+- Leave the protection film of the matt side in place as much a possible to prevent scratches and glue stains. 
+- Connect the parts as shown above with the shiny part on top.
+- Take a good look at the image. Apply a line of glue in such a way that it will always stay inside of the casing to prevent stains. 
+
+![](media/Section_6_0003.png)
+
+--
+#### Step 3
+
+
+
+| ![image](media/Section_1_0135.png) 1x RUMBA Case Top | ![image](staticmedia/transparent.png) | ![image](staticmedia/transparent.png) | ![image](staticmedia/transparent.png) | ![image](staticmedia/transparent.png) |
+|---|---|---|---|---|
+
+
+- Flip up the 3 sides as shown in the picture above, and push them well in place.     - Prepare a line of glue on the two left corners.
+- Remove the protective film of the acrylic parts. 
+- Push in the small piece as shown.
+- Apply glue if necessary.
+- Put 3 lines of glue on the shiny side of the big part as preparation.
+    
+![](media/Section_6_0004.png)
+
 
 
 <table>
