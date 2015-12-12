@@ -32,7 +32,6 @@
 <td align="left"><p><img src="media/Section_1_0131.png" alt="media/Section_1_0131.png" /><br />
  1x RUMBA Case Cable Inlet</p></td>
 <td> </td>
-<td> </td>
 <td rowspan="2" >
   <ul>
     <li> Look for the RUMBA Case Bottom part in the bag of acrylic parts. </li>
