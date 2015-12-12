@@ -27,14 +27,14 @@ __Please don’t use superglue for acrylic and printed parts, it will result in 
 <tr class="odd">
 <td align="left"><p><img src="media/Section_1_0130.png" alt="media/Section_1_0130.png" /><br />
  1x RUMBA Case Bottom</p></td>
-<td colspan="3" align="left"><p><img src="media/Section_1_0131.png" alt="media/Section_1_0131.png" /><br />
+<td align="left"><p><img src="media/Section_1_0131.png" alt="media/Section_1_0131.png" /><br />
  1x RUMBA Case Cable Inlet</p></td>
 <td> </td>
 <td> </td>
 <td> </td>
 </tr>
 <tr class="even">
-<td align="left"><p><img src="media/Section_6_0001.png" alt="media/Section_6_0001.png" /></p></td>
+<td colspan="3" align="left"><p><img src="media/Section_6_0001.png" alt="media/Section_6_0001.png" /></p></td>
 <td colspan="2" >
 <ul>
   <li> Look for the RUMBA Case Bottom part in the bag of acrylic parts. </li>
