@@ -13,4 +13,4 @@ These pages contain the full assembly manual to build and adjust your i3 Berlin 
 
 [**Calibration**](https://github.com/laydrop/i3-Berlin/wiki/Section-5-Calibration) See if everything works correctly and adjust it perfectly.
 
-[**Printing**](https://github.com/laydrop/i3-Berlin/wiki/Section-6-Printing) | How to use your printer and some tips to get started.  
+[**Printing**](https://github.com/laydrop/i3-Berlin/wiki/Section-6-Printing) How to use your printer and some tips to get started.  
