@@ -1,0 +1,169 @@
+https://github.com/open3dengineering/i3_Berlin/wiki/Section-2.2-Assembly-of-the-Y-Unit-Mounting-the-Front-and-Back-Plate[Next]
+
+https://github.com/open3dengineering/i3_Berlin/wiki/Section-2-Assembly-of-the-Y-Unit[Section Menu]
+
+|====
+1.5+|image:media/Section_2_0002.png[width=450]|
+image:media/Section_1_0079.png[width=100] +
+1x M10 Threaded Rod
+|
+image:media/Section_1_0069.png[width=100] +
+1x Y-Middle Right
+|
+image:media/Section_1_0025.png[width=100] +
+2x M10 Washer
+|
+image:media/Section_1_0024.png[width=100] +
+2x M10 Spring Washer
+|
+image:media/Section_1_0023.png[width=100] +
+2x M10 Nut
+|====
+
+* Slide the right Power-Supply mount onto the M10 rod. 
+* Put a washer on both sides.
+* Two spring washers on both sides
+* and two nuts on both sides. 
+* Do not make the nuts tight yet. Leave about 5cm place between the nuts.
+
+<<<
+
+|====
+1.4+|image:media/Section_2_0003.png[width=450]|
+image:media/Section_1_0025.png[width=100] +
+2x M10 Washer
+|
+image:media/Section_1_0024.png[width=100] +
+2x M10 Spring Washer
+|
+image:media/Section_1_0023.png[width=100] +
+4x M10 Nut
+|
+image:media/Section_1_0022.png[width=100] +
+1x M10 Flange Nut
+|====
+
+* Mount a nut, spring washer, washer and flange nut to the threaded rod for later mounting the XZ plate. 
+* Also put an M10 nut on both ends for later mounting the front and back-plate.
+* Do not make anything tight yet.
+
+<<<
+
+|====
+|image:media/Section_2_0004.png[width=600]
+|====
+
+* The power-supply mount is about 18 centimeters from the front side of the rod. 
+* The flange is about 26 centimeters from the front. 
+* Don't make this precise, measurements are just for reference for easier assembly later on.
+
+<<<
+
+
+|====
+1.6+|image:media/Section_2_0005.png[width=450]|
+image:media/Section_1_0079.png[width=100] +
+1x M10 Threaded Rod
+|
+image:media/Section_1_0068.png[width=100] +
+1x Y-Middle Left
+|
+image:media/Section_1_0025.png[width=100] +
+4x M10 Washer
+|
+image:media/Section_1_0024.png[width=100] +
+4x M10 Spring Washer
+|
+image:media/Section_1_0023.png[width=100] +
+6x M10 Nut
+|
+image:media/Section_1_0022.png[width=100] +
+1x M10 Flange Nut
+|====
+
+
+* Do the same for the left-hand rod.
+* Make sure that the orientation of the plastic parts is correct. The arrows should be pointing upwards. 
+
+<<<
+
+|====
+1.5+|image:media/Section_2_0006.png[width=450]|
+image:media/Section_1_0065.png[width=100] +
+1x Y-Front Left
+|
+image:media/Section_1_0067.png[width=100] +
+1x Y-Height Adjuster
+|
+image:media/Section_1_0029.png[width=100] +
+1x M3x16 Cylinder Screw
+|
+image:media/Section_1_0026.png[width=100] +
+1x M3 Locknut
+|
+image:media/Section_1_0160.png[width=100] +
+1x How screws are measured
+|====
+
+* Turn the nut for about 5mm onto the screw
+* Put the Y-Height Adjuster into the Y-FrontLeft part
+* Push the screw and nut into the slots of the plastic parts
+** Make sure the hexagon of the screw is reachable through the hole in the Height adjuster
+** Later this assembly will enable you to adjust the height of the smooth rod
+
+
+<<<
+
+|====
+1.4+|image:media/Section_2_0007.png[width=450]|
+image:media/Section_1_0066.png[width=100] +
+1x Y-Front Right
+|
+image:media/Section_1_0001.png[width=100] +
+1x 624 Bearing
+|
+image:media/Section_1_0036.png[width=100] +
+1x 4hx16 Dowel
+|
+image:media/Section_1_0044.png[width=100] +
+2x Belt Guiding Disk
+|====
+
+* Put the bearing with the two belt guiding discs into the slot of the front right Y-Corner. 
+* Make sure the little notch of the discs is on the inside and the shiny side is point outwards. 
+* Slide in the dowel to fix the assembly. 
+
+'''''
+<<<
+
+|====
+|image:media/Section_2_0029.png[width=450]|
+|====
+
+* Put the black sticker on the power supply to make it look nice. 
+
+
+'''''
+<<<
+
+
+|====
+1.1+|image:media/Section_2_0008.png[width=450]|
+image:media/Section_1_0032.png[width=100] +
+4x M4x10 
+|====
+
+* Mount the front Y mounts to the M10 rods. 
+* Mount the power-supply on the plastic parts with 4 M4 x 10 screws. 
+* Note the air outlet of the power-supply will be facing downwards.
+
+<<< 
+
+|====
+|image:media/Section_2_0009.png[width=600]
+|====
+
+Great you now completed the first step of the assembly. Go on with the next step.
+
+
+https://github.com/open3dengineering/i3_Berlin/wiki/Section-2.2-Assembly-of-the-Y-Unit-Mounting-the-Front-and-Back-Plate[Next]

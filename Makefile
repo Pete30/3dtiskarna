@@ -24,12 +24,19 @@ media:
 	$(BLENDER) -S Section\ 5\ Calibration -b $(BLENDER_FILE) -o "media/Section_5_###.png" -E BLENDER_RENDER -t 8 -F PNG -a
 
 
+rest:
+	mkdir rest
+	# convert asciidoc to docbook
+	for i in $$(ls S*); do asciidoc --backend=docbook --out-file rest/$${i%.$(ASCIIDOC_SUFF)}.xml $$i ; done
+	# convert docbook to restructured text
+	for i in $$(ls S*); do pandoc --chapter -f docbook -t markdown_strict -o rest/$${i%.$(ASCIIDOC_SUFF)}.rst rest/$${i%.$(ASCIIDOC_SUFF)}.xml && rm rest/$${i%.$(ASCIIDOC_SUFF)}.xml ; done
+
 markdown:
 	mkdir markdown
 	# convert asciidoc to docbook 
 	for i in $$(ls S*); do asciidoc --backend=docbook --out-file markdown/$${i%.$(ASCIIDOC_SUFF)}.xml $$i ; done
 	# convert docbook to strict markdown
-	for i in $$(ls S*); do pandoc --chapter -f docbook -t markdown_github -o markdown/$${i%.$(ASCIIDOC_SUFF)}.tmp markdown/$${i%.$(ASCIIDOC_SUFF)}.xml && rm markdown/$${i%.$(ASCIIDOC_SUFF)}.xml ; done
+	for i in $$(ls S*); do pandoc --chapter -f docbook -t markdown_strict -o markdown/$${i%.$(ASCIIDOC_SUFF)}.tmp markdown/$${i%.$(ASCIIDOC_SUFF)}.xml && rm markdown/$${i%.$(ASCIIDOC_SUFF)}.xml ; done
 	# fix image links and remove next link
 	for i in $$(ls markdown/S*); do sed -e 's/staticmedia/media/g' -e 's/https:\/\/github.com\/open3dengineering\/i3_Berlin\/wiki/\/manual_i3_berlin/g' -e 's/manual_i3_berlin.*/\L&/g' -e 's/media/\/media/g' -e '/\[Next\]/d' -e '/\[Next/d' -e '/Section\]/d' < $$i > $${i%.$(TMP_SUFF)}.md && mv $${i%.$(TMP_SUFF)}.md $$i ; done
 	# add hugo header
@@ -63,3 +70,6 @@ clean:
 
 markdown-clean:
 	rm -fr markdown
+
+rest-clean:
+	rm -fr rest
