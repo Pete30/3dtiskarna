@@ -16,7 +16,8 @@ __NOTE: Please don’t use superglue for acrylic and printed parts, it will resu
 | ![image](media/Section_1_0130.png) 1x RUMBA Case Bottom | ![image](media/Section_1_0131.png) 1x RUMBA Case Cable Inlet | ![image](staticmedia/transparent.png) | ![image](staticmedia/transparent.png) | ![image](staticmedia/transparent.png) |
 |---|---|---|---|---|
 
-![](media/Section_6_0001.png)
+|![](media/Section_6_0001.png)|
+|---|
 
 - Look for the RUMBA Case Bottom part in the bag of acrylic parts. 
 - Remove the protective film on the shiny side of the acrylic. 
