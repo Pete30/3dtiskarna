@@ -158,7 +158,7 @@ image:media/Section_1_0033.png[width=100] +
 * Put the Y-Motor Holder and the Y-Back Left part to the M10 threaded rods
 * Put the smooth rods to the front plate. 
 ** Mind that the right hand rod has two bearings, the left rod only one.
-** Make sure that the left hand rod enters the slot hole in the front plate through the slot hole of the Y-Height adjuster. With the height adjuster you will late make the two smooth rods perfectly parallel.
+** Make sure that the left hand rod enters the slot hole in the front plate through the slot hole of the Y-Height adjuster. With the height adjuster you will later make the two smooth rods perfectly parallel.
 * Put the Back Plate to the M10 Rods. 
 * Tighten the round nuts and the corresponding M10 nuts in such a way that the back plate is nice and straight.
 
