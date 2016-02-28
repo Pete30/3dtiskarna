@@ -1,4 +1,4 @@
-https://github.com/open3dengineering/i3_Berlin/wiki/Section-4.4-Wiring-the-X-Axis[Next]
+link:../Section-4.4-Wiring-the-X-Axis[Next]
 
 
 |====
@@ -42,4 +42,4 @@ Y-Motor connector
 
 
 
-https://github.com/open3dengineering/i3_Berlin/wiki/Section-4.4-Wiring-the-X-Axis[Next]
+link:../Section-4.4-Wiring-the-X-Axis[Next]

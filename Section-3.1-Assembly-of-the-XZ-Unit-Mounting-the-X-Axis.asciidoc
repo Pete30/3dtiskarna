@@ -1,4 +1,4 @@
-https://github.com/open3dengineering/i3_Berlin/wiki/Section-3.2-Assembly-of-the-XZ-Unit-Mounting-the-Z-Axis[Next]
+link:../Section-3.2-Assembly-of-the-XZ-Unit-Mounting-the-Z-Axis[Next]
 
 |====
 1.6+|image:media/Section_3_0002.png[width=450]|
@@ -182,4 +182,4 @@ image:media/Section_1_0080.png[width=100] +
 ''''
 <<<
 
-https://github.com/open3dengineering/i3_Berlin/wiki/Section-3.2-Assembly-of-the-XZ-Unit-Mounting-the-Z-Axis[Next]
+link:../Section-3.2-Assembly-of-the-XZ-Unit-Mounting-the-Z-Axis[Next]

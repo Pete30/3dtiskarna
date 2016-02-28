@@ -1,4 +1,4 @@
-https://github.com/open3dengineering/i3_Berlin/wiki/Section-3.3-Assembly-of-the-XZ-Unit-Mounting-the-Timing-Belt[Next]
+link:../Section-3.3-Assembly-of-the-XZ-Unit-Mounting-the-Timing-Belt[Next]
 
 |====
 1.4+|image:media/Section_3_0011.png[width=450]|
@@ -93,4 +93,4 @@ image:media/Section_1_0113.png[width=100] +
 
 * This is how the result looks like
 
-https://github.com/open3dengineering/i3_Berlin/wiki/Section-3.3-Assembly-of-the-XZ-Unit-Mounting-the-Timing-Belt[Next]
+link:../Section-3.3-Assembly-of-the-XZ-Unit-Mounting-the-Timing-Belt[Next]

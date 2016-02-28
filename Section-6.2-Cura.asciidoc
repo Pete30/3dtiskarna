@@ -1,8 +1,8 @@
-https://github.com/open3dengineering/i3_Berlin/wiki/Section-6.3-Kisslicer[Next]
+link:../Section-6.3-Kisslicer[Next]
 
 Cura is a fast and comfortable slicing engine. It performs well with thin walls and briding (an overhang between two points). If you want to have beautiful surfaces Cura is good, but Kisslicer is better. Cura also tends to extrude somewhat too much material. As a result the flow rate is set between 80 and 90%. Cura is fully open source and python plugins can be added. 
 
 * Install Cura as described in section [4.6](https://github.com/laydrop/i3-Berlin/wiki/Section-4.6-Uploading-Firmware):Uploading Firmware.
 * Please read the link:staticmedia/Cura_User_Manual_v1.01.pdf[Cura Manual].
 
-https://github.com/open3dengineering/i3_Berlin/wiki/Section-6.3-Kisslicer[Next]
+link:../Section-6.3-Kisslicer[Next]

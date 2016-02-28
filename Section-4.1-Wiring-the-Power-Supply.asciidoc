@@ -1,4 +1,4 @@
-https://github.com/open3dengineering/i3_Berlin/wiki/Section-4.2-Wiring-the-Z-Unit[Next]
+link:../Section-4.2-Wiring-the-Z-Unit[Next]
 
 
 |====
@@ -108,4 +108,4 @@ Power Connection
 ** Mind the polarity of the wires!
  
 
-https://github.com/open3dengineering/i3_Berlin/wiki/Section-4.2-Wiring-the-Z-Unit[Next]
+link:../Section-4.2-Wiring-the-Z-Unit[Next]

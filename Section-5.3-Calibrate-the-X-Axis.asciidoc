@@ -1,4 +1,4 @@
-https://github.com/open3dengineering/i3_Berlin/wiki/Section-5.4-Calibrating-the-Print-Platform[Next]
+link:../Section-5.4-Calibrating-the-Print-Platform[Next]
 
 |====
 |image:media/Section_5_0024.png[width=600]
@@ -15,4 +15,4 @@ https://github.com/open3dengineering/i3_Berlin/wiki/Section-5.4-Calibrating-the-
 
 * This calibration should be repeated after transport and or once a week or so. Do make the Y-Rods parallel first. 
 
-https://github.com/open3dengineering/i3_Berlin/wiki/Section-5.4-Calibrating-the-Print-Platform[Next]
+link:../Section-5.4-Calibrating-the-Print-Platform[Next]
