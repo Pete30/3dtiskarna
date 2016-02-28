@@ -1,4 +1,4 @@
-https://github.com/open3dengineering/i3_Berlin/wiki/Section-6.1-FilamentHolder[Section 6.1]: FilamentHolder +	
-https://github.com/open3dengineering/i3_Berlin/wiki/Section-6.2-Cura[Section 6.2]: Cura +
-https://github.com/open3dengineering/i3_Berlin/wiki/Section-6.3-Kisslicer[Section 6.3]: Kisslicer +
-https://github.com/open3dengineering/i3_Berlin/wiki/Section-6.4-Dual-Printing[Section 6.4]: Dual Printing +
+link:i3_Berlin/wiki/Section-6.1-FilamentHolder[Section 6.1]: FilamentHolder +	
+link:i3_Berlin/wiki/Section-6.2-Cura[Section 6.2]: Cura +
+link:i3_Berlin/wiki/Section-6.3-Kisslicer[Section 6.3]: Kisslicer +
+link:i3_Berlin/wiki/Section-6.4-Dual-Printing[Section 6.4]: Dual Printing +

@@ -1,4 +1,4 @@
-https://github.com/open3dengineering/i3_Berlin/wiki/Section-6-Printing[Next]
+link:i3_Berlin/wiki/Section-6-Printing[Next]
 
 * The mirror should be well adjusted to the nozzle. 
 * Turn the adjust nuts about 1cm height.
@@ -34,7 +34,7 @@ https://github.com/open3dengineering/i3_Berlin/wiki/Section-6-Printing[Next]
 |image:media/Section_5_0030.png[width=600]
 |====
 
-* As a last check up check the front and back left corner. If there is a big difference you should repeat https://github.com/open3dengineering/i3_Berlin/wiki/Section-5.2-Calibrating-the-Y-Axis[Calibrating the Y-Axis] again or try to solve it with the paper trick.
+* As a last check up check the front and back left corner. If there is a big difference you should repeat link:i3_Berlin/wiki/Section-5.2-Calibrating-the-Y-Axis[Calibrating the Y-Axis] again or try to solve it with the paper trick.
 
 |====
 |image:media/Section_5_0031.png[width=600]
@@ -42,7 +42,7 @@ https://github.com/open3dengineering/i3_Berlin/wiki/Section-6-Printing[Next]
 
 * This calibration should be best done before every print. 
 
-https://github.com/open3dengineering/i3_Berlin/wiki/Section-6-Printing[Next]
+link:i3_Berlin/wiki/Section-6-Printing[Next]
 
 
 

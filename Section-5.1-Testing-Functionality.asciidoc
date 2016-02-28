@@ -1,4 +1,4 @@
-https://github.com/open3dengineering/i3_Berlin/wiki/Section-5.2-Calibrating-the-Y-Axis[Next]
+link:i3_Berlin/wiki/Section-5.2-Calibrating-the-Y-Axis[Next]
 
 You have almost finished building your printer. Now we will test if all the connections are correct. 
 
@@ -61,4 +61,4 @@ image:media/Section_1_0149.png[width=250] +
 |====
 
 
-https://github.com/open3dengineering/i3_Berlin/wiki/Section-5.2-Calibrating-the-Y-Axis[Next]
+link:i3_Berlin/wiki/Section-5.2-Calibrating-the-Y-Axis[Next]
