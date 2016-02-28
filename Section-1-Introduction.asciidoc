@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 link:/i3_Berlin/wiki/Section-2-Assembly-of-the-Y-Unit[Next]
+=======
+link:i3_Berlin/wiki/Section-2-Assembly-of-the-Y-Unit[Next]
+>>>>>>> Stashed changes
 
 *About RepRap*
 
@@ -7,11 +11,19 @@ Welcome to this i3 Berlin building manual. Throughout this manual we are going t
 But before we start doing anything we want to explain you the power and principles of open hardware, which we will illustrate with a brief history of the RepRap project.
 
 Picture of i3 Berlin
+<<<<<<< Updated upstream
 link:/i3_Berlin/wiki/Section-1.1-History[Section 1.1]: The History of the RepRap project +
 
 link:/i3_Berlin/wiki/Section-1.2-Tools-and-Parts[Section 1.2]: The Tools and Parts you need to build an i3 Berlin +
 
 link:/i3_Berlin/wiki/Section-1.3-Preparing-Casings[Section 1.3]: The building starts with gluing the electronics cases +
+=======
+link:i3_Berlin/wiki/Section-1.1-History[Section 1.1]: The History of the RepRap project +
+
+link:i3_Berlin/wiki/Section-1.2-Tools-and-Parts[Section 1.2]: The Tools and Parts you need to build an i3 Berlin +
+
+link:i3_Berlin/wiki/Section-1.3-Preparing-Casings[Section 1.3]: The building starts with gluing the electronics cases +
+>>>>>>> Stashed changes
 
 
 *i3 Berlin Design overview*
@@ -24,5 +36,9 @@ Our 'i3 Berlin' has further improved the ease of assembly. We made the looks mor
 
 
 
+<<<<<<< Updated upstream
 link:/i3_Berlin/wiki/Section-2-Assembly-of-the-Y-Unit[Next]
+=======
+link:i3_Berlin/wiki/Section-2-Assembly-of-the-Y-Unit[Next]
+>>>>>>> Stashed changes
 

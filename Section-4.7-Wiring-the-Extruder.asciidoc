@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 link:/i3_Berlin/wiki/Section-4.8-Mounting-the-Heatbed[Next]
+=======
+link:i3_Berlin/wiki/Section-4.8-Mounting-the-Heatbed[Next]
+>>>>>>> Stashed changes
 
 |====
 |image:media/Section_4_0037.png[width=600]
@@ -122,4 +126,8 @@ image:media/Section_1_0145.png[width=100] +
 
 
 
+<<<<<<< Updated upstream
 link:/i3_Berlin/wiki/Section-4.8-Mounting-the-Heatbed[Next]
+=======
+link:i3_Berlin/wiki/Section-4.8-Mounting-the-Heatbed[Next]
+>>>>>>> Stashed changes

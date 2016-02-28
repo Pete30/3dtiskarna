@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 link:/i3_Berlin/wiki/Section-4.2-Wiring-the-Z-Unit[Next]
+=======
+link:i3_Berlin/wiki/Section-4.2-Wiring-the-Z-Unit[Next]
+>>>>>>> Stashed changes
 
 
 |====
@@ -108,4 +112,8 @@ Power Connection
 ** Mind the polarity of the wires!
  
 
+<<<<<<< Updated upstream
 link:/i3_Berlin/wiki/Section-4.2-Wiring-the-Z-Unit[Next]
+=======
+link:i3_Berlin/wiki/Section-4.2-Wiring-the-Z-Unit[Next]
+>>>>>>> Stashed changes

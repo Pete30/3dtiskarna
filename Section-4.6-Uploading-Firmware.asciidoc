@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 link:/i3_Berlin/wiki/Section-4.7-Wiring-the-Extruder[Next]
+=======
+link:i3_Berlin/wiki/Section-4.7-Wiring-the-Extruder[Next]
+>>>>>>> Stashed changes
 
 * Connect the display.
 
@@ -19,4 +23,8 @@ link:/i3_Berlin/wiki/Section-4.7-Wiring-the-Extruder[Next]
 * Select the .hex file that corresponds with the 3D printer you're building, single or dual printhead.
 * Now the firmware should upload, and after a minute or so you see a message on the display.
 
+<<<<<<< Updated upstream
 link:/i3_Berlin/wiki/Section-4.7-Wiring-the-Extruder[Next]
+=======
+link:i3_Berlin/wiki/Section-4.7-Wiring-the-Extruder[Next]
+>>>>>>> Stashed changes

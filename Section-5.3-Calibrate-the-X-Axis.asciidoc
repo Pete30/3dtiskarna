@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 link:/i3_Berlin/wiki/Section-5.4-Calibrating-the-Print-Platform[Next]
+=======
+link:i3_Berlin/wiki/Section-5.4-Calibrating-the-Print-Platform[Next]
+>>>>>>> Stashed changes
 
 |====
 |image:media/Section_5_0024.png[width=600]
@@ -15,4 +19,8 @@ link:/i3_Berlin/wiki/Section-5.4-Calibrating-the-Print-Platform[Next]
 
 * This calibration should be repeated after transport and or once a week or so. Do make the Y-Rods parallel first. 
 
+<<<<<<< Updated upstream
 link:/i3_Berlin/wiki/Section-5.4-Calibrating-the-Print-Platform[Next]
+=======
+link:i3_Berlin/wiki/Section-5.4-Calibrating-the-Print-Platform[Next]
+>>>>>>> Stashed changes

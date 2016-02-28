@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 link:/i3_Berlin/wiki/Section-5.3-Calibrate-the-X-Axis[Next]
+=======
+link:i3_Berlin/wiki/Section-5.3-Calibrate-the-X-Axis[Next]
+>>>>>>> Stashed changes
 
 
 |====
@@ -16,4 +20,8 @@ link:/i3_Berlin/wiki/Section-5.3-Calibrate-the-X-Axis[Next]
 |image:media/Section_5_0023.png[width=600]
 |====
 
+<<<<<<< Updated upstream
 link:/i3_Berlin/wiki/Section-5.3-Calibrate-the-X-Axis[Next]
+=======
+link:i3_Berlin/wiki/Section-5.3-Calibrate-the-X-Axis[Next]
+>>>>>>> Stashed changes

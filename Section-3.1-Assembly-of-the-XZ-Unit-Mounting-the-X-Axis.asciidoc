@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 link:/i3_Berlin/wiki/Section-3.2-Assembly-of-the-XZ-Unit-Mounting-the-Z-Axis[Next]
+=======
+link:i3_Berlin/wiki/Section-3.2-Assembly-of-the-XZ-Unit-Mounting-the-Z-Axis[Next]
+>>>>>>> Stashed changes
 
 |====
 1.6+|image:media/Section_3_0002.png[width=450]|
@@ -182,4 +186,8 @@ image:media/Section_1_0080.png[width=100] +
 ''''
 <<<
 
+<<<<<<< Updated upstream
 link:/i3_Berlin/wiki/Section-3.2-Assembly-of-the-XZ-Unit-Mounting-the-Z-Axis[Next]
+=======
+link:i3_Berlin/wiki/Section-3.2-Assembly-of-the-XZ-Unit-Mounting-the-Z-Axis[Next]
+>>>>>>> Stashed changes

@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 link:/i3_Berlin/wiki/Section-4.4-Wiring-the-X-Axis[Next]
+=======
+link:i3_Berlin/wiki/Section-4.4-Wiring-the-X-Axis[Next]
+>>>>>>> Stashed changes
 
 
 |====
@@ -42,4 +46,8 @@ Y-Motor connector
 
 
 
+<<<<<<< Updated upstream
 link:/i3_Berlin/wiki/Section-4.4-Wiring-the-X-Axis[Next]
+=======
+link:i3_Berlin/wiki/Section-4.4-Wiring-the-X-Axis[Next]
+>>>>>>> Stashed changes

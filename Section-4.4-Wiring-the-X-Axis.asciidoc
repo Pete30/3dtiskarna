@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 link:/i3_Berlin/wiki/Section-4.5-Gluing-the-Endstop-Magnets[Next]
+=======
+link:i3_Berlin/wiki/Section-4.5-Gluing-the-Endstop-Magnets[Next]
+>>>>>>> Stashed changes
 
 |====
 |image:media/Section_4_0025.png[width=600]
@@ -24,4 +28,8 @@ X-EndStop Connection
 * This is a temporary connection, you will make it nice in a minute. 
 
 
+<<<<<<< Updated upstream
 link:/i3_Berlin/wiki/Section-4.5-Gluing-the-Endstop-Magnets[Next]
+=======
+link:i3_Berlin/wiki/Section-4.5-Gluing-the-Endstop-Magnets[Next]
+>>>>>>> Stashed changes

@@ -1,7 +1,14 @@
+<<<<<<< Updated upstream
 link:/i3_Berlin/wiki/Section-2.3-Assembly-of-the-Y-Unit-Mounting-the-Y-Carriage-and-Timing-Belt[Next]
 
 
 link:/i3_Berlin/wiki/Section-2-Assembly-of-the-Y-Unit[Section Menu]
+=======
+link:i3_Berlin/wiki/Section-2.3-Assembly-of-the-Y-Unit-Mounting-the-Y-Carriage-and-Timing-Belt[Next]
+
+
+link:i3_Berlin/wiki/Section-2-Assembly-of-the-Y-Unit[Section Menu]
+>>>>>>> Stashed changes
 
 |====
 1.2+|image:media/Section_2_0010.png[width=450]|
@@ -177,4 +184,8 @@ The result looks like this:
 
 * If you are having difficulties to make the unit straight try what happens when you loosen the M4 screw on the Power Supply, make the unit straight and fix it again. 
 
+<<<<<<< Updated upstream
 link:/i3_Berlin/wiki/Section-2.3-Assembly-of-the-Y-Unit-Mounting-the-Y-Carriage-and-Timing-Belt[Next]
+=======
+link:i3_Berlin/wiki/Section-2.3-Assembly-of-the-Y-Unit-Mounting-the-Y-Carriage-and-Timing-Belt[Next]
+>>>>>>> Stashed changes

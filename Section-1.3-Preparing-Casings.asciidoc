@@ -1,6 +1,12 @@
+<<<<<<< Updated upstream
 link:/i3_Berlin/wiki/Section-2-Assembly-of-the-Y-Unit[Next]
 
 link:/i3_Berlin/wiki/Section-1-Introduction[Section Menu]
+=======
+link:i3_Berlin/wiki/Section-2-Assembly-of-the-Y-Unit[Next]
+
+link:i3_Berlin/wiki/Section-1-Introduction[Section Menu]
+>>>>>>> Stashed changes
 
 |====
 |image:media/Section_6_0008.png[width=600]
@@ -239,4 +245,8 @@ image:media/Section_1_0117.png[width=100] +
 That's it for this section. In the next section you will start mounting the Y-Axis.
 
 
+<<<<<<< Updated upstream
 link:/i3_Berlin/wiki/Section-2-Assembly-of-the-Y-Unit[Next]
+=======
+link:i3_Berlin/wiki/Section-2-Assembly-of-the-Y-Unit[Next]
+>>>>>>> Stashed changes

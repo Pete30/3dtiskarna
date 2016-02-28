@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 link:/i3_Berlin/wiki/Section-6.4-Dual-Printing[Next] 
+=======
+link:i3_Berlin/wiki/Section-6.4-Dual-Printing[Next] 
+>>>>>>> Stashed changes
 
 Kisslicer stands for keep it simple slicer. It is a freemium financed proprietory software. The free version will probably suffice for your needs. The $42 pro version unlocks features such as dual printing and stacked infill. 
 

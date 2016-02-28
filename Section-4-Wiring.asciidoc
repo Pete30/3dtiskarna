@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 link:/i3_Berlin/wiki/Section-5-Calibration[Next Section]
+=======
+link:i3_Berlin/wiki/Section-5-Calibration[Next Section]
+>>>>>>> Stashed changes
 
 You made the main units. After wiring up the Y-Unit you will put them together. While you're at it, just wire everything, including preparing the wiring for the extruder and the heatbed, that you will assemble later. 
 We prefer organized wiring over spaghetti. It is important how you put the cables, so have a good look at all the nice 3D renders we made. 
@@ -11,6 +15,7 @@ We prefer organized wiring over spaghetti. It is important how you put the cable
 |image:media/Section_4_0047.png[width=600]
 |====
 
+<<<<<<< Updated upstream
 link:/i3_Berlin/wiki/Section-4.1-Wiring-the-Power-Supply[Section 4.1]: Wiring the Power Supply +
 link:/i3_Berlin/wiki/Section-4.2-Wiring-the-Z-Unit[Section 4.2]: Wiring the Z-Unit +
 link:/i3_Berlin/wiki/Section-4.3-Wiring-the-Y-Unit[Section 4.3]: Wiring the Y-Unit +
@@ -23,3 +28,17 @@ link:/i3_Berlin/wiki/Section-4.8-Mounting-the-Heatbed[Section 4.8]: Mounting the
 
 
 link:/i3_Berlin/wiki/Section-5-Calibration[Next Section]
+=======
+link:i3_Berlin/wiki/Section-4.1-Wiring-the-Power-Supply[Section 4.1]: Wiring the Power Supply +
+link:i3_Berlin/wiki/Section-4.2-Wiring-the-Z-Unit[Section 4.2]: Wiring the Z-Unit +
+link:i3_Berlin/wiki/Section-4.3-Wiring-the-Y-Unit[Section 4.3]: Wiring the Y-Unit +
+link:i3_Berlin/wiki/Section-4.4-Wiring-the-X-Axis[Section 4.4]: Wiring the X-Axis +
+link:i3_Berlin/wiki/Section-4.5-Gluing-the-Endstop-Magnets[Section 4.5]: Gluing the Endstop Magnets +
+link:i3_Berlin/wiki/Section-4.6-Uploading-Firmware[Section 4.6]: Uploading Firmware +
+link:i3_Berlin/wiki/Section-4.7-Wiring-the-Extruder[Section 4.7]: Wiring the Extruder +
+link:i3_Berlin/wiki/Section-4.8-Mounting-the-Heatbed[Section 4.8]: Mounting the Heatbed +
+
+
+
+link:i3_Berlin/wiki/Section-5-Calibration[Next Section]
+>>>>>>> Stashed changes
