@@ -4,6 +4,6 @@ Kisslicer stands for keep it simple slicer. It is a freemium financed proprietor
 
 Kisslicer produces very nice looking gcode, although it performs poorly with thin walls and bridging. The supports are very pleasant and come of much more easily than cura supports, although the cura developers are catching up. 
 
-Install the program as described in our https://github.com/open3dengineering/i3_Berlin/tree/master/Software/KISSlicer[git] and overwrite the .ini files with our settings. 
+Install the program as described in our https://github.com/laydrop/i3_Berlin/tree/master/Software/KISSlicer[git] and overwrite the .ini files with our settings. 
 
-https://github.com/open3dengineering/i3_Berlin/wiki/Section-6.4-Dual-Printing[Next] 
+https://github.com/laydrop/i3_Berlin/wiki/Section-6.4-Dual-Printing[Next] 

@@ -2,6 +2,11 @@ https://github.com/open3dengineering/i3_Berlin/wiki/Section-4.7-Wiring-the-Extru
 
 * Connect the display.
 
+|====
+|image:media/Section_4_0048.png[width=600]
+|====
+
+
 * Download and install the latest version of https://software.ultimaker.com/[Cura] for your OS.
 * Do not open Cura, or close it again.
 * Copy the preferences.ini and the current_profiles.ini from Software/Cura/CuraProfile/ to the installation folder on your system and replace the originals.
