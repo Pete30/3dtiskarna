@@ -7,14 +7,14 @@ link:Section-4.7-Wiring-the-Extruder[Next]
 |====
 
 
-* Download and install Cura from link:http://i3berlin.com/downloads(i3berlin.com)
+* Download and install Cura from link:http://i3berlin.com/downloads[i3berlin.com]
 
 * Windows user have to take care to install all drivers, the installer contains 3 install packages that follow one an other
 
 * For OSX newer than 10.8 please install th serial driver from link:https://www.i3berlin.com/wp-content/uploads/2015/11/FTDIUSBSerialDriver_v2_3.dmg[here]
 
 
-* Now download the Firmware hex file from link:http://i3berlin.com/downloads(i3berlin.com), selcet single or dual depending on your printer.
+* Now download the Firmware hex file from link:http://i3berlin.com/downloads[i3berlin.com], selcet single or dual depending on your printer.
 
 * Connect the USB cable
 * Connect the power
