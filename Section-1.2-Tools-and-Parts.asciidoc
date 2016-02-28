@@ -18,7 +18,7 @@ link:Section-1.3-Preparing-Casings[Next]
 
 '*' Included in the Workshop, NOT included in the Kit.
 
-This is the list of all the parts you will find in the box if you bought a kit or workshop through http://www.laydrop.com/en/[Laydrop]. A full Bill of Materials can be found https://github.com/open3dengineering/i3_Berlin/blob/master/BOM.csv[here]
+This is the list of all the parts you will find in the box if you bought a kit or workshop through http://www.i3berlin.com/[i3Berlin.com]. A full Bill of Materials can be found https://github.com/laydrop/i3_Berlin/blob/master/BOM.csv[here]
 
 Tip: you can enlarge the images by right click and then view the image. 
 
