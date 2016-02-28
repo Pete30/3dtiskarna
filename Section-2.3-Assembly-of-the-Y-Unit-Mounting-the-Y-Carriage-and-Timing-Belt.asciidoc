@@ -1,7 +1,7 @@
-https://github.com/open3dengineering/i3_Berlin/wiki/Section-3-Assembly-of-the-XZ-Unit[Next]
+link:/i3_Berlin/wiki/Section-3-Assembly-of-the-XZ-Unit[Next]
 
 
-https://github.com/open3dengineering/i3_Berlin/wiki/Section-2-Assembly-of-the-Y-Unit[Section Menu]
+link:/i3_Berlin/wiki/Section-2-Assembly-of-the-Y-Unit[Section Menu]
 
 |====
 1.3+|image:media/Section_2_0021.png[width=450]|
@@ -109,4 +109,4 @@ image:media/Section_1_0164.png[width=100] +
 
 
 
-https://github.com/open3dengineering/i3_Berlin/wiki/Section-3-Assembly-of-the-XZ-Unit[Next]
+link:/i3_Berlin/wiki/Section-3-Assembly-of-the-XZ-Unit[Next]

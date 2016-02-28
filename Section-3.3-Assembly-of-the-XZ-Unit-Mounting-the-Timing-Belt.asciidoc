@@ -1,4 +1,4 @@
-https://github.com/open3dengineering/i3_Berlin/wiki/Section-3.4-Assembling-the-Extruder[Next]
+link:/i3_Berlin/wiki/Section-3.4-Assembling-the-Extruder[Next]
 
 |====
 1.5+|image:media/Section_3_0015.png[width=450]|
@@ -95,4 +95,4 @@ image:media/Section_1_0165.png[width=100] +
 * Put the rubber strip to the bottom of the XZ-Frame with some drips of super glue.
 
 
-https://github.com/open3dengineering/i3_Berlin/wiki/Section-3.4-Assembling-the-Extruder[Next]
+link:/i3_Berlin/wiki/Section-3.4-Assembling-the-Extruder[Next]
