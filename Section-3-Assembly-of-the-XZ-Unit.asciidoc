@@ -1,4 +1,4 @@
-link:wiki/Section-4-Wiring[Next Section]
+https://github.com/open3dengineering/i3_Berlin/wiki/Section-4-Wiring[Next Section]
 
 |====
 |image:media/Section_3_0001.png[width=600]
@@ -6,10 +6,10 @@ link:wiki/Section-4-Wiring[Next Section]
 
 This is what you will build in this Section. Check the subsections below and have fun building!
 
-link:wiki/Section-3.1-Assembly-of-the-XZ-Unit-Mounting-the-X-Axis[Section 3.1]: Mounting the X-Axis +
+https://github.com/open3dengineering/i3_Berlin/wiki/Section-3.1-Assembly-of-the-XZ-Unit-Mounting-the-X-Axis[Section 3.1]: Mounting the X-Axis +
 
-link:wiki/Section-3.2-Assembly-of-the-XZ-Unit-Mounting-the-Z-Axis[Section 3.2]: Mounting the Z-Axis +
+https://github.com/open3dengineering/i3_Berlin/wiki/Section-3.2-Assembly-of-the-XZ-Unit-Mounting-the-Z-Axis[Section 3.2]: Mounting the Z-Axis +
 
-link:wiki/Section-3.3-Assembly-of-the-XZ-Unit-Mounting-the-Timing-Belt[Section 3.3]: Mounting the Timing Belt +
+https://github.com/open3dengineering/i3_Berlin/wiki/Section-3.3-Assembly-of-the-XZ-Unit-Mounting-the-Timing-Belt[Section 3.3]: Mounting the Timing Belt +
 
-link:wiki/Section-4-Wiring[Next Section]
+https://github.com/open3dengineering/i3_Berlin/wiki/Section-4-Wiring[Next Section]

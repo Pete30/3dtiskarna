@@ -1,4 +1,4 @@
-link:wiki/Section-5-Calibration[Next]
+https://github.com/open3dengineering/i3_Berlin/wiki/Section-5-Calibration[Next]
 
 |====
 1.4+|image:media/Section_4_0041.png[width=450]|
@@ -67,4 +67,4 @@ Heatbed Power Connection
 ** Probably the cable runs smoothest if guided between the M10 rod and the smooth rod. 
 ** Experiment with how to fix the cable with zipties for optimal movement. 
 
-link:wiki/Section-5-Calibration[Next]
+https://github.com/open3dengineering/i3_Berlin/wiki/Section-5-Calibration[Next]

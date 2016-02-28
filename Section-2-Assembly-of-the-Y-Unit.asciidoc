@@ -1,4 +1,4 @@
-link:wiki/Section-3-Assembly-of-the-XZ-Unit[Next Section]
+https://github.com/open3dengineering/i3_Berlin/wiki/Section-3-Assembly-of-the-XZ-Unit[Next Section]
 
 
 
@@ -8,14 +8,14 @@ link:wiki/Section-3-Assembly-of-the-XZ-Unit[Next Section]
 
 This is what you will build in this section. It is the Unit that moves the print plat form, also known as the Y-Movement. Below the steps for building it. 
 
-link:wiki/Section-2.1-Assembly-of-the-Y-Unit-Mounting-the-threaded-Rods-and-Power-Supply[Section 2.1]: Mounting the Threaded Rods and Power Supply +
+https://github.com/open3dengineering/i3_Berlin/wiki/Section-2.1-Assembly-of-the-Y-Unit-Mounting-the-threaded-Rods-and-Power-Supply[Section 2.1]: Mounting the Threaded Rods and Power Supply +
 
-link:wiki/Section-2.2-Assembly-of-the-Y-Unit-Mounting-the-Front-and-Back-Plate[Section 2.2]: Mounting the Front- and Back- Plate +
+https://github.com/open3dengineering/i3_Berlin/wiki/Section-2.2-Assembly-of-the-Y-Unit-Mounting-the-Front-and-Back-Plate[Section 2.2]: Mounting the Front- and Back- Plate +
 
-link:wiki/Section-2.3-Assembly-of-the-Y-Unit-Mounting-the-Y-Carriage-and-Timing-Belt[Section 2.3]: Mounting Motor and Y-Carriage +
-
-
+https://github.com/open3dengineering/i3_Berlin/wiki/Section-2.3-Assembly-of-the-Y-Unit-Mounting-the-Y-Carriage-and-Timing-Belt[Section 2.3]: Mounting Motor and Y-Carriage +
 
 
-link:wiki/Section-3-Assembly-of-the-XZ-Unit[Next Section]
+
+
+https://github.com/open3dengineering/i3_Berlin/wiki/Section-3-Assembly-of-the-XZ-Unit[Next Section]
 

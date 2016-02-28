@@ -1,4 +1,4 @@
-link:wiki/Section-4.8-Mounting-the-Heatbed[Next]
+https://github.com/open3dengineering/i3_Berlin/wiki/Section-4.8-Mounting-the-Heatbed[Next]
 
 |====
 |image:media/Section_4_0037.png[width=600]
@@ -122,4 +122,4 @@ image:media/Section_1_0145.png[width=100] +
 
 
 
-link:wiki/Section-4.8-Mounting-the-Heatbed[Next]
+https://github.com/open3dengineering/i3_Berlin/wiki/Section-4.8-Mounting-the-Heatbed[Next]

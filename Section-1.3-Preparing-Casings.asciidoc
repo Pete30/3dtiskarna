@@ -1,6 +1,6 @@
-link:wiki/Section-2-Assembly-of-the-Y-Unit[Next]
+https://github.com/open3dengineering/i3_Berlin/wiki/Section-2-Assembly-of-the-Y-Unit[Next]
 
-link:wiki/Section-1-Introduction[Section Menu]
+https://github.com/open3dengineering/i3_Berlin/wiki/Section-1-Introduction[Section Menu]
 
 |====
 |image:media/Section_6_0008.png[width=600]
@@ -239,4 +239,4 @@ image:media/Section_1_0117.png[width=100] +
 That's it for this section. In the next section you will start mounting the Y-Axis.
 
 
-link:wiki/Section-2-Assembly-of-the-Y-Unit[Next]
+https://github.com/open3dengineering/i3_Berlin/wiki/Section-2-Assembly-of-the-Y-Unit[Next]
