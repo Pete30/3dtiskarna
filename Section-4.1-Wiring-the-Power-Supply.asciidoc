@@ -1,4 +1,4 @@
-link:../Section-4.2-Wiring-the-Z-Unit[Next]
+link:Section-4.2-Wiring-the-Z-Unit[Next]
 
 
 |====
@@ -108,4 +108,4 @@ Power Connection
 ** Mind the polarity of the wires!
  
 
-link:../Section-4.2-Wiring-the-Z-Unit[Next]
+link:Section-4.2-Wiring-the-Z-Unit[Next]

@@ -1,4 +1,4 @@
-link:../Section-1.3-Preparing-Casings[Next]
+link:Section-1.3-Preparing-Casings[Next]
 
 
 .Tools
@@ -324,4 +324,4 @@ Tip: you can enlarge the images by right click and then view the image.
 |=======================
 
 
-link:../Section-1.3-Preparing-Casings[Next]
+link:Section-1.3-Preparing-Casings[Next]
