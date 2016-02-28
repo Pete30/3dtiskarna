@@ -7,16 +7,49 @@ link:Section-4.7-Wiring-the-Extruder[Next]
 |====
 
 
-* Download and install the latest version of https://software.ultimaker.com/[Cura] for your OS.
-* Do not open Cura, or close it again.
-* Copy the preferences.ini and the current_profiles.ini from Software/Cura/CuraProfile/ to the installation folder on your system and replace the originals.
-* If you have windows install the http://reprap.org/wiki/RUMBA#RUMBA_USB_Driver_for_Windows[driver], you can also find this on your SD-Card under Windows-Driver.
+* Download and install Cura from link:http://i3berlin.com/downloads(i3berlin.com)
+
+* Windows user have to take care to install all drivers, the installer contains 3 install packages that follow one an other
+
+* For OSX newer than 10.8 please install th serial driver from link:https://www.i3berlin.com/wp-content/uploads/2015/11/FTDIUSBSerialDriver_v2_3.dmg[here]
+
+
+* Now download the Firmware hex file from link:http://i3berlin.com/downloads(i3berlin.com), selcet single or dual depending on your printer.
+
 * Connect the USB cable
 * Connect the power
 * Open Cura. 
 * From the menu click machine > install custom firmware. 
-* Navigate to the Firmware folder on your SD-Card. 
+
+|====
+|image:staticmedia/cura_1_screenshot.png[width=600]
+|====
+
+* Navigate to the Firmware hex file that you just downloaded.
+
+|====
+|image:staticmedia/cura_2_screenshot.png[width=600]
+|====
+
 * Select the .hex file that corresponds with the 3D printer you're building, single or dual printhead.
-* Now the firmware should upload, and after a minute or so you see a message on the display.
+
+* Press one more time OK when prompted "Cura only supports firmware updates for ATMega2560 based hardware..."
+
+|====
+|image:staticmedia/cura_3_screenshot.png[width=600]
+|====
+
+* Now the firmware upload starts, and after a minute or so you see a message on the display.
+
+|====
+|image:staticmedia/cura_3_screenshot.png[width=600]
+|====
+
+* If you get stuck here, there are sevral reasons depending on your OS.
+** Windows: check the Device Manager if the printer shows up under COM Ports if it is pluged in and turned on, if not make shure to install Cura and wait to install the rumba drivers
+** OSX: make shure that you instaled the FTDIUSBSerialDriver driver dmg and reboot before you continue.
+
+** Linux: make shure you are in user group dialout, on ubuntu edit /etc/apparmor.d/usr.sbin.cupsd and add a line like '/dev/ttyACM* rw,'.
+
 
 link:Section-4.7-Wiring-the-Extruder[Next]
