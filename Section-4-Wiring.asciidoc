@@ -7,8 +7,6 @@ We prefer organized wiring over spaghetti. It is important how you put the cable
 |image:staticmedia/WiringDiagram.png[width=600]
 |====
 
-file:staticmedia/WiringDiagram.svg[open]
-
 |====
 |image:media/Section_4_0047.png[width=600]
 |====
