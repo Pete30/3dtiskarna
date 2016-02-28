@@ -1,12 +1,6 @@
-<<<<<<< Updated upstream
-link:/i3_Berlin/wiki/Section-2.2-Assembly-of-the-Y-Unit-Mounting-the-Front-and-Back-Plate[Next]
+https://github.com/open3dengineering/i3_Berlin/wiki/Section-2.2-Assembly-of-the-Y-Unit-Mounting-the-Front-and-Back-Plate[Next]
 
-link:/i3_Berlin/wiki/Section-2-Assembly-of-the-Y-Unit[Section Menu]
-=======
-link:i3_Berlin/wiki/Section-2.2-Assembly-of-the-Y-Unit-Mounting-the-Front-and-Back-Plate[Next]
-
-link:i3_Berlin/wiki/Section-2-Assembly-of-the-Y-Unit[Section Menu]
->>>>>>> Stashed changes
+https://github.com/open3dengineering/i3_Berlin/wiki/Section-2-Assembly-of-the-Y-Unit[Section Menu]
 
 |====
 1.5+|image:media/Section_2_0002.png[width=450]|
@@ -172,8 +166,4 @@ image:media/Section_1_0032.png[width=100] +
 Great you now completed the first step of the assembly. Go on with the next step.
 
 
-<<<<<<< Updated upstream
-link:/i3_Berlin/wiki/Section-2.2-Assembly-of-the-Y-Unit-Mounting-the-Front-and-Back-Plate[Next]
-=======
-link:i3_Berlin/wiki/Section-2.2-Assembly-of-the-Y-Unit-Mounting-the-Front-and-Back-Plate[Next]
->>>>>>> Stashed changes
+https://github.com/open3dengineering/i3_Berlin/wiki/Section-2.2-Assembly-of-the-Y-Unit-Mounting-the-Front-and-Back-Plate[Next]

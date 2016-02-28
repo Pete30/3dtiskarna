@@ -1,25 +1,11 @@
-<<<<<<< Updated upstream
-link:/i3_Berlin/wiki/Section-6-Printing[Next Section]
+https://github.com/open3dengineering/i3_Berlin/wiki/Section-6-Printing[Next Section]
 
 Finally we are getting the printer alive step by step. While doing this you will also calibrate your printer. Without proper calibration no, or no good printing. Don´t worry, it will be easy. 
 
-link:/i3_Berlin/wiki/Section-5.1-Testing-Functionality[Section 5.1]: Testing if everything works and closing of the last bits of the casing. +
-link:/i3_Berlin/wiki/Section-5.2-Calibrating-the-Y-Axis[Section 5.2]: Adjusting the Y axis to be parallel. +
-link:/i3_Berlin/wiki/Section-5.3-Calibrate-the-X-Axis[Section 5.3]: Calibrating the X-Bridge to be straigt. +
-link:/i3_Berlin/wiki/Section-5.4-Calibrating-the-Print-Platform[Section 5.4]: Calibrating the Print Platform. +
+https://github.com/open3dengineering/i3_Berlin/wiki/Section-5.1-Testing-Functionality[Section 5.1]: Testing if everything works and closing of the last bits of the casing. +
+https://github.com/open3dengineering/i3_Berlin/wiki/Section-5.2-Calibrating-the-Y-Axis[Section 5.2]: Adjusting the Y axis to be parallel. +
+https://github.com/open3dengineering/i3_Berlin/wiki/Section-5.3-Calibrate-the-X-Axis[Section 5.3]: Calibrating the X-Bridge to be straigt. +
+https://github.com/open3dengineering/i3_Berlin/wiki/Section-5.4-Calibrating-the-Print-Platform[Section 5.4]: Calibrating the Print Platform. +
 
 
-link:/i3_Berlin/wiki/Section-6-Printing[Next Section]
-=======
-link:i3_Berlin/wiki/Section-6-Printing[Next Section]
-
-Finally we are getting the printer alive step by step. While doing this you will also calibrate your printer. Without proper calibration no, or no good printing. Don´t worry, it will be easy. 
-
-link:i3_Berlin/wiki/Section-5.1-Testing-Functionality[Section 5.1]: Testing if everything works and closing of the last bits of the casing. +
-link:i3_Berlin/wiki/Section-5.2-Calibrating-the-Y-Axis[Section 5.2]: Adjusting the Y axis to be parallel. +
-link:i3_Berlin/wiki/Section-5.3-Calibrate-the-X-Axis[Section 5.3]: Calibrating the X-Bridge to be straigt. +
-link:i3_Berlin/wiki/Section-5.4-Calibrating-the-Print-Platform[Section 5.4]: Calibrating the Print Platform. +
-
-
-link:i3_Berlin/wiki/Section-6-Printing[Next Section]
->>>>>>> Stashed changes
+https://github.com/open3dengineering/i3_Berlin/wiki/Section-6-Printing[Next Section]

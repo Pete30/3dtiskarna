@@ -1,8 +1,4 @@
-<<<<<<< Updated upstream
-link:/i3_Berlin/wiki/Section-4-Wiring[Next]
-=======
-link:i3_Berlin/wiki/Section-4-Wiring[Next]
->>>>>>> Stashed changes
+https://github.com/open3dengineering/i3_Berlin/wiki/Section-4-Wiring[Next]
 
 |====
 |image:media/Section_5_0019.png[width=600]
@@ -238,8 +234,4 @@ image:media/Section_1_0107.png[width=100] +
 * Mount the fan duct in front of the hotends with the torx screws
 
 
-<<<<<<< Updated upstream
-link:/i3_Berlin/wiki/Section-4-Wiring[Next]
-=======
-link:i3_Berlin/wiki/Section-4-Wiring[Next]
->>>>>>> Stashed changes
+https://github.com/open3dengineering/i3_Berlin/wiki/Section-4-Wiring[Next]
