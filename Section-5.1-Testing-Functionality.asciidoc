@@ -30,7 +30,7 @@ You have almost finished building your printer. Now we will test if all the conn
 * If you are sure that all the endstops work navigate to _>Prepare >Auto Home_ the printer will now home all axes. 
 ** Keep your finger at the power switch when you do this for the first time. If the Z-Axis fails to detect the endstop the motors can potentially destroy some parts of the printer.  
 
-* If everything worked correctly your printer works. Next is some simple mechanical adjustments.
+* If everything worked correctly your printer works. Next install the missing parts from teh electronics case.
 
 
 |====
