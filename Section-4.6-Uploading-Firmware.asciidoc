@@ -42,7 +42,7 @@ link:Section-4.7-Wiring-the-Extruder[Next]
 * Now the firmware upload starts, and after a minute or so you see a message on the display.
 
 |====
-|image:staticmedia/cura_3_screenshot.png[width=600]
+|image:staticmedia/cura_4_screenshot.png[width=600]
 |====
 
 * If you get stuck here, there are sevral reasons depending on your OS.
