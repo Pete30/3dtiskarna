@@ -1,4 +1,4 @@
-link:i3_Berlin/wiki/Section-4.4-Wiring-the-X-Axis[Next]
+link:wiki/Section-4.4-Wiring-the-X-Axis[Next]
 
 
 |====
@@ -42,4 +42,4 @@ Y-Motor connector
 
 
 
-link:i3_Berlin/wiki/Section-4.4-Wiring-the-X-Axis[Next]
+link:wiki/Section-4.4-Wiring-the-X-Axis[Next]

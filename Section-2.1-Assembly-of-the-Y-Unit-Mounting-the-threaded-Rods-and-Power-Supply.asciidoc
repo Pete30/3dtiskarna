@@ -1,6 +1,6 @@
-link:i3_Berlin/wiki/Section-2.2-Assembly-of-the-Y-Unit-Mounting-the-Front-and-Back-Plate[Next]
+link:wiki/Section-2.2-Assembly-of-the-Y-Unit-Mounting-the-Front-and-Back-Plate[Next]
 
-link:i3_Berlin/wiki/Section-2-Assembly-of-the-Y-Unit[Section Menu]
+link:wiki/Section-2-Assembly-of-the-Y-Unit[Section Menu]
 
 |====
 1.5+|image:media/Section_2_0002.png[width=450]|
@@ -166,4 +166,4 @@ image:media/Section_1_0032.png[width=100] +
 Great you now completed the first step of the assembly. Go on with the next step.
 
 
-link:i3_Berlin/wiki/Section-2.2-Assembly-of-the-Y-Unit-Mounting-the-Front-and-Back-Plate[Next]
+link:wiki/Section-2.2-Assembly-of-the-Y-Unit-Mounting-the-Front-and-Back-Plate[Next]

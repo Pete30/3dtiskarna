@@ -1,4 +1,4 @@
-link:i3_Berlin/wiki/Section-4.3-Wiring-the-Y-Unit[Next]
+link:wiki/Section-4.3-Wiring-the-Y-Unit[Next]
 
 |====
 |image:media/Section_4_0016.png[width=600]|
@@ -56,4 +56,4 @@ Z-Motor Connection
 * Connect the endstop and the motor to the Rumba. 
 ** If the motor wires are red grey yellow green put the red wire on top. 
 
-link:i3_Berlin/wiki/Section-4.3-Wiring-the-Y-Unit[Next]
+link:wiki/Section-4.3-Wiring-the-Y-Unit[Next]

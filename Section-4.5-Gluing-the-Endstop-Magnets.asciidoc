@@ -1,4 +1,4 @@
-link:i3_Berlin/wiki/Section-4.6-Uploading-Firmware[Next]
+link:wiki/Section-4.6-Uploading-Firmware[Next]
 
 |====
 |image:media/Section_4_0026.png[width=600]
@@ -54,4 +54,4 @@ link:i3_Berlin/wiki/Section-4.6-Uploading-Firmware[Next]
 
 
 
-link:i3_Berlin/wiki/Section-4.6-Uploading-Firmware[Next]
+link:wiki/Section-4.6-Uploading-Firmware[Next]
