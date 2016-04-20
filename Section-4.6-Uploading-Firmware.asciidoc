@@ -1,7 +1,7 @@
 link:Section-4.7-Wiring-the-Extruder[Next]
 
 * Connect the display. 
-** NOTICE: If the screens tays blue after you uploaded the Firmware. You did connect the two plugs on the back of the Display in the wrong order, please swap them.
+** NOTICE: If the screens stays blue after you uploaded the Firmware. You did connect the two plugs on the back of the Display in the wrong order, please swap them.
 
 |====
 |image:media/Section_4_0048.png[width=600]
