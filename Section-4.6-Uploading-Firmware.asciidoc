@@ -8,9 +8,9 @@ link:Section-4.7-Wiring-the-Extruder[Next]
 |====
 
 
-* Download and install Cura from link:http://i3berlin.com/downloads[i3berlin.com]
+* Download and install Cura from link:http://i3berlin.com/downloads[i3berlin.com].
 
-* Windows user have to take care to install all drivers, the installer contains 3 install packages that follow one an other
+* Windows user have to take care to install all drivers, the installer contains 3 install packages that follow one an other.
 
 * For OSX newer than 10.8 please install th serial driver from link:https://www.i3berlin.com/wp-content/uploads/2015/11/FTDIUSBSerialDriver_v2_3.dmg[here].
 
@@ -41,6 +41,7 @@ link:Section-4.7-Wiring-the-Extruder[Next]
 |====
 
 * Now the firmware upload starts, and after a minute or so you see a message on the display.
+** NOTICE: If not swap the connectors on the back of the LCD display.
 
 |====
 |image:staticmedia/cura_4_screenshot.png[width=600]
