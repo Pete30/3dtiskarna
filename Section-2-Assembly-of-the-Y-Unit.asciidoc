@@ -6,7 +6,7 @@ link:Section-3-Assembly-of-the-XZ-Unit[Next Section]
 |image:media/Section_2_0001.png[width=600]
 |====
 
-This is what you will build in this section. It is the Unit that moves the print platform, also known as the Y-Movement. Below the steps for building it. 
+This is what you will build in this section. It is the Unit that moves the print platform, also known as the Y-Movement. Below are the steps for building it. 
 
 link:Section-2.1-Assembly-of-the-Y-Unit-Mounting-the-threaded-Rods-and-Power-Supply[Section 2.1]: Mounting the Threaded Rods and Power Supply +
 
