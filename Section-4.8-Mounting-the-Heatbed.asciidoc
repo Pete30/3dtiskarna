@@ -16,7 +16,7 @@ image:media/Section_1_0026.png[width=100] +
 |====
 
 * Mount the Mirror Clamp onto the Heatbed with the screws and nuts.
-** The matt side is mounted on top.
+** The matte side is mounted on top.
 * Tighten the nuts until the head of the screws is being pulled smoothly into the material of the mirror clamp. 
 
 ''''
@@ -64,7 +64,7 @@ Heatbed Power Connection
 
 * Connect the heatbed to the RUMBA
 ** Fix the cable in such a way that it does not obstruct the movement of the Y-Axis. 
-** Probably the cable runs smoothest if guided between the M10 rod and the smooth rod. 
+** The cable probably runs smoothest if guided between the M10 rod and the smooth rod. 
 ** Experiment with how to fix the cable with zipties for optimal movement. 
 
 link:Section-5-Calibration[Next]
