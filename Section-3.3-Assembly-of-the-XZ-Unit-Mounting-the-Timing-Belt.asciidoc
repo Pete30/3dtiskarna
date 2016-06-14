@@ -74,8 +74,8 @@ image:media/Section_1_0027.png[width=100] +
 
 |====
 
-* Mount the end-stop and with its cover onto the Z-Endstop holder with the Torx screws.
-** Be carefull to not tighten the screws too much.
+* Mount the end-stop and its cover onto the Z-Endstop holder with the Torx screws.
+** Be careful to not tighten the screws too much.
 * Mount the Z-Endstop assembly onto the backside of the aluminium frame in the most upper position. 
 * Mount the Z-Endstop in the upper position as shown below. 
 
