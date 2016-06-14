@@ -27,7 +27,7 @@ image:media/Section_1_0158.png[width=200] +
 |====
 
 * This is how the print set up should be. 
-* Put the filament holder at a convenient position. Put the filament role on top of the rods. Put the filament through the hole in de holder and through the Teflon pipe. 
+* Put the filament holder at a convenient position. Put the filament roll on top of the rods. Put the filament through the hole in the holder and through the Teflon pipe. 
 
 
 
