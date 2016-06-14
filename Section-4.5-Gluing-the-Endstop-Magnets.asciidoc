@@ -13,7 +13,7 @@ link:Section-4.6-Uploading-Firmware[Next]
 ** You have to look well, because we've hidden the bright light underneath the acrylic cover.
 * Look for the little magnets that came with the endstops.
 * Put one magnet on a little allen key, and move it under the endstop sensor.
-** If the light turns of the orientation is correct
+** If the light turns off the orientation is correct
 ** If nothing happens, turn around the magnet and try again.
 * Mark the orientation.
 
@@ -27,7 +27,7 @@ link:Section-4.6-Uploading-Firmware[Next]
 * Put a drop of 1 second super glue into the magnet slot of the Y-Teeth
 * Put the magnet into the slot in the correct orientation.
 ** Tip: you can easily get the magnet from the allen key with aid of the blue white ceramic screwdriver that came with your RUMBA.
-* Test if the green light turns of if you move the Y-Carriage underneath the end stop. 
+* Test if the green light turns off if you move the Y-Carriage underneath the end stop. 
 
 ''''
 <<<
