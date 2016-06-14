@@ -91,7 +91,7 @@ image:media/Section_1_0036.png[width=100] +
 |====
 
 * Put the dowel through the bearing
-* Place into the slot hole of the aluminium base plate
+* Place it into the slot hole of the aluminium base plate
 * Repeat for dual extruder
 
 ''''
