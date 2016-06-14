@@ -105,7 +105,7 @@ image:media/Section_1_0160.png[width=100] +
 1x How screws are measured
 |====
 
-* Turn the nut for about 5mm onto the screw
+* Turn the nut about 5mm onto the screw
 * Put the Y-Height Adjuster into the Y-FrontLeft part
 * Push the screw and nut into the slots of the plastic parts
 ** Make sure the hexagon of the screw is reachable through the hole in the Height adjuster
