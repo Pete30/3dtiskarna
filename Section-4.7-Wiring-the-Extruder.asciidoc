@@ -13,7 +13,7 @@ link:Section-4.8-Mounting-the-Heatbed[Next]
 ** Label the Active fan as A-Fan
 ** Label the Extruder cooler fans as E-Fan
 * Lead all the wires through the thick braided sleeve. 
-* Fix the braided sleeve onto the extruder unit with a zit tie.
+* Fix the braided sleeve onto the extruder unit with a zip tie.
 
 ''''
 <<<
@@ -23,7 +23,7 @@ link:Section-4.8-Mounting-the-Heatbed[Next]
 |====
 
 * Lead the cable into the RUMBA case through the side inlet. 
-* Connect the wires accordingly to the picture above. Detail pictures will follow below.
+* Connect the wires accordingly to the picture above. Detailed pictures will follow below.
 
 |====
 |image:media/Section_4_0032.png[width=600]
@@ -65,15 +65,15 @@ link:Section-4.8-Mounting-the-Heatbed[Next]
 |image:media/Section_4_0036.png[width=600]
 |====
 
-* Put the extruder unit on a heat resitant surface.
+* Put the extruder unit on a heat resistant surface.
 * Turn on the printer. 
 * In the display menu push the button once and turn it to navigate to Control. 
-* Continue to Temperature and Nozzle 0. And set the temperature to 150 degrees Celcius. Push the button once more to confirm. 
-* The nozzle heats up now (be carefull).
+* Continue to Temperature and Nozzle 0. And set the temperature to 150 degrees Celsius. Push the button once more to confirm. 
+* The nozzle heats up now (be careful).
 ** Note the first time the extruder heats up it produces some burning smells. This is nothing to worry about and also something that will soon go away. 
 * Wait until the temperature is stable for some minutes. Then increase the temperature to 280°C. 
 * Wait until the temperature is reached and carefully fix the nozzle with a 17mm and 8mm wrench as shown above. 
-* Let it cool down. Now test again if the heater still works (sometimes they break) by putting the temperature to 150°C (the nozzle should be colder than 150°C of course). If it heats up than everythings fine. If not you'll have to replace the heat cardridge. 
+* Let it cool down. Now test again if the heater still works (sometimes they break) by putting the temperature to 150°C (the nozzle should be colder than 150°C of course). If it heats up than everything is fine. If not, you'll have to replace the heat cartridge. 
 * Do the same for the right hand extruder. 
 
 ''''
