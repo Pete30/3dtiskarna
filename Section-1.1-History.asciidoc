@@ -32,14 +32,14 @@ The first improvements came from Bowyers own lab in the shape of the Mendel. Thi
 Prusa Mendel
 |====
 
-His name Josef Prusa and redesigned the Mendel into the Prusa-Mendel, a much easier to build machine. And therefore much more accessible. Thousands of people build this open source machine. The software improved, as well as the electronics. A hole RepRap economy started growing and many other people started making their own printer designs. 
+His name Josef Prusa and he redesigned the Mendel into the Prusa-Mendel, a much easier to build machine and therefore much more accessible. Thousands of people built this open source machine. The software improved, as well as the electronics. An entire RepRap economy started growing and many other people started making their own printer designs. 
 
 |====
 |image:http://makezineblog.files.wordpress.com/2012/11/sip4_futureprinter_prusa-02.jpg[width=200] +
 Prusa i3
 |====
 
-In 2012 Prusa did it again and made a complete new 3D printer design, which was even easier to build. He called it the Prusa i3, which stands for “iteration 3” 
+In 2012 Prusa did it again and made a complete new 3D printer design which was even easier to build. He called it the Prusa i3, which stands for “iteration 3”.
 
 We, as Open 3d Engineering started to host workshops in building the Prusa i3 in our hometown Berlin. After 50 printers build we decided to pimp up the Prusa i3, our design is called the i3 Berlin. 
 This is the printer that we will build in this video. We believe that this is an even easier to build desktop 3D printer, and of course it is completely open source. 
@@ -49,6 +49,6 @@ This is the printer that we will build in this video. We believe that this is an
 |====
 
 We, nor Josef Prusa, nor Adrian Bowyer could have done anything without the vibrant RepRap community.  
-We like to end this little history lesson to thank the RepRap community on the IRC and on the reprap.org website. The fantastic blogs of http://richrap.blogspot.de/[RichRap] and http://hydraraptor.blogspot.de/[Nophead]. The editors of the http://reprapmagazine.com/[Reprap magazine]. And most of all the software developers like https://www.youtube.com/watch?v=sr-ASAqxiJg[Kliment Yanev], http://slic3r.org/[Alessandro Ranellucci], http://reprap.org/wiki/Marlin[Erik van der Zalm], the Arduino community and many many others. Thank you!
+We like to end this little history lesson by thanking the RepRap community on the IRC and on the reprap.org website. The fantastic blogs of http://richrap.blogspot.de/[RichRap] and http://hydraraptor.blogspot.de/[Nophead]. The editors of the http://reprapmagazine.com/[Reprap magazine]. And most of all the software developers like https://www.youtube.com/watch?v=sr-ASAqxiJg[Kliment Yanev], http://slic3r.org/[Alessandro Ranellucci], http://reprap.org/wiki/Marlin[Erik van der Zalm], the Arduino community and many many others. Thank you!
 
 link:Section-1.2-Tools-and-Parts[Next]
