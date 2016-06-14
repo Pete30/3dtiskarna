@@ -118,7 +118,7 @@ image:media/Section_1_0145.png[width=100] +
 ** 
 * Put the cable holder onto the X-Motor
 * Join the wires of the X into the braided sleeve. 
-* If wires are entangled too much, reconnect them in such a way that all cables are neatly organized. 
+* If the wires are entangled too much, reconnect them in such a way that all cables are neatly organized. 
 
 
 
