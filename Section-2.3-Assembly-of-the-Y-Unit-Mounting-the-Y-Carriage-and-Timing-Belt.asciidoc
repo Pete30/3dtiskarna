@@ -29,8 +29,8 @@ image:media/Section_1_0041.png[width=100] +
 
 * Mount the Y-Carriage onto the linear bearings with zipties. 
 * Mind the orientation of all parts
-* Cut of the loose of the zipties. 
-* Check if the Y-Carriage can moove smoothly. It should move by gravity if you tilt the Y-Unit.
+* Cut off the loose ends of the zipties. 
+* Check if the Y-Carriage can move smoothly. It should move by gravity if you tilt the Y-Unit.
 
 
 ''''
@@ -77,10 +77,10 @@ image:media/Section_1_0154.png[width=100] +
 
 * Put the belt tensioner on the belt as shown in the picture above.
 * Put the other end of timing belt into the Y-Teeth.
-* The tension should be not to loose nor too tight
+* The tension should not be too loose nor too tight
 ** Too loose: you see the belt moving up and down at the idler when you move the Y-Carriage
 ** Too tight: the belt makes sound like a guitar string. 
-* In all cases it is better to have the belt a bit more tight than too loose. 
+* In all cases it is better to have the belt a bit too tight than too loose. 
 * The belt tensioner should be (almost) straight as shown in the image. 
 
 ''''
@@ -92,7 +92,7 @@ image:media/Section_1_0154.png[width=100] +
 |====
 
 * Put the right hand-flange nut 12,5 centimeters from the backplate
-* Lock it by the M10 nut, which functions as a counternut. 
+* Lock it with the M10 nut, which functions as a counternut. 
 * The left hand flange-nut will be fixed later.
 
 
