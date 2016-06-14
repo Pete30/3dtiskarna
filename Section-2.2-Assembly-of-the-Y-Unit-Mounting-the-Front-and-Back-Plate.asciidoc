@@ -12,7 +12,7 @@ image:media/Section_1_0018.png[width=100] +
 1x GT2 Pulley
 |====
 
-* Mount the pulley onto the motorshaft with the two little set screws. These screws you can find in the little white bag in the box of your RUMBA electronics. 
+* Mount the pulley onto the motorshaft with the two little set screws. You can find these screws in the little white bag in the box of your RUMBA electronics. 
 * The distance between the pulley and the motor is 8mm.
 
 ''''
@@ -99,7 +99,7 @@ image:media/Section_1_0103.png[width=100] +
 
 * Pull the power cable through the hole on the left of the Power Connector Cover.
 * Mount the Power Connector Cover with the plastic screw.
-* The teeth washer should assure electrical contact between the ground wire and the aluminium back plate. 
+* The teeth washer should ensure electrical contact between the ground wire and the aluminium back plate. 
 
 ''''
 <<<
@@ -154,12 +154,12 @@ image:media/Section_1_0033.png[width=100] +
 
 * In general be careful with the aluminium parts and prevent scratches by putting a towel on the table. 
 * Test if the smooth rods can enter the hole in the aluminium plates. The holes in the aluminium plates are very accurate and the smooth rods might have a little bur from cutting them. If they don't fit, carefully file of the edge of the rods a little bit until they all fit.
-* Put the linear bearings to the rods.
-* Put the Y-Motor Holder and the Y-Back Left part to the M10 threaded rods
-* Put the smooth rods to the front plate. 
+* Put the linear bearings on the rods.
+* Put the Y-Motor Holder and the Y-Back Left part on the M10 threaded rods
+* Put the smooth rods on the front plate. 
 ** Mind that the right hand rod has two bearings, the left rod only one.
 ** Make sure that the left hand rod enters the slot hole in the front plate through the slot hole of the Y-Height adjuster. With the height adjuster you will later make the two smooth rods perfectly parallel.
-* Put the Back Plate to the M10 Rods. 
+* Put the Back Plate on the M10 Rods. 
 * Tighten the round nuts and the corresponding M10 nuts in such a way that the back plate is nice and straight.
 
 The result looks like this:
@@ -175,6 +175,6 @@ The result looks like this:
 |image:media/Section_2_0020a.png[width=600]
 |====
 
-* If you are having difficulties to make the unit straight try what happens when you loosen the M4 screw on the Power Supply, make the unit straight and fix it again. 
+* If you are having difficulties making the unit straight, see what happens when you loosen the M4 screw on the Power Supply, make the unit straight and fix it again. 
 
 link:Section-2.3-Assembly-of-the-Y-Unit-Mounting-the-Y-Carriage-and-Timing-Belt[Next]
