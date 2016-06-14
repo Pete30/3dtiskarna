@@ -78,7 +78,7 @@ image:media/Section_1_0113.png[width=100] +
 ** If it goes to stiff, use a handdrill to turn them in. Do not use a hammer. 
 * Place the X-Bridge onto the smooth rods. Mind that the little hook on the X-Idler holder will be on the back side of the aliminium plate. 
 * Carefully turn the ACME rods into the Nuts.
-* Put double sided tape on the shiny side of the X-Motor Cover and the X-Idler cover. Stick them onto the corresponding parts. The matt side should be visible. 
+* Put double sided tape on the shiny side of the X-Motor Cover and the X-Idler cover. Stick them onto the corresponding parts. The matte side should be visible. 
 * Push the Z-Top parts onto the smooth rods.
 ** Mind that the shiny side of the printed parts is on the top. 
 * Mount the top parts with the Torx screws. The long screws are in the outer holes.
