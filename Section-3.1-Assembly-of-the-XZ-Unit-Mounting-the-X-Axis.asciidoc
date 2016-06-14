@@ -66,7 +66,7 @@ image:media/Section_1_0018.png[width=100] +
 |====
 
 * Mount the pulley onto the motor shaft.
-* Fix it with the two little set screws that you can find again in the white bag in your RUMBA electronics box.
+* Fix it with the two little set screws that you can find in the white bag in your RUMBA electronics box.
 * The distance between the motor and the pulley is 4.5mm.
 
 ''''
@@ -109,7 +109,7 @@ image:media/Section_1_0080.png[width=100] +
 
 * Put the linear bearings onto a smooth rod
 * Put the linear bearings with the smooth rod into the pocket for the bearings
-* Put the ACME Nut
+* Put the ACME Nut in position
 * Place the bearing holder
 * Fix it with two M3x16 Torx screws
 * Remove the rod
