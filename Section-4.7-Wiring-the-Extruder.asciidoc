@@ -75,6 +75,8 @@ link:Section-4.8-Mounting-the-Heatbed[Next]
 * Wait until the temperature is reached and carefully fix the nozzle with a 17mm and 8mm wrench as shown above. 
 * Let it cool down. Now test again if the heater still works (sometimes they break) by putting the temperature to 150°C (the nozzle should be colder than 150°C of course). If it heats up than everything is fine. If not, you'll have to replace the heat cartridge. 
 * Do the same for the right hand extruder. 
+* remember the teflon inliner from the section 3.4: Assembling the Extruder? Once you are done unscrew the cooler body from the heatbreak and insert the teflon inliner.
+
 
 ''''
 <<<<
