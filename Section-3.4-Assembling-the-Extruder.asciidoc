@@ -26,7 +26,7 @@ image:media/Section_1_0104.png[width=100] +
 * Make sure that: 
 ** The screw is on the front
 ** The screw touches the flat side of the motor shaft
-** !!! The front of the pulley and the motor shaft are not flush ( we have now motors with a longer shaft picture is not updates), once the extruder is assembled you can use a piece of filament to adjust the pulley to be in the right position. !!!
+** !!! The front of the pulley and the motor shaft are not flush ( we got new motors with a longer shaft picture is not updated yet), once the extruder is assembled you can use a piece of filament to adjust the pulley to be in the right position. !!!
 * For a dual extruder, prepare two motors
 
 ''''
