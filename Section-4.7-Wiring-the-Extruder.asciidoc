@@ -117,7 +117,7 @@ image:media/Section_1_0145.png[width=100] +
 
 * Put the braided sleeve into the opening of the Cable Holder. 
 ** Take care that the length is enough so the extruder can reach easily to the far right. 
-** 
+
 * Put the cable holder onto the X-Motor
 * Join the wires of the X into the braided sleeve. 
 * If the wires are entangled too much, reconnect them in such a way that all cables are neatly organized. 
