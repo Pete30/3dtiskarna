@@ -152,9 +152,10 @@ image:media/Section_1_0095.png[width=100] +
 
 * Screw the Heatbreak and the nozzle into the Heater Block
 ** Handtight is well enough
+** there might be a teflon inliner , do not put it in yet
 * Screw the cooler body onto the Heatbreak
 ** Make it tight, but only hand tight
-** Understand that the heatbreak has a very thin 'neck' which can be damaged with a too high force
+** Understand that the heatbreak has a very thin 'neck' which can be damaged with too high force
 
 ''''
 <<<
@@ -168,7 +169,7 @@ image:media/Section_1_0095.png[width=100] +
 ** Everything is fixed, but only hand tight
 ** Later the nozzle will be fixed while the hotend is heated to 300°C. This is to make sure the nozzle is press fit to the heat break
 ** Fixing the nozzle like this also reduces mechanical load on the heat break while fixing the nozzle
-
+* when you are done unscrew the cooler body from the heatbreak and insert the teflon inliner
 ''''
 <<<
 
